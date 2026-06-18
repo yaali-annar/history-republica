@@ -16,32 +16,40 @@ His advantages:
 - No personal ambition for the crown — a firm republican
 - Coalition-style governance rather than personal rule, making the settlement less dependent on one man
 
-Parliament passed the Navigation Act in October 1651 without Cromwell's personal weight behind it. Lambert had no stake in enforcing it aggressively.
+## The Dutch Pivot, 1641
+
+A decade before Lambert, the Dutch Republic made the strategic decision that shaped its next four centuries.
+
+In 1641, the VOC and the Sultanate of Johor jointly expelled the Portuguese from Malacca. With the Straits secured and a factory established at Batam under Johor's lease, a faction within the Republic made their case: the East Indies position was now sound without a land empire in Java, and Brazil — the WIC's vast and expensive American venture — was bleeding the Republic for diminishing returns.
+
+The argument was not new, but the Malacca victory gave it force. The Dutch had what they needed in Asia. Brazil offered sugar wealth but demanded constant military expenditure to hold against an increasingly resurgent Portuguese Brazil. The faction won.
+
+From the early 1640s, the Dutch began winding down their Brazilian commitment while they still held leverage — negotiating rather than being driven out. The WIC survived, bruised but solvent, and refocused on what it could actually sustain: the northern American colonies.
+
+The result was a Dutch Republic truer to its original nature — a trading and maritime power rather than a land empire — with proper investment flowing into New Netherland for the first time.
+
+## The Navigation Act and the War That Didn't Happen
+
+Parliament passed the Navigation Act on October 9, 1651, weeks after Cromwell's death. Lambert had not sought it and did not want it — but that is how republics work. He did not undo it.
+
+Instead he went to Johan de Witt with honesty: *this is what Parliament passed; I did not want it; let us find terms we can both live with.* De Witt understood immediately, because he governed a republic too.
+
+What followed was the war everyone expected and neither man fought. Lambert and De Witt negotiated around the Act — England secured favorable commercial terms, the Dutch secured their American position, and the Navigation Act remained on the books without becoming a casus belli.
+
+The founding of the sisterhood was not a dramatic rescue or a grand treaty. It was the war that didn't happen, brokered by two pragmatic men who understood the constraints of governing through institutions rather than around them.
 
 ## The Sister Republics
 
-Lambert looked at England's strategic position — Royalists plotting, Charles II in exile with French backing, hostile monarchies on the continent — and saw the Dutch Republic as the obvious ally.
+The relationship that solidified through the 1650s rested on structural compatibility as much as goodwill:
 
-De Witt reached the same conclusion from the Dutch side.
+- **America was already divided.** The Dutch held the northern eastern seaboard, England the southern. There was no disputed territory to fight over, and with the WIC now properly funded, New Netherland developed into genuine settlement rather than a thinly-held trading post.
+- **The Dutch had left Java.** Their Asian presence was commercial and coastal, centered on Batam. Friction with English interests in Asia was minimal.
+- **Charles II remained a threat.** In exile with French backing, he gave both republics reason to stand together against Royalist restoration and Catholic monarchies on the continent.
 
-What made friendship easier:
-- **America was already divided.** The Dutch had colonized the northern eastern seaboard, England the southern portion. The colonial flashpoint that drove the Anglo-Dutch Wars in other circumstances simply did not exist.
-- **The Dutch pulled from Java.** After helping Johor expel the Portuguese from the Straits, the Dutch Republic chose to establish a factory at Batam rather than build a land empire in the archipelago. Their Asian ambitions were commercial and coastal, reducing friction with English interests.
-- **Shared republican identity.** Two Protestant republics surrounded by monarchies had more reason to stand together than to fight over carrying trade.
-
-Lambert negotiated around the Navigation Act rather than letting it ignite a war. The alliance that formed became the foundation of the Maritime League.
-
-## The Dutch in the Straits and America
-
-The Dutch Republic's strategic pivot in this century defined its character for generations:
-
-- A factory at **Batam**, leased from the Sultanate of Johor, gave the Dutch a commercial foothold in the Straits without the burden of territorial empire in the archipelago
-- Expanded colonial presence in **northern America** alongside English colonies to the south
-
-The result was a republic focused on trade and navigation rather than land conquest — closer to the Dutch Republic's original nature than the VOC empire of other histories.
+The Maritime League, formalized in the mid-1650s, gave the relationship institutional form. Its founding ethos was the republics' own: these were states that negotiated rather than commanded.
 
 ## De Witt's Survival
 
-In 1672, Louis XIV moved against the Dutch Republic. Without an English alliance — Charles II never made his secret treaty with France — the invasion faced a far harder road. De Witt managed the defense, the Orange crisis never materialized, and De Witt was not killed.
+In 1672, Louis XIV moved against the Dutch Republic. Without an English alliance — Charles II never existed to sign a secret treaty with France — the invasion faced a far harder road. De Witt managed the defense. The Orange crisis never materialized. De Witt was not killed.
 
-The consequences were long: no William of Orange dominating Dutch politics, and therefore no 1688 invasion of England. Lambert's constitutional settlement was never threatened from that direction.
+The consequences ran long: no William of Orange dominating Dutch politics, and therefore no 1688 invasion of England. Lambert's constitutional settlement endured without that threat. The Sister Republics entered the 18th century intact.
