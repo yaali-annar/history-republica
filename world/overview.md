@@ -35,11 +35,9 @@ Membership required republican government. The League expanded as republics emer
 
 ## The Covenant
 
-The monarchist counterpart: **Iberia, Austria, Prussia**.
+The monarchist counterpart: **Iberia, Austria, Prussia, and Russia**.
 
 The Iberian Empire formed around 1789, partly as a response to the republican tide and partly because the exiled Louis Capet gave the Iberian crowns a Bourbon rallying point.
-
-Russia sat adjacent — powerful, monarchist, but not a formal Covenant member.
 
 ---
 
