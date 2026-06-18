@@ -48,8 +48,20 @@ The relationship that solidified through the 1650s rested on structural compatib
 
 The Maritime League, formalized in the mid-1650s, gave the relationship institutional form. Its founding ethos was the republics' own: these were states that negotiated rather than commanded.
 
-## De Witt's Survival
+## 1672: The Crisis That Forged the League
 
-In 1672, Louis XIV moved against the Dutch Republic. Without an English alliance — Charles II never existed to sign a secret treaty with France — the invasion faced a far harder road. De Witt managed the defense. The Orange crisis never materialized. De Witt was not killed.
+By 1672, Charles II had spent two decades at Louis XIV's court. With no prospect of English restoration, he was dependent on French hospitality — and useful to Louis as a Royalist instrument. When France moved against the Dutch Republic that year, Charles moved with it.
 
-The consequences ran long: no William of Orange dominating Dutch politics, and therefore no 1688 invasion of England. Lambert's constitutional settlement endured without that threat. The Sister Republics entered the 18th century intact.
+The invasion came without an English naval flank — that alliance never existed — and the Dutch held. But the crisis was severe enough to force a decision in London. The argument to Parliament was not about republican solidarity. It was simpler: *if the Dutch fall, Charles II will be on the other side of the Channel with a French army at his back. We are next.*
+
+Parliament voted for intervention. English ships joined the Dutch defense. The French advance stalled. De Witt survived. Charles II's last real play collapsed with the campaign.
+
+The Orange crisis never materialized — there was no disaster to blame De Witt for, no mob, no martyrdom. The Dutch Republic emerged shaken but intact, and William of Orange never became the instrument of its politics.
+
+## The Compact of the Sister Republics
+
+In the aftermath of 1672, both republics sat down knowing what the commercial pact had failed to provide: a mechanism to actually help each other when it mattered.
+
+The upgraded Maritime League, formalized in the years following the crisis, added mutual defense provisions. It was not written in the language of idealism. It was written in the language of the lesson just learned — that a commercial partnership is worthless if one partner can be conquered while the other watches.
+
+Charles II died in French exile some years later, the Royalist cause buried with him. The Sister Republics entered the 18th century with the door closed behind them.
