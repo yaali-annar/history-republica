@@ -36,8 +36,14 @@ When Louis XIV moved against the Dutch Republic in 1672, Lambert made the argume
 
 In the years following, Lambert and De Witt oversaw the upgrading of the Maritime League to include mutual defense provisions — the Compact of the Sister Republics. Lambert regarded it as completing what the 1651 negotiations had begun.
 
-## Later Life and Legacy
+## Retirement, 1679
 
-Lambert retired from active governance in the early 1680s and died in London in 1691. He did not live to see the League of Nations, but the structure he built made it possible.
+Lambert retired from the Lord Protectorship in 1679 upon reaching sixty years of age — as required by the provision he had written into the Instrument of Government himself. The timing was not incidental. The 1672 crisis had passed, the Compact of the Sister Republics was in place, and the Royalist cause had collapsed in English public opinion. The Republic was at its most secure since Worcester.
 
-He is remembered in the English Republic primarily as a constitutional figure — the man who ensured the Commonwealth outlasted its founder. In the broader world, his name is most associated with the founding of the Sister Republics relationship and the pragmatic tradition it established: that partnership, done right, pays better than competition.
+His retirement was the final proof of concept. A Lord Protector who had governed for nearly three decades yielded office not to a son, not to a chosen successor, but to Parliament's deliberation. The mechanism worked. Lambert remained in London for the rest of his life, present but not governing, a living argument against the restoration of anything that had come before.
+
+## Legacy
+
+Lambert died in London in 1691, twelve years after his retirement, having witnessed Parliament select two Lord Protectors through the process he had designed.
+
+He is remembered in the English Republic primarily as a constitutional figure — the man who ensured the Commonwealth outlasted its founder. In the broader world, his name is most associated with the founding of the Sister Republics relationship and the pragmatic tradition it established: that partnership, done right, pays better than competition. He did not live to see the League of Nations, but the structure he built made it possible.

@@ -25,7 +25,13 @@ The property-qualified electorate votes for Parliament. Parliament is bicameral 
 
 The head of government. Unlike Cromwell's tenure, the role under Lambert's settlement is not personal rule dressed in constitutional language — it is genuinely accountable to Parliament. The Lord Protector is confirmed by Parliament, cannot dissolve Parliament arbitrarily, and governs within the Instrument's constraints.
 
-Succession on the death or resignation of a Lord Protector falls to Parliament, which nominates and confirms a successor. There is no hereditary claim.
+Two provisions distinguish Lambert's Instrument from Cromwell's practice:
+
+**No hereditary succession.** The office cannot pass by blood or appointment of the incumbent. This was Lambert's direct response to Cromwell's arrangement with his son — the precise error that nearly destroyed the Republic. The Lord Protector governs; he does not found a dynasty.
+
+**Retirement at sixty.** Drawing on Roman precedent — the cursus honorum's age requirements for office — the Instrument requires the Lord Protector to yield his office upon reaching sixty years of age. Lambert's argument was practical rather than philosophical: a Lord Protector who retires while still capable is present to witness the succession, to steady the transition, and to ensure the mechanism functions before his death removes him from the picture entirely. The Republic's continuance should not rest on any single man's longevity.
+
+Succession falls to Parliament, which nominates and confirms a replacement through open deliberation.
 
 ### The Army
 
