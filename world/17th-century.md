@@ -16,6 +16,30 @@ His advantages:
 - No personal ambition for the crown — a firm republican
 - Coalition-style governance rather than personal rule, making the settlement less dependent on one man
 
+## The Constitutional Settlement, 1652
+
+Lambert's constitutional solution was to treat the Republic's founding as Year Zero.
+
+The Long Parliament had made itself legally undissolvable in 1641 — a defensive measure against Charles I that left Parliament with no mechanism to compel its own renewal and every incentive to avoid one. The Rump, sitting since 1648, had accumulated MPs who had not faced the voters in over a decade. Where Cromwell eventually expelled it by force, Lambert read the situation differently: the Instrument of Government established fixed three-year parliamentary terms, and the Republic had been founded on 30 January 1649. The arithmetic was simple. The Rump's term had run out.
+
+He did not dissolve the Rump. He told it that its term had ended — and used the Navigation Act crisis as the frame. Parliament had nearly driven England to war with its most natural ally; Lambert had spent months repairing the damage; the Republic needed a proper settlement, and the existing Parliament had completed its service. Most members accepted the exit. Lambert offered them dignity rather than expulsion, and the argument was not easy to contest from a position of no military support.
+
+The new Parliament elected under the Instrument's reformed franchise — redistributed away from the rotten boroughs of the south toward the larger counties and towns — met with a mandate the Rump never had. Sir Henry Vane the Younger joined the Council of State as the leading civilian voice, providing republican credibility that Lambert, as a military man, could not supply himself. Their partnership was tense and productive in roughly equal measure.
+
+The fixed term was the Instrument's quiet revolution. No dissolution crisis, no coup required — Parliament simply expired and the republic renewed itself. It was the mechanism that made everything else durable.
+
+## Ireland
+
+The Cromwellian conquest of Ireland — the campaigns of 1649 and 1650 — was complete before Worcester. What Lambert inherited was not a war but a settlement to be made.
+
+Parliament's war creditors were real. Through the 1640s, money for the Irish campaigns had been raised by promising Irish land to the Adventurers — some 1,500 investors who had advanced funds against warrants on confiscated estates — and to soldiers who had not been paid in coin. The debt could not be cancelled; these were Parliament's own financiers.
+
+But the debt required perhaps five million acres. The Rump had been drafting legislation to confiscate eleven million — nearly two thirds of all Irish land — on the principle that every Catholic landowner was presumptively a rebel, with even the neutral and submissive to be transplanted west of the Shannon. The gap between five million and eleven million was not arithmetic. It was the culmination of a decades-long English project to remake Ireland's landowning class by removing the Catholic one wholesale.
+
+Lambert drew the line at active rebellion. Confiscation applied to those who had borne arms against the Commonwealth: their officers, their commanders, the instigators of the 1641 rebellion. Catholics who had stayed neutral or submitted kept their land. The transplantation was not enacted.
+
+The Adventurers were paid. The soldiers received their grants. The accounts were closed. Ireland remained under English governance and would remain so — resentful, subordinate, seeking more than it was given. But it retained an indigenous Catholic gentry with property and therefore a stake in order. The permanent garrison that a fully dispossessed population would have demanded was never required, which was fortunate: the republic of the early 1650s could not have sustained it.
+
 ## The Dutch Pivot, 1641
 
 A decade before Lambert, the Dutch Republic made the strategic decision that shaped its next four centuries.
