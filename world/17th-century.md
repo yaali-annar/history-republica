@@ -75,3 +75,27 @@ The lesson of 1672 was not lost on either republic. The Maritime League had func
 De Witt and Lambert formalized what the commercial pact lacked: a mutual defense clause with teeth. De Witt's contribution to the drafting was characteristically precise — he was not interested in declarations of republican solidarity, but in mechanisms that actually functioned. The Compact that emerged was brief, specific, and durable.
 
 Charles II died in French exile not long after. The Royalist cause went with him. William of Orange, denied the crisis that might have made him, remained a marginal figure in Dutch politics. The Sister Republics entered the 18th century with the door closed behind them.
+
+## The Kings' Wars, 1688–1714
+
+The Nine Years War (1688–1697) and the War of Spanish Succession (1701–1714) were, from the Maritime League's perspective, the same thing: monarchs quarreling over dynastic inheritance. The Palatinate succession, the Spanish throne — these were kings' problems.
+
+The Compact covered direct attacks on League members. Neither war was that. The League watched, maintained its navy, and continued building in America.
+
+Without English naval power and Dutch financial weight, France fared considerably better in both conflicts than in other histories. The Nine Years War ended without exhausting France. The War of Spanish Succession ended without the Treaty of Utrecht — no cession of North American territories, no stripping of French holdings. Bourbon Philip V took the Spanish throne. France kept everything.
+
+Louis XIV took this as confirmation of his judgment. He had already revoked the Edict of Nantes in 1685.
+
+## The Edict of Fontainebleau and Its Consequences
+
+The Edict of Fontainebleau (October 1685) made Protestantism illegal in France. The Huguenots — some 200,000 to 400,000 of them, disproportionately skilled craftsmen, merchants, financiers, soldiers, and intellectuals — left.
+
+Louis XIV was at peak confidence. He had survived the Meuse setback of 1672, won more from the subsequent wars than anyone had expected, and held a continental empire stretching from the Rhine to the Mississippi. He could afford, he believed, to purify his kingdom.
+
+The Huguenots went to the Sister Republics, to Prussia, and to America. New Netherland and the English colonies received French Protestant communities who brought textile skills, watchmaking, financial networks, and publishing expertise. The Dutch Enlightenment publishing industry — which had already been printing books banned in France and smuggling them back across the border — absorbed Huguenot printers and editors and grew substantially.
+
+The asymmetry this accelerated was already present. Republics governed through accountable institutions tend toward less corruption in procurement, more reliable payment of soldiers, and more efficient application of tax revenue to actual military capacity. The Sister Republics had been compounding this advantage quietly for decades — better-equipped ships, better-supplied armies, better-capitalized commercial networks — while the monarchies bled treasure into court favorites and dynastic adventures.
+
+France won its wars and expelled its brains simultaneously. The republics did not need to fight to benefit. They simply absorbed what France discarded.
+
+By 1715, when Louis XIV died, France was the dominant land power in Europe and the master of an intact continental empire in America. It was also hollower than it appeared. The bill would come due in 1789.
