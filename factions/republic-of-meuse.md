@@ -87,6 +87,18 @@ The Republic of Meuse began as a Dutch client state rather than a full League me
 
 ---
 
+## 1672: The Founding Crisis
+
+One year after the Republic's establishment, Louis XIV invaded. He had never accepted that the Walloon lands denied to him after the War of Devolution had become a republic rather than French territory, and he calculated that the Maritime League would not go to war over a state barely in existence.
+
+The Republic of Meuse held — not alone. The Dutch Republic honored its security guarantee, De Witt arguing to the States-General that a guarantee abandoned at first test was worthless. English intervention followed. The French withdrew.
+
+The experience shaped the Republic permanently. The guild-based civic militia, which had seemed a theoretical institution in 1671, had fought. Liège arms manufacturers had supplied the weapons that helped repel the invasion. The Republic had been tested in its first year and survived.
+
+1672 is the Republic of Meuse's founding myth. The year France came, and was sent back.
+
+---
+
 ## Strategic Significance
 
 The Republic of Meuse is small, landlocked, and militarily dependent. What it offers the maritime world is disproportionate to its size:

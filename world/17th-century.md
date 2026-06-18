@@ -52,20 +52,26 @@ The relationship that solidified through the 1650s rested on structural compatib
 
 The Maritime League, formalized in the mid-1650s, gave the relationship institutional form. Its founding ethos was the republics' own: these were states that negotiated rather than commanded.
 
-## 1672: The Crisis That Forged the League
+## 1672: The First War of the League
 
-By 1672, Charles II had spent two decades at Louis XIV's court. With no prospect of English restoration, he was dependent on French hospitality — and useful to Louis as a Royalist instrument. When France moved against the Dutch Republic that year, Charles moved with it.
+Louis XIV had not forgotten the Walloon lands he was denied after the War of Devolution. The Republic of Meuse, barely a year old, landlocked, and militarily inexperienced, looked to him like unfinished business rather than a serious opponent. In 1672 he moved to take it.
 
-The invasion came without an English naval flank — that alliance never existed — and the Dutch held. But the crisis was severe enough to force a decision in London. The argument to Parliament was not about republican solidarity. It was simpler: *if the Dutch fall, Charles II will be on the other side of the Channel with a French army at his back. We are next.*
+The calculation was plausible on its face. Meuse was new, small, and dependent on Dutch goodwill for access to the sea. Louis gambled that the Maritime League would hesitate to go to war over a client state that had not yet even formally joined.
 
-Parliament voted for intervention. English ships joined the Dutch defense. The French advance stalled. De Witt survived. Charles II's last real play collapsed with the campaign.
+He was wrong on every count.
 
-The Orange crisis never materialized — there was no disaster to blame De Witt for, no mob, no martyrdom. The Dutch Republic emerged shaken but intact, and William of Orange never became the instrument of its politics.
+For the Dutch Republic, the security guarantee given to Meuse was not an abstraction. Liège arms equipped Dutch ships and armies — letting France absorb that supply chain was a strategic catastrophe. More immediately, De Witt's argument to the States-General was unanswerable: *we gave our guarantee; if we abandon it now, our word is worthless to anyone, forever.* The Dutch mobilized.
+
+Lambert's argument to the English Parliament was equally direct. Charles II had spent two decades at Louis XIV's court, dependent on French hospitality, useful to Louis as a Royalist instrument. He was in France when the invasion began. *If France wins here, Charles II has a platform on our doorstep. We are next.* Parliament voted for intervention.
+
+The French advance stalled against a coalition it had not expected. Meuse held. Louis withdrew without the territory he came for.
+
+For the Republic of Meuse, 1672 became a founding myth — the year France came and was turned back, in part by weapons made in Liège. For the Maritime League, it was something more significant: the first time the alliance had actually been tested, and had held.
 
 ## The Compact of the Sister Republics
 
-In the aftermath of 1672, both republics sat down knowing what the commercial pact had failed to provide: a mechanism to actually help each other when it mattered.
+The lesson of 1672 was not lost on either republic. The Maritime League had functioned — but only because the Dutch guarantee to Meuse happened to align with Dutch commercial interests, and because Charles II's presence in France happened to align English self-interest with intervention. The League had no mechanism that required either.
 
-The upgraded Maritime League, formalized in the years following the crisis, added mutual defense provisions. It was not written in the language of idealism. It was written in the language of the lesson just learned — that a commercial partnership is worthless if one partner can be conquered while the other watches.
+De Witt and Lambert formalized what the commercial pact lacked: a mutual defense clause with teeth. De Witt's contribution to the drafting was characteristically precise — he was not interested in declarations of republican solidarity, but in mechanisms that actually functioned. The Compact that emerged was brief, specific, and durable.
 
-Charles II died in French exile some years later, the Royalist cause buried with him. The Sister Republics entered the 18th century with the door closed behind them.
+Charles II died in French exile not long after. The Royalist cause went with him. William of Orange, denied the crisis that might have made him, remained a marginal figure in Dutch politics. The Sister Republics entered the 18th century with the door closed behind them.

@@ -28,9 +28,11 @@ The resulting negotiation preserved Dutch commercial interests outside England's
 
 ## The Crisis of 1672
 
-France's invasion of the Dutch Republic in 1672 was severe. Without an English southern flank — the alliance that had proved decisive against the Republic in other histories — it was not insurmountable. De Witt managed the defense. English intervention, secured by Lambert's argument to Parliament that Charles II traveled with the French forces, stalled the campaign.
+Louis XIV's target in 1672 was not the Dutch Republic but the Republic of Meuse — the newly established French-speaking republic that had been carved from the Spanish Netherlands Louis believed were rightfully his. He calculated that the Maritime League would not fight for a client state barely a year old.
 
-De Witt survived. The Orange faction had no disaster to blame him for and no crisis to exploit. William of Orange remained a marginal figure in Dutch politics.
+De Witt's argument to the States-General was brief: the Dutch had given Meuse a security guarantee, Liège arms equipped the Dutch military, and a League that abandoned its own commitments at the first test was no League at all. The Dutch Republic mobilized. English intervention followed on Lambert's argument about Charles II.
+
+The French advance was repelled. De Witt's guarantee held. The Orange faction had no disaster to exploit — no invasion of Dutch soil, no military collapse, no scapegoat. William of Orange remained politically marginal.
 
 ## The Compact of the Sister Republics
 

@@ -32,9 +32,13 @@ The alliance formalized through the 1650s reflected Lambert's strategic reading 
 
 ## The Crisis of 1672
 
-When Louis XIV moved against the Dutch Republic in 1672, Lambert made the argument to Parliament that secured English intervention: Charles II was with the French forces. A French victory over the Dutch was, in effect, a Royalist restoration by another route. Parliament voted for intervention. English ships joined the Dutch defense. The campaign failed. Charles II's cause did not survive it.
+In 1672, Louis XIV invaded the Republic of Meuse — the newly founded French-speaking republic on France's northern border that the Maritime League had helped bring into existence. Louis calculated that the League would not go to war over a client state barely a year old.
 
-In the years following, Lambert and De Witt oversaw the upgrading of the Maritime League to include mutual defense provisions — the Compact of the Sister Republics. Lambert regarded it as completing what the 1651 negotiations had begun.
+Lambert's argument to Parliament was the same one he had been making for twenty years, now made concrete: Charles II was at Louis's court, and France was testing whether the League would defend its own. A French victory over Meuse was a French victory on England's doorstep with a Royalist pretender in tow. Parliament voted for intervention.
+
+English ships and forces joined the Dutch defense of Meuse. The campaign failed. France withdrew. Charles II's cause collapsed with it — the man had marched with the army that attacked England's allies, and no English Parliament would hear of restoration after that.
+
+In the years following, Lambert and De Witt formalized the Compact of the Sister Republics — mutual defense provisions that replaced the informal guarantee that had just been tested. Lambert regarded it as completing what the 1651 negotiations had begun.
 
 ## Retirement, 1679
 
