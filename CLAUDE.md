@@ -7,8 +7,8 @@ A collection of descriptive documents set in an alternate history where England 
 ## Key Historical Divergences
 
 ### England
-- **Oliver Cromwell** dies earlier than in our timeline, from sepsis, before consolidating personal rule
-- **John Lambert** takes up the mantle of the Commonwealth, preventing the Restoration of the monarchy
+- **Oliver Cromwell** is severely wounded at the Battle of Worcester (3 September 1651) and dies from his wounds and sepsis in the weeks that follow — before the Navigation Act is passed on 9 October 1651, and before he can consolidate personal rule
+- **John Lambert** (1619–1691), present at Worcester, assumes leadership of the Commonwealth; he governs through the **Instrument of Government** (which he had already drafted), serving as Lord Protector until his constitutional retirement in 1679
 - England remains a republic through to the present day of the setting
 
 ### Dutch Republic
