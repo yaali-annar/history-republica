@@ -32,6 +32,10 @@ The result was a Dutch Republic truer to its original nature — a trading and m
 
 Parliament passed the Navigation Act on October 9, 1651, weeks after Cromwell's death. Lambert had not sought it and did not want it — but that is how republics work. He did not undo it.
 
+His objection was not sentimental. The year prior, an English diplomatic mission under St John and Strickland had gone to The Hague proposing a full political union and joint conquest of Spanish and Portuguese possessions. The Dutch, having just made peace with Spain and already holding their Asian position, declined — and counter-proposed a free trade agreement instead. Parliament responded with the Navigation Act.
+
+Lambert saw this plainly: the Dutch position had been reasonable, and England had punished them for it out of wounded pride. The free trade agreement they offered was the better deal. The Navigation Act was the price of ambition and embarrassment, and it fell to him to quietly negotiate England back toward the answer the Dutch had already put on the table.
+
 Instead he went to Johan de Witt with honesty: *this is what Parliament passed; I did not want it; let us find terms we can both live with.* De Witt understood immediately, because he governed a republic too.
 
 What followed was the war everyone expected and neither man fought. Lambert and De Witt negotiated around the Act — England secured favorable commercial terms, the Dutch secured their American position, and the Navigation Act remained on the books without becoming a casus belli.
