@@ -25,6 +25,17 @@ Two broad blocs define the alternate world order:
 
 **Nusantara Federation** (modern Malaysia, Indonesia, and Philippines) is an independent federation of sultanates with one republican member (Lanfang Republic). It was never colonized by the Sister Republics, who held only leased trading posts in the Straits. The **Straits Federal District** — the capital of Nusantara — was formed from two such leases: Tumasik (English Republic) and Batam (Dutch Republic).
 
+## Key Canon Dates
+
+### The British Isles
+- **Council of the Isles**: the joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century following Lambert's compact with the Scottish Commonwealth
+- **Ireland**: joined the Council of the Isles in the early 18th century after a diplomatic (not revolutionary) path; the Catholic gentry's property rights under Lambert's land settlement made sustained negotiation possible rather than rebellion
+
+### The Americas
+- **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
+- Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
+- **Nouveau Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
+
 ## The Documents
 
 The project produces in-universe texts: documents, entries, articles, circulars, or other written material that would plausibly exist in this alternate 2000. Details of document types and format conventions will be established in dedicated content branches.
