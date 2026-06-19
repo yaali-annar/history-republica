@@ -104,6 +104,8 @@ France had borrowed to fund both operations and received nothing for the investm
 
 Nouvelle Gaule formally joined the Maritime League in 1783, as the second expedition withdrew. The republic they constituted was the entirety of French America — the St. Lawrence settlements, the Ohio country, Louisiana — speaking French, Catholic, and republican. The Republic of Meuse, already forty years old, had demonstrated that the combination was coherent. Nouvelle Gaule would become the largest republic in the League by territory, and among the thinnest by population — the legacy of the extractive colonial model it had inherited and the vast interior it had not yet settled.
 
+The republic it formed was also less unified than its founding moment suggested. The Catholic settlements along the St. Lawrence — dense, traditional, their rhythms ordered by the Church calendar as much as by the seasons — had little in common with the scattered populations of Louisiana and the Ohio country, shaped by the fur trade and river commerce. Nouvelle Gaule had declared independence as one republic because France had given it no alternative. Whether it remained one was a different question, and one that the passing decades would put with increasing sharpness.
+
 ## The Reckoning, 1783–1789
 
 France in 1783 was the dominant land power in Europe and bankrupt. These two facts were not in contradiction. The wars that had made France dominant had made it insolvent, and the peace they produced offered no remedy.
@@ -131,6 +133,8 @@ Louis Capet was exiled to Spain. The republican factions had enough confidence i
 Maximilien Robespierre was a significant voice in this period, but not the dominant one. The crisis that would have made him dominant did not arrive. What arrived instead was the enormous administrative problem of building a republic from the wreckage of an absolute monarchy — and Robespierre, a lawyer of absolute personal integrity, found his natural terrain. Not the Committee of Public Safety but the Committee of Public Accounts. The Incorruptible became, in this history, a terror to corrupt officials rather than to political opponents. He lived in a small apartment, owned almost nothing, and worked until exhaustion took him. He was buried in the plain wooden coffin he had specified, and left behind a republic that was cleaner for his presence in it.
 
 France joined the Maritime League.
+
+The Republic's relationship with the Church was not accommodating. The anti-clerical currents of the Enlightenment, freed from royal mediation, ran quickly into policy: ecclesiastical property, Church courts, and the religious ordering of public life all came under pressure. The revolution was less bloody than in another history but not less secular. France's republican culture, from its first decade, oriented itself toward reason and civic virtue rather than faith — a direction that would create friction with the League's Catholic republican members, and consequences for the wider republican world that would take decades to fully emerge.
 
 ## The Covenant
 

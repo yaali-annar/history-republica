@@ -18,7 +18,10 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## The Americas
 
-- [ ] **Nouvelle Gaule faction article**: `factions/nouvelle-gaule.md` — covers the full arc from the St. Lawrence to Louisiana. Governance (how do you run a vast, thin republic?), relationship with the Church, relationship with the UoS, economic character.
+- [ ] **Nouvelle Gaule faction article**: `factions/nouvelle-gaule.md` — covers the full arc from the St. Lawrence to Louisiana, up to the Canadia secession. Governance, relationship with the Church (complicated — state is secular but population is Catholic), relationship with the UoS, economic character.
+- [ ] **The Republican Calendar**: France adopts a new Republican Calendar (not the historical French Revolutionary Calendar — details TBD in a future session). This is the trigger for Canadia's secession from Nouvelle Gaule. Calendar design and canon name to be settled separately.
+- [ ] **Canadia secession**: The traditionally Catholic St. Lawrence/Quebec settlements secede from Nouvelle Gaule over the Republican Calendar, forming the republic of **Canadia** and joining the League as a new member. Timing depends on when the Calendar is adopted (early 19th century?). The remaining southern portion keeps the name Nouvelle Gaule (Louisiana, Ohio country).
+- [ ] **Post-secession Nouvelle Gaule**: After Canadia leaves, what remains? Louisiana and the Ohio country — thin population, river economy, New Orleans as its cultural centre. Needs its own faction article eventually.
 - [x] **Spelling decision**: Settled on "Nouvelle Gaule" (grammatically correct French feminine). Updated consistently across all files.
 - [ ] **UoS founding figures**: The Seven Years War joint commander who becomes a founding father figure — needs a name and biography stub. What background (English colonial? Dutch? Mixed)?
 - [ ] **UoS post-Treaty Day political development**: What are the major political factions in the new republic? What does the first generation of politics look like? What are the early flashpoints?
