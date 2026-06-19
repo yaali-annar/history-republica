@@ -32,7 +32,7 @@ The calendar I propose proceeds from a single arithmetical observation: twenty-e
 
 This structure has several properties that recommend it above all alternatives I have examined.
 
-First, the calendar is *perennial*: every date falls on the same day of the week in every year. The first of Germinal is always a Primidi. The merchant, the magistrate, and the laborer may dispense with their almanacs for the purpose of knowing on what day a given date falls.
+First, the calendar is *perennial*: every date falls on the same day of the week in every year. This property holds because both the Jour Républicain and the intercalary day stand outside the septade — they interrupt neither the count of months nor the count of weeks. The first of Germinal is always a Primidi, in a common year and in a leap year alike. The merchant, the magistrate, and the laborer may dispense with their almanacs for the purpose of knowing on what day a given date falls.
 
 Second, the correspondence with the Gregorian calendar is *exact and permanent*. The Republican year opens on the second of March and closes on the twenty-eighth of February. Every date in the Republican calendar corresponds to the same Gregorian date in every year without exception. No historical record requires re-dating. No treaty needs retranscription. The reform is additive, not disruptive.
 
