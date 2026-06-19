@@ -12,9 +12,7 @@ A collection of descriptive documents set in an alternate history where England 
 - England remains a republic through to the present day of the setting
 
 ### Dutch Republic
-- **Johan de Witt** survives — the 1672 mob murder does not occur
-- The Dutch Republic avoids the consolidation of Orangist power that followed his death
-- The Netherlands continues as a republic rather than drifting toward the House of Orange
+- **Johan de Witt** (1625–c.1697) survives the 1672 mob attack; the Orangist consolidation does not occur and the Netherlands remains a republic
 
 ## World Structure
 
@@ -30,19 +28,15 @@ Two broad blocs define the alternate world order:
 ## Key Canon Dates
 
 ### The British Isles
-- **United Nations of Great Britain** (the UN): the joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century following Lambert's compact with the Scottish Commonwealth. England holds permanent chairmanship. Secretariat originally in London. Informally called "the UN"; English members sometimes say "Britain," which the Irish do not.
-- **Scotland at the UN**: Scotland has no permanent executive (the Scottish Commonwealth is governed by parliamentary committee with a rotating Speaker). Scotland sends a **Commissioner to the UN** — a parliamentary delegate elected for a fixed term, holding the mandate for foreign policy and defence at the joint body.
-- **Ireland**: joined the UN in **1700** after a diplomatic (not revolutionary) path; the Catholic gentry's property rights under Lambert's land settlement made sustained negotiation possible rather than rebellion. Ireland entered on the existing asymmetric terms, which Scotland and Ireland together then reformed in 1707.
-- **Act of Union, 1707**: not an incorporating union (as in our timeline) but a constitutional renegotiation triggered by Ireland's accession making a two-party asymmetric arrangement unworkable. The body is renamed the **United Nations of Great Britain and Ireland**. The secretariat moves to **Berwick**; unanimity is required for major decisions (each nation holds a veto); simple majority suffices for routine matters. England retains permanent chairmanship.
-- **Lord Protector succession**: The Instrument of Government limits the Lord Protector to serving until age 60. Lambert resigned at 55 (1674) to test the constitutional succession. **Algernon Sidney** (1623–1683) served as the second Lord Protector (1674–1683, retiring at 60). After Sidney's retirement the office was reformed into the **Chairman of Parliament** — an executive elected by Parliament for a fixed term, with significantly reduced personal authority compared to the Protectorate.
-- **Catholic office restriction**: Under the Commonwealth, Catholics could vote but were barred from holding office. The 1707 Act of Union lifted this bar at the UN level as a concession to Ireland's accession. In practice England and Scotland's Protestant electorates do not return Catholic candidates for generations; only Ireland sends Catholic MPs to the UN.
+- **United Nations of Great Britain** (the UN): joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century. England holds permanent chairmanship. Informally called "the UN"; English members sometimes say "Britain," which the Irish do not.
+- **Scotland at the UN**: no permanent executive; governed by parliamentary committee with a rotating Speaker. Sends a **Commissioner to the UN** for foreign policy and defence.
+- **Ireland**: joined the UN in **1700**; Catholic gentry retained property rights under Lambert's settlement, making negotiation rather than rebellion possible.
+- **Act of Union, 1707**: body renamed the **United Nations of Great Britain and Ireland**; secretariat moves to **Berwick**; unanimity required for major decisions; each nation holds a veto.
+- **Lord Protectors**: Lambert resigned at 55 (1674); **Algernon Sidney** served as second Lord Protector (1674–1683); office then reformed into the **Chairman of Parliament**, elected by Parliament for a fixed term.
+- **Catholics**: could vote but not hold office under the Commonwealth; bar lifted at the UN level by the 1707 Act; in practice only Ireland returns Catholic MPs for generations.
 
 ### The Dutch Republic
-- **Johan de Witt** (1625–c.1697) continues as Grand Pensionary after surviving 1672, representing the "True Freedom" anti-Orangist tradition. He manages early incremental reform of the regent oligarchy before his death around age 72.
-- **Constitutional structure**: The Grand Pensionary is specifically the Pensionary of Holland — not a federal appointment. The States-General gives each province one vote regardless of size or wealth. Holland contributes roughly 58% of federal tax revenue but has the same formal vote as Zeeland.
-- **Flanders and Brabant join, 1668**: following the War of Devolution (1667–1668), Spain cedes the Dutch-speaking southern Netherlands to the Dutch Republic rather than continuing to defend them. Flanders (Ghent, Bruges) and Brabant (Brussels, Antwerp) enter as two new full provinces, bringing the total to **nine provinces**. North Brabant, previously a Generality Land without full provincial status, is elevated simultaneously. The French-speaking Walloon region (Liège, Namur) constitutes itself separately as the **Republic of Meuse** at the same time.
-- **Catholic emancipation in the Dutch Republic**: Flanders and Brabant are solidly Catholic. With two of nine provinces Catholic, barring Catholics from office becomes an internal absurdity rather than a minority question. The Dutch Republic resolves Catholic civic equality in the **1680s** — a generation before England's 1707 resolution, and for structural rather than ideological reasons.
-- **Dutch reform** proceeds city by city, province by province — there is no national parliament to legislate a uniform franchise. The regent oligarchy (self-perpetuating co-opted councils) opens gradually from the late 17th century under pressure from guild-organised artisans and the middling merchant class. By the mid-18th century most cities have moved from pure co-optation to partial property-qualified elections.
+- **Flanders and Brabant** join as two new provinces after the War of Devolution (1668), bringing the total to nine. See `factions/dutch-republic.md` for constitutional development.
 
 ### The Americas
 - **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
