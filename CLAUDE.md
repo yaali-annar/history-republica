@@ -7,8 +7,8 @@ A collection of descriptive documents set in an alternate history where England 
 ## Key Historical Divergences
 
 ### England
-- **Oliver Cromwell** dies earlier than in our timeline, from sepsis, before consolidating personal rule
-- **John Lambert** takes up the mantle of the Commonwealth, preventing the Restoration of the monarchy
+- **Oliver Cromwell** is severely wounded at the Battle of Worcester (3 September 1651) and dies from his wounds and sepsis in the weeks that follow — before the Navigation Act is passed on 9 October 1651, and before he can consolidate personal rule
+- **John Lambert** (1619–1691), present at Worcester, assumes leadership of the Commonwealth; he governs through the **Instrument of Government** (which he had already drafted), serving as Lord Protector until his constitutional retirement in 1679
 - England remains a republic through to the present day of the setting
 
 ### Dutch Republic
@@ -24,6 +24,17 @@ Two broad blocs define the alternate world order:
 - **The Covenant**: the monarchist counterpart — Iberia, Austria, Prussia, and Russia. Collapses in 1905 following Russia's defeat by Japan and the resulting domino effect.
 
 **Nusantara Federation** (modern Malaysia, Indonesia, and Philippines) is an independent federation of sultanates with one republican member (Lanfang Republic). It was never colonized by the Sister Republics, who held only leased trading posts in the Straits. The **Straits Federal District** — the capital of Nusantara — was formed from two such leases: Tumasik (English Republic) and Batam (Dutch Republic).
+
+## Key Canon Dates
+
+### The British Isles
+- **Council of the Isles**: the joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century following Lambert's compact with the Scottish Commonwealth
+- **Ireland**: joined the Council of the Isles in the early 18th century after a diplomatic (not revolutionary) path; the Catholic gentry's property rights under Lambert's land settlement made sustained negotiation possible rather than rebellion
+
+### The Americas
+- **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
+- Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
+- **Nouveau Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
 
 ## The Documents
 
