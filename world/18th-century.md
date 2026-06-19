@@ -1,5 +1,23 @@
 # The 18th Century
 
+## Ireland and the Act of Union, 1700–1707
+
+Ireland's accession to the United Nations of Great Britain came in 1700. The date was chosen deliberately — a century's turn, a statement of intent as much as a negotiating outcome. The petition had been building for decades; the intellectual case had been made and refined through two generations of pamphlets and assembly debates. What finally moved the question from *when* to *now* was a convergence of Irish readiness and English calculation.
+
+The English Parliament spent the better part of the 1690s debating Ireland's status. The incorporating union faction — those who had always preferred a single English-dominated state — pressed their case: a full union, Ireland's assembly folded into Parliament at Westminster, the question settled by absorption. They were defeated by the same coalition that had always blocked them. The Commonwealthmen held that republics did not subjugate other republics. Lambert's legacy faction pointed to the Scottish compact as the model that had worked. The Presbyterian bloc retained its religious solidarity with Protestant Ireland and its wariness of concentrating too much at Westminster. The incorporating faction lost not because their argument was weak but because the arguments against it were stronger.
+
+What Ireland received was membership on the existing terms — the terms England and Scotland had established between themselves. England chaired. England's weight was preponderant. The secretariat sat in London. Ireland had gained entry to the compact; it had not yet changed the compact's character.
+
+Scotland noticed.
+
+Both Scotland and Ireland had been, in their different ways, living with the same asymmetry. Scotland had accepted English dominance as the price of security and trade access when there had been no third party to share the burden. Ireland had accepted it as the price of admission. With two nations now experiencing the same arrangement, the arithmetic of the body had changed. Scotland and Ireland together could not be outvoted. They could not be ignored. And they shared, without needing to coordinate, the same interest in changing the terms.
+
+The Act of Union, 1707, was the result of that pressure — not of English generosity. The secretariat moved from London to Berwick. The body was renamed the United Nations of Great Britain and Ireland. Unanimity was required for major decisions, giving each nation a permanent veto. Simple majority sufficed for routine business. England retained the chairmanship — this was not a revolution, and England's weight remained real — but the constitutional asymmetry that had characterised the compact since its founding was corrected.
+
+The name "Act of Union" was a borrowing from earlier discussions of incorporating union — the term the absorption faction had used for decades. Applying it to a document that entrenched three separate sovereignties rather than merging them into one carried a satisfaction that participants on all sides noted, in their different ways.
+
+---
+
 ## The Colonial Fusion
 
 The line between the English and Dutch colonial territories in North America had always been porous. Trade did not stop at the border; families did not stop at the border. By the early eighteenth century it had ceased to be a meaningful distinction on the ground.
