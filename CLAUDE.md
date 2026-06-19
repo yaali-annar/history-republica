@@ -46,6 +46,8 @@ Two broad blocs define the alternate world order:
 
 The project produces in-universe texts: documents, entries, articles, circulars, or other written material that would plausibly exist in this alternate 2000. Details of document types and format conventions will be established in dedicated content branches.
 
+**All documents are strictly in-world.** The people who write them live in this world and know no other. No document should allude to "other timelines," "our world," counterfactuals, or treat this world's history as a divergence from something else. Do not frame events as "unlike what might have happened" or "avoiding the fate that befell X in other circumstances." Things happened as they happened. Write accordingly.
+
 ## Development Notes
 
 - Broad worldbuilding and historical extrapolation happens in feature branches

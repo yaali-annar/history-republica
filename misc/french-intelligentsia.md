@@ -4,7 +4,7 @@
 
 ---
 
-The French Republic was constituted in 1789 without the machinery of mass political execution that characterized certain revolutionary experiments in other timelines — a fact attributed by historians to the existence, visible to every French reformer, of five working republics against which the argument that self-government leads inevitably to chaos had already been conclusively answered. The generation of French intellectuals who came of age in the final decades of the monarchy were neither destroyed nor driven into exile by a domestic reign of terror. Many went on to shape the republic's institutions, sciences, and letters across careers of unusual length and productivity.
+The French Republic was constituted in 1789 without significant political persecution of its intellectual class — an outcome attributed by historians to the stability that came from reform proceeding under established republican example, and to a tradition of institutional pressure that had been building within French learned societies for several decades. The generation of intellectuals who came of age under the monarchy were able to continue their work under the republic, and many went on to shape its institutions, sciences, and letters across careers of unusual length and productivity.
 
 ---
 
