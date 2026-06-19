@@ -6,7 +6,7 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## The British Isles
 
-- [ ] **Council of the Isles mechanics**: How does the joint body actually work? Who chairs it? How are votes weighted between England and Scotland (and later Ireland)? Is there a permanent secretariat?
+- [x] **Council of the Isles mechanics**: Settled. England holds permanent chairmanship. Secretariat in London (England-Scotland period), moves to Berwick by the Act of Union 1707. Unanimity for major decisions (each nation holds a veto); simple majority for routine matters — the three-party rule adopted when Ireland joined. Scotland and Ireland each send a Commissioner to the Council rather than a head of state.
 - [x] **Scotland's head of state**: Settled. The Scottish Commonwealth has no permanent executive. Parliament is governed by committee, with a rotating **Speaker** who presides but holds no executive power. For the Council of the Isles, Scotland elects a **Commissioner to the Council** — a parliamentary delegate with a fixed term, who holds the mandate for foreign policy and defence at the joint body. Not a head of state; a functional representative.
 - [ ] **Scottish Commonwealth faction article**: `factions/scottish-commonwealth.md` — governance, Kirk's role, relationship with Highland clans, political factions.
 - [ ] **Ireland's accession to the Council of the Isles**: Established as post-1700 but timing and terms not pinned down. The Irish pamphleteer argument (Catholic/republic compatibility, Republic of Meuse precedent) is the intellectual groundwork. When exactly does Ireland join, and what are the terms?
