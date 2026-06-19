@@ -38,7 +38,9 @@ Two broad blocs define the alternate world order:
 ### The Americas
 - **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
 - Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
-- **Nouvelle Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
+- **Nouvelle Gaule** covers the full arc of French America — the St. Lawrence settlements, the Ohio country, and Louisiana down to the Gulf. It goes republican in July 1776, independently of any metropolitan French revolution. After the Canadia secession (see below), the remainder is the southern portion: Louisiana and the Ohio country, with New Orleans as its cultural centre.
+- **Canadia**: the predominantly Catholic, francophone St. Lawrence and Quebec settlements that secede from Nouvelle Gaule in the early 19th century. The immediate trigger is Nouvelle Gaule's adoption of the Republican Calendar, whose "days outside the week" disrupt the unbroken seven-day cycle the Catholic Church requires for Sunday observance. The calendar is the last straw in a longer cultural and religious tension. Canadia joins the League of Nations as a new member after secession. It is francophone — not anglophone.
+- **Saint-Domingue** is this world's Haiti — the French Caribbean island. It adopted the Republican Calendar alongside Nouvelle Gaule.
 
 ## The Documents
 
@@ -54,3 +56,4 @@ The project produces in-universe texts: documents, entries, articles, circulars,
 - `world/` — historical overviews and period documents
 - `people/` — biographical dossiers of key figures
 - `factions/` — profiles of states and organisations
+- `misc/` — reference entries on topics that don't belong to a single faction or period (calendars, institutions, conventions, etc.)
