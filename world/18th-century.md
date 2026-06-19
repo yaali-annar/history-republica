@@ -50,7 +50,7 @@ The founding document abolished the legal status of chattel slavery. It did not 
 
 The Appalachians were the western limit of dense colonial settlement — not by policy but by the reality of what lay beyond them. The colonial assemblies did not choose not to expand; they could not expand, and over time the boundary became a recognized fact.
 
-The consequence was a different quality of relationship with the border nations than prevailed in our timeline. The Haudenosaunee Confederacy, positioned astride the northern Appalachian passes, maintained the Covenant Chain — the treaty alliance that had begun with Dutch traders at Albany in the early seventeenth century. The Union of States inherited this relationship. Nations along the ridge were trading partners and, in wartime, military allies whose knowledge of the mountain terrain was irreplaceable.
+The consequence was a different quality of relationship with the border nations than prevailed in our timeline. The Haudenosaunee Confederacy, positioned astride the northern Appalachian passes, maintained the Chain — the treaty alliance that had begun with Dutch traders at Albany in the early seventeenth century. The Union of States inherited this relationship. Nations along the ridge were trading partners and, in wartime, military allies whose knowledge of the mountain terrain was irreplaceable.
 
 The structural pressure that made Indigenous-colonial conflict irresolvable in our timeline — the unending colonial appetite for western land — was largely absent. This did not produce a harmonious relationship; the colonial period had its wars and its injustices. But the border nations retained their standing as recognized diplomatic entities rather than obstacles to be removed.
 
@@ -70,7 +70,7 @@ The Seven Years War reached North America through the Ohio Valley. France, contr
 
 What the crisis produced was the institution that made Treaty Day possible: a joint colonial command.
 
-In 1754, delegates from the colonial assemblies met at Albany — the city where the Covenant Chain was traditionally renewed — and established a joint defense council. English, Dutch, and mixed colonial forces fought under this unified command, funded by assemblies that taxed themselves, supplied by logistics that decades of commercial integration had already built. Metropolitan regulars arrived from England and the Dutch Republic but were not decisive. The colonies held their frontier.
+In 1754, delegates from the colonial assemblies met at Albany — the city where the Chain was traditionally renewed — and established a joint defense council. English, Dutch, and mixed colonial forces fought under this unified command, funded by assemblies that taxed themselves, supplied by logistics that decades of commercial integration had already built. Metropolitan regulars arrived from England and the Dutch Republic but were not decisive. The colonies held their frontier.
 
 French America's fundamental thinness showed under sustained pressure. French Canada held perhaps 75,000 settlers. The combined colonial population approached two million. The French military position rested on fort garrisons, coureurs de bois, and Indigenous alliances — formidable for raiding and wilderness warfare, inadequate for sustained campaigning against a settled population of that scale. The Indigenous alliances that had been France's military multiplier began to fracture as the demographic reality became undeniable.
 
@@ -104,16 +104,60 @@ France had borrowed to fund both operations and received nothing for the investm
 
 Nouvelle Gaule formally joined the Maritime League in 1783, as the second expedition withdrew. The republic they constituted was the entirety of French America — the St. Lawrence settlements, the Ohio country, Louisiana — speaking French, Catholic, and republican. The Republic of Meuse, already forty years old, had demonstrated that the combination was coherent. Nouvelle Gaule would become the largest republic in the League by territory, and among the thinnest by population — the legacy of the extractive colonial model it had inherited and the vast interior it had not yet settled.
 
-## France, 1789
+## The Reckoning, 1783–1789
 
-The bill arrived in 1789.
+France in 1783 was the dominant land power in Europe and bankrupt. These two facts were not in contradiction. The wars that had made France dominant had made it insolvent, and the peace they produced offered no remedy.
 
-France had won its continental wars and lost its American empire to a movement it could not suppress. Two naval expeditions, conducted across an ocean without resupply against populations that had been quietly armed by their neighbours, consumed the last available credit. The domestic tax system — nobles exempt, clergy exempt, the burden falling on those least able to pay — could not be reformed because the Estates-General that would need to approve the reforms was the same body that had always blocked them.
+Nouvelle Gaule's departure removed the last American revenue source. The treasury was now paying interest on debt that could not be retired, with no prospect of the fiscal reform that might change the picture. The Estates-General — the body that would need to approve meaningful reform — was the same body that had blocked it for a century. The nobility would not tax themselves. The clergy would not surrender their exemptions. The people who controlled the instrument of reform were the people who benefited most from its absence.
 
-Louis XVI's ministers delivered the same verdict in the same terms: the state was bankrupt.
+Necker's published accounts in 1781 had offered a false comfort: the royal finances appeared stable on paper because the pensions and court expenditure that consumed them were omitted from the public ledger. When his successor produced honest numbers in 1786, the gap was visible. What had looked like solvency was structural deficit. What had looked like stability was accumulating collapse.
 
-The revolution that followed was, by the standards of another history, somewhat restrained in its violence. Three working Atlantic republics — the Union of States, Nouvelle Gaule, the English and Dutch republics across the water — provided what revolutionary France in our timeline had lacked: visible proof that the alternative to monarchy functioned. The argument for republican government did not need to be made in the abstract. It could be pointed to. Louis Capet was exiled to Spain rather than executed; the republican factions had enough confidence in their cause not to need a martyr, and enough examples before them not to mistake blood for legitimacy.
+The harvest failures of 1788 made an abstract fiscal crisis concrete. Bread prices rose. Urban workers who already spent most of their wages on bread found the arithmetic of survival turning political faster than the arithmetic of public finance ever had.
+
+Louis XVI convened the Estates-General for the first time since 1614. It was an admission that no other option remained.
+
+## The Revolution and the League, 1789
+
+What made the French Revolution different from the revolution that might have been was the audience.
+
+France went bankrupt and turned republican in full view of five working republics: England, the Dutch Republic, the Republic of Meuse, the Union of States, and Nouvelle Gaule. Every argument that a republic was utopian, that self-government was disorder dressed in theory, that the alternative to monarchy was chaos — all of it had been answered before the Estates-General convened. The answer was visible in every city with a Dutch consul or an English merchant or a Nouvelle Gaule newspaper.
+
+The Maritime League moved quickly. Diplomatic recognition of the National Assembly came from England and the Dutch Republic within months — before the situation had resolved, when recognition still meant something. The Union of States sent observers whose presence was pointed. Meuse, Catholic and republican and prospering for over a century, was the argument that could not be answered on grounds of faith. If Meuse, why not France?
+
+The moderate republican factions had external backing and internal confidence that their counterparts in another history lacked. They did not need to outbid radicals for the mantle of revolutionary purity because the revolution was winning without radicalism. The king was going. The republic was coming. There was no existential military crisis to hand to those who would exploit it.
+
+Louis Capet was exiled to Spain. The republican factions had enough confidence in their cause not to need a martyr, and enough examples before them not to mistake blood for legitimacy.
+
+Maximilien Robespierre was a significant voice in this period, but not the dominant one. The crisis that would have made him dominant did not arrive. What arrived instead was the enormous administrative problem of building a republic from the wreckage of an absolute monarchy — and Robespierre, a lawyer of absolute personal integrity, found his natural terrain. Not the Committee of Public Safety but the Committee of Public Accounts. The Incorruptible became, in this history, a terror to corrupt officials rather than to political opponents. He lived in a small apartment, owned almost nothing, and worked until exhaustion took him. He was buried in the plain wooden coffin he had specified, and left behind a republic that was cleaner for his presence in it.
 
 France joined the Maritime League.
 
-The Iberian crowns, receiving Louis and alarmed by the direction of events, consolidated into the Iberian Empire — giving the monarchist powers their southern anchor and the exiled Bourbons a court in which to wait for reversals that did not come. What had been an informal alignment of monarchies against the republican tide became, through the following decade, the Covenant: Iberia, Austria, Prussia, and Russia finding formal common cause in the same instinct that had always opposed the Sister Republics. Republics, left to flourish, were contagious. The Covenant existed to contain the infection.
+## The Covenant
+
+The Iberian crowns received Louis Capet. The exiled Bourbon in Madrid gave the monarchist powers a rallying point — not a cause they fully believed in, but a flag they could fly.
+
+Austria and Prussia, watching France go republican, understood what it meant for the logic of monarchy. Russia, further east and no less alarmed, reached the same conclusion. What had been an informal alignment — cooperation without commitment, shared instinct without shared doctrine — became explicit. The Covenant was the formalisation of that instinct: a mutual compact between Iberia, Austria, Prussia, and Russia to ensure that what had happened in England in 1649 and France in 1789 did not happen to them. Republics, left to flourish, were contagious. The Covenant existed to contain the infection.
+
+Its internal dynamics were not harmonious. Austria and Prussia had fought each other three times within living memory. Iberia was preoccupied with keeping its colonial empire intact. Russia's interest was geopolitical as much as doctrinal: a buffer of monarchist states between itself and the spreading republic world. The Covenant held together not through shared vision but through shared fear — and through the useful fiction that the exiled Bourbons in Madrid represented a legitimate reversible order rather than a dynasty the world had moved past.
+
+The League of Nations — as the Maritime League was beginning to call itself — was what they feared. Five republics in 1789 had become six. The rate of change was legible to anyone who could count.
+
+## Napoleon and the Italian Question, 1793–1800
+
+Austria's position in northern Italy had never been accepted by the populations under it, and the French Republic's existence immediately changed the calculations of everyone living in its shadow. The Italian states — some nominally independent, some Habsburg dependencies, some old republics in various states of decay — looked at France and saw possibility.
+
+The Maritime League's response to Covenant military pressure on France's eastern borders was to open a second pressure point in northern Italy. If Austria had to watch the Alps as well as the Rhine, it could not concentrate in either direction. The French Republic's army moved into the Italian theatre in the early 1790s, and the officer who made it work was Napoleon Bonaparte.
+
+Napoleon was Corsican-born, which is to say his birthplace had been sold by the Ligurian Republic to France the year before he arrived in it. He was a product of the French military academies and thoroughly French in his republicanism, but he moved through northern Italy as someone who understood the terrain in a way that was not purely military. He had opinions about Italian republics. He stated them with the certainty of someone who had not yet been wrong enough to develop doubt.
+
+His Italian campaign was not conquest. The objective was to pull Austrian attention and resources southward, to support republican movements in the Italian states, and to establish the French Republic as a power the Covenant would have to negotiate with rather than simply outlast. But where other officers saw military objectives, Napoleon also saw political ones. Venice was where the project became personal.
+
+The Republic of Venice was the oldest republic in the world and the most degraded. A thousand years of continuous existence had calcified into governance by a closed oligarchy that had not admitted new families since 1297. It was technically a republic and functionally a private estate belonging to families who had been governing it since the Middle Ages. Napoleon described it in correspondence as a republic that had forgotten what it was for.
+
+His interest in Venice was not military. He had no need to conquer it; Austrian forces had been pushed back from its approaches. What he wanted was to revive it — to open the Great Council, to reconnect the Arsenale and the trading networks to the wider League economy, to make the Serenissima into something that deserved the name republic again. He began saying so to anyone who would listen, including people who found it presumptuous coming from a twenty-four-year-old Corsican general.
+
+The shenanigans were the less tidy aspects of this project. Napoleon made commitments the French government had not authorised, pressured local powers by means that stopped short of invasion but only barely, and occasionally advanced the League's interests in the Italian states faster than the League had sanctioned. The Republic of Meuse and Ireland's representatives in the League councils ensured that his more ambitious impulses toward Rome were firmly redirected — the Papal States were not a project Napoleon would be permitted to pursue, because the political cost to the League's Catholic republican members was not one they were willing to pay.
+
+By the end of the century, northern Italy was a substantially different place than it had been in 1789. Austrian influence had been rolled back from Lombardy. Several Italian states had been reformed. Venice had been opened and was blinking in the unfamiliar light of its own revival, unsure what to do with a Great Council that now admitted families whose names were less than five centuries old. The infrastructure connection Napoleon envisioned — the railway linking Venice to Genoa that would earn him his permanent epithet — was still in the future. But the political architecture it would run through was already taking shape.
+
+Jean-Baptiste Bernadotte fought in Italy in this period, competent and steady beside his more luminous commander, and began developing the reputation for treating enemy prisoners with consideration that would, within a decade, produce an offer from Sweden that neither he nor anyone else anticipated.
