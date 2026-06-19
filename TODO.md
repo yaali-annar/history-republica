@@ -13,14 +13,16 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 - [ ] **Irish pamphleteer figure**: A late 17th century Old English Catholic whose family kept their estate under Lambert's settlement, making the constitutional case for Irish inclusion. Needs a name, biography stub.
 - [ ] **Henry Vane's transatlantic connections**: Mentioned in his stub but underdeveloped. His Massachusetts background and how it shapes his view of colonial governance within the republic.
 - [ ] **Naming collision**: "Covenant Chain" (the Dutch-Haudenosaunee alliance) vs "the Covenant" (the monarchist bloc). Consider whether one needs renaming to avoid confusion in documents.
+- [x] **Lord Protector succession**: Settled. Lambert resigned at 55 (1674); Algernon Sidney served as second Lord Protector (1674–1683); office reformed into Chairman of Parliament thereafter.
+- [ ] **Algernon Sidney biography stub**: `people/algernon-sidney.md` — second Lord Protector, republican theorist, his tenure and what he produces constitutionally.
 
 ---
 
 ## The Americas
 
 - [ ] **Nouvelle Gaule faction article**: `factions/nouvelle-gaule.md` — covers the full arc from the St. Lawrence to Louisiana, up to the Canadia secession. Governance, relationship with the Church (complicated — state is secular but population is Catholic), relationship with the UoS, economic character.
-- [ ] **The Republican Calendar**: France adopts a new Republican Calendar (not the historical French Revolutionary Calendar — details TBD in a future session). This is the trigger for Canadia's secession from Nouvelle Gaule. Calendar design and canon name to be settled separately.
-- [ ] **Canadia secession**: The traditionally Catholic St. Lawrence/Quebec settlements secede from Nouvelle Gaule over the Republican Calendar, forming the republic of **Canadia** and joining the League as a new member. Timing depends on when the Calendar is adopted (early 19th century?). The remaining southern portion keeps the name Nouvelle Gaule (Louisiana, Ohio country).
+- [x] **The Republican Calendar**: Settled. 13 months × 28 days, epoch 1649, Condorcet's design. Treatise written at `misc/republican-calendar.md`. Triggers Canadia's secession.
+- [ ] **Canadia secession**: The traditionally Catholic St. Lawrence/Quebec settlements secede from Nouvelle Gaule over the Republican Calendar, forming the republic of **Canadia** and joining the League as a new member. Timing to be pinned (early 19th century). The remaining southern portion keeps the name Nouvelle Gaule (Louisiana, Ohio country).
 - [ ] **Post-secession Nouvelle Gaule**: After Canadia leaves, what remains? Louisiana and the Ohio country — thin population, river economy, New Orleans as its cultural centre. Needs its own faction article eventually.
 - [x] **Spelling decision**: Settled on "Nouvelle Gaule" (grammatically correct French feminine). Updated consistently across all files.
 - [ ] **UoS founding figures**: The Seven Years War joint commander who becomes a founding father figure — needs a name and biography stub. What background (English colonial? Dutch? Mixed)?
@@ -29,6 +31,17 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 - [ ] **Indentured servitude abolition**: Described as happening state by state in the decades after 1763. When is it complete? Is it a clean process or messy?
 - [ ] **Indigenous treaty partners**: More specific than "Haudenosaunee and border nations." Which nations have formal treaty standing with the UoS? What does the Covenant Chain look like as an institution within the new republic?
 - [ ] **Nouvelle Gaule's internal independence movement**: Who were the leading figures? What was the Church's position (conservative vs progressive factions)? How did Canada and Louisiana coordinate?
+
+---
+
+## The Dutch Republic
+
+- [x] **Nine-province structure**: Settled. Flanders and Brabant join 1668 after the War of Devolution. Nine provinces total.
+- [x] **Rijkspensionaris**: Settled. Established 1684 — one year after Catholic emancipation. Elected by the States-General for a seven-year term. De Witt stays as Holland's Grand Pensionary rather than taking the federal role.
+- [ ] **First Rijkspensionaris**: Who holds the office in 1684? Needs a name and brief profile.
+- [ ] **De Witt biography update**: `people/johan-de-witt.md` needs updating with the 1668 expansion, the Catholic emancipation work, and the Rijkspensionaris project.
+- [ ] **The Scheldt question**: Antwerp vs Amsterdam — with Brabant inside the Republic, the Scheldt closure becomes internal politics. How and when is it resolved?
+- [ ] **Dutch franchise reform arc**: The regent oligarchy opens city by city across the 18th century. Worth a section in the faction article or a dedicated world piece once the broader reform context is settled.
 
 ---
 
@@ -61,8 +74,14 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 ## Existing Articles to Expand
 
 - [ ] **Republic of Meuse** (`factions/republic-of-meuse.md`): Check whether it covers the 1672 war and its aftermath adequately given how much that event features in other articles.
-- [ ] **Johan de Witt** (`people/johan-de-witt.md`): Does it cover his role in the Compact of the Sister Republics and the 1672 crisis adequately?
+- [ ] **Johan de Witt** (`people/johan-de-witt.md`): Needs updating — 1668 expansion, Catholic emancipation 1683, Rijkspensionaris project 1674–1684, death 1697.
 - [ ] **world/overview.md**: May need updating as canon accumulates — check against CLAUDE.md for consistency.
+
+## People Stubs Needed
+
+- [ ] **Algernon Sidney**: `people/algernon-sidney.md` — second Lord Protector (1674–1683), republican theorist.
+- [ ] **Condorcet**: `people/condorcet.md` — calendar creator, mathematician, philosopher, Director of the French Republic.
+- [ ] **Olympe de Gouges**: `people/olympe-de-gouges.md` — feminist writer, exiled to Nouvelle Gaule, architect of the Widow's Registration Act (1801).
 
 ---
 
