@@ -56,7 +56,7 @@ The Highland clans required a different approach. Lambert did not attempt to pac
 
 The Scottish Commonwealth that emerged from these negotiations was not a republic in the English mould. It had no written constitution, no Lord Protector. It governed through Parliament and a Council of State, with the Kirk as the moral authority underwriting the settlement rather than a formal institution of government. Presbyterian in character, Scots in law, sovereign in its domestic affairs — it was its own thing, not a copy of England.
 
-The compact that bound it to England was accordingly limited. The two nations shared a Council of the Isles for foreign policy and defence, a common army with national contingents, a common currency, and free movement of people and trade. Each kept its own Parliament, its own courts, its own established church. England did not impose its religious settlement on Scotland. Scotland did not import its Presbyterianism into England. The founding logic was Lambert's: you do not need to be identical to be allied.
+The compact that bound it to England was accordingly limited. The two nations shared a United Nations of Great Britain for foreign policy and defence, a common army with national contingents, a common currency, and free movement of people and trade. Each kept its own Parliament, its own courts, its own established church. England did not impose its religious settlement on Scotland. Scotland did not import its Presbyterianism into England. The founding logic was Lambert's: you do not need to be identical to be allied.
 
 ## Ireland's Long Road
 

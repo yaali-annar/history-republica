@@ -18,9 +18,11 @@ A collection of descriptive documents set in an alternate history where England 
 
 ## World Structure
 
+> **Orientation note**: The **United Nations of Great Britain and Ireland** ("the UN") is the functional equivalent of what our timeline calls the United Kingdom — the political union of the British Isles nations. Unlike the UK, it is a union of three sovereign republics sharing only foreign policy, defence, and currency; each nation retains its own parliament, courts, and domestic governance. The abbreviation "UN" refers to this body within the British Isles context; the global body in this world is the **League of Nations**.
+
 Two broad blocs define the alternate world order:
 
-- **The Maritime League** (later League of Nations): founded by the **Sister Republics** — England and the Dutch Republic — and expanding over time to include the Union of States, Nouveau Gaule, the Republic of Meuse, France, and others. Only republics were admitted to the original Maritime League; the League of Nations replaced it with broader membership as the world changed.
+- **The Maritime League** (later League of Nations): founded by the **Sister Republics** — England and the Dutch Republic — and expanding over time to include the Union of States, Nouvelle Gaule, the Republic of Meuse, France, and others. Only republics were admitted to the original Maritime League; the League of Nations replaced it with broader membership as the world changed.
 - **The Covenant**: the monarchist counterpart — Iberia, Austria, Prussia, and Russia. Collapses in 1905 following Russia's defeat by Japan and the resulting domino effect.
 
 **Nusantara Federation** (modern Malaysia, Indonesia, and Philippines) is an independent federation of sultanates with one republican member (Lanfang Republic). It was never colonized by the Sister Republics, who held only leased trading posts in the Straits. The **Straits Federal District** — the capital of Nusantara — was formed from two such leases: Tumasik (English Republic) and Batam (Dutch Republic).
@@ -28,13 +30,15 @@ Two broad blocs define the alternate world order:
 ## Key Canon Dates
 
 ### The British Isles
-- **Council of the Isles**: the joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century following Lambert's compact with the Scottish Commonwealth
-- **Ireland**: joined the Council of the Isles in the early 18th century after a diplomatic (not revolutionary) path; the Catholic gentry's property rights under Lambert's land settlement made sustained negotiation possible rather than rebellion
+- **United Nations of Great Britain** (the UN): the joint body for foreign policy, defence, and currency shared by England and Scotland; established mid-17th century following Lambert's compact with the Scottish Commonwealth. England holds permanent chairmanship. Secretariat originally in London. Informally called "the UN"; English members sometimes say "Britain," which the Irish do not.
+- **Scotland at the UN**: Scotland has no permanent executive (the Scottish Commonwealth is governed by parliamentary committee with a rotating Speaker). Scotland sends a **Commissioner to the UN** — a parliamentary delegate elected for a fixed term, holding the mandate for foreign policy and defence at the joint body.
+- **Ireland**: joined the UN in **1700** after a diplomatic (not revolutionary) path; the Catholic gentry's property rights under Lambert's land settlement made sustained negotiation possible rather than rebellion. Ireland entered on the existing asymmetric terms, which Scotland and Ireland together then reformed in 1707.
+- **Act of Union, 1707**: not an incorporating union (as in our timeline) but a constitutional renegotiation triggered by Ireland's accession making a two-party asymmetric arrangement unworkable. The body is renamed the **United Nations of Great Britain and Ireland**. The secretariat moves to **Berwick**; unanimity is required for major decisions (each nation holds a veto); simple majority suffices for routine matters. England retains permanent chairmanship.
 
 ### The Americas
 - **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
 - Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
-- **Nouveau Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
+- **Nouvelle Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
 
 ## The Documents
 

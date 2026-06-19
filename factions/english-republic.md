@@ -55,6 +55,18 @@ Suppressed but not eliminated. Their cause loses credibility steadily as the Rep
 
 ---
 
+## The United Nations of Great Britain and Ireland
+
+The United Nations of Great Britain and Ireland — known informally as "the UN" — is the joint body through which England, Scotland, and Ireland coordinate foreign policy, defence, and currency. It was established in the mid-17th century through Lambert's compact with the Scottish Commonwealth, originally as a bilateral arrangement called the United Nations of Great Britain.
+
+England holds permanent chairmanship of the Council. In the original England-Scotland arrangement, this chairmanship carried real asymmetric weight — England set the terms and Scotland largely followed, the price of the smaller party's security guarantee.
+
+Ireland's accession in the early 18th century changed the constitutional character of the body. A three-party arrangement with permanent English dominance would have left Scotland and Ireland perpetually outvotable. The **Act of Union, 1707** — named with some irony given what that phrase means in another history — renegotiated the settlement: the body was renamed the United Nations of Great Britain and Ireland, the secretariat moved from London to **Berwick**, unanimity was required for major decisions (giving each nation a veto), and simple majority was established for routine business. England retained the chairmanship.
+
+Informally, all three nations call it "the UN." English members occasionally say "Britain" when speaking loosely; Irish members do not.
+
+A persistent faction in the English Parliament has historically favoured an incorporating union — absorbing Scotland and Ireland into a single English-dominated state. This faction commanded significant support in the late 17th century. The Commonwealthmen opposed it on principle (republics do not subjugate republics), Lambert's legacy faction opposed it on pragmatic grounds, and the Presbyterian bloc opposed it out of religious solidarity with the Scottish Kirk. By 1707, the faction had lost the structural argument; it survives as a recurring minority tendency rather than a governing position.
+
 ## Position in the World
 
 A founding member of the Maritime League. The English Republic's colonial presence spans the southern eastern seaboard of America and the Caribbean. Its relationship with the Dutch Republic — formalized through the Maritime League and deepened by the Compact of the Sister Republics — is the central axis of its foreign policy.

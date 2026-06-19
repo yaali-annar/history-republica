@@ -20,14 +20,14 @@ A republican trade and mutual-defence pact that grew outward from the Sister Rep
 | English Republic | founding |
 | Dutch Republic | founding |
 | Union of States | 1763 |
-| Nouveau Gaule | July 1776 |
+| Nouvelle Gaule | July 1776 |
 | France | 1789 |
 
 Membership required republican government. The League expanded as republics emerged, and contracted as a concept when the world outgrew its membership rules.
 
 **Union of States** joined in 1763 — right after the Seven Years War — never needing to revolt. The English Republic's different relationship with its colonies made co-equal membership viable.
 
-**Nouveau Gaule** (French Canada) went republican in July 1776, independently of any metropolitan French revolution.
+**Nouvelle Gaule** (French Canada) went republican in July 1776, independently of any metropolitan French revolution.
 
 **France** joined in 1789 after its revolution. Louis Capet was exiled to Spain rather than executed, making the French Republic's founding less bloody than our Terror.
 
