@@ -7,7 +7,7 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 ## The British Isles
 
 - [x] **the UN (United Nations of Great Britain and Ireland) mechanics**: Settled. England holds permanent chairmanship. Secretariat in London (England-Scotland period), moves to Berwick by the Act of Union 1707. Unanimity for major decisions (each nation holds a veto); simple majority for routine matters — the three-party rule adopted when Ireland joined. Scotland and Ireland each send a Commissioner to the Council rather than a head of state.
-- [x] **Scotland's head of state**: Settled. The Scottish Commonwealth has no permanent executive. Parliament is governed by committee, with a rotating **Speaker** who presides but holds no executive power. For the the UN (United Nations of Great Britain and Ireland), Scotland elects a **Commissioner to the Council** — a parliamentary delegate with a fixed term, who holds the mandate for foreign policy and defence at the joint body. Not a head of state; a functional representative.
+- [x] **Scotland's head of state**: Settled. The Scottish Commonwealth has no permanent executive. Parliament is governed by committee, with a rotating **Speaker** who presides but holds no executive power. For the UN, Scotland elects a **Commissioner to the UN** — a parliamentary delegate with a fixed term, who holds the mandate for foreign policy and defence at the joint body. Not a head of state; a functional representative.
 - [ ] **Scottish Commonwealth faction article**: `factions/scottish-commonwealth.md` — governance, Kirk's role, relationship with Highland clans, political factions.
 - [x] **Ireland's accession to the UN**: Settled. Ireland joins in **1700** (deliberate century-turn date) on the existing asymmetric terms. Scotland and Ireland together then force the 1707 Act of Union renegotiation — unanimity principle, secretariat to Berwick, renamed United Nations of Great Britain and Ireland. Narrative written in world/18th-century.md.
 - [ ] **Irish pamphleteer figure**: A late 17th century Old English Catholic whose family kept their estate under Lambert's settlement, making the constitutional case for Irish inclusion. Needs a name, biography stub.
@@ -35,6 +35,16 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 - [ ] **The Covenant faction article**: `factions/covenant.md` — when does it formally constitute? How does it operate? Internal dynamics (Austria-Prussia rivalry, Iberian weight). How does Russia fit?
 - [ ] **Iberian Empire article**: `factions/iberian-empire.md` — formed around the exiled Bourbons. What does it look like? Iberia united, or Spain + Portugal separately?
 - [ ] **The Covenant's collapse, 1905**: Russia's defeat by Japan as the trigger, domino effect. This needs development — what is the sequence? Which Covenant members fall first?
+
+---
+
+## Nusantara and the Straits
+
+- [ ] **Lanfang Republic and the West Borneo question**: Described as messy — involves two sultanates and three republics. The Dutch Republic, the Lanfang Republic (Chinese Hakka kongsi, founded 1777), and a third republic (TBD) all have interests in West Borneo, alongside two competing sultanate claims. How does Lanfang survive the Dutch colonial pressure that dissolved it in our timeline? How does it end up inside Nusantara as its one republican member?
+- [ ] **Nusantara Federation constitution**: Exact date c. 1850 not yet pinned. What triggers the federation at that moment? Which sultanate takes the lead? How is the rotating chair arranged?
+- [ ] **Philippines in Nusantara**: Liberated from Iberian rule in the 1905 Covenant collapse. When exactly does it join Nusantara? As a single entity or multiple polities?
+- [ ] **The Johor Sultanate's long game**: After the Sultan's 1690 miscalculation, what is Johor's relationship with the Sister Republic leaseholders over the following 150 years? Does the Bendahara dynasty change the Sultanate's approach?
+- [ ] **Straits District governance detail**: The federal commission that governs the District — how is it appointed? Does it have a presiding officer? What is the relationship between the commission and the clearing houses?
 
 ---
 
