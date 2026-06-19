@@ -18,20 +18,20 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## The Americas
 
-- [ ] **Nouveau Gaule faction article**: `factions/nouveau-gaule.md` — covers the full arc from the St. Lawrence to Louisiana. Governance (how do you run a vast, thin republic?), relationship with the Church, relationship with the UoS, economic character.
-- [ ] **Spelling decision**: Current docs use "Nouveau Gaule" (CLAUDE.md, articles). Recent discussion has used "Nouvelle Gaule" (grammatically more correct in French). Pick one and update consistently.
+- [ ] **Nouvelle Gaule faction article**: `factions/nouvelle-gaule.md` — covers the full arc from the St. Lawrence to Louisiana. Governance (how do you run a vast, thin republic?), relationship with the Church, relationship with the UoS, economic character.
+- [x] **Spelling decision**: Settled on "Nouvelle Gaule" (grammatically correct French feminine). Updated consistently across all files.
 - [ ] **UoS founding figures**: The Seven Years War joint commander who becomes a founding father figure — needs a name and biography stub. What background (English colonial? Dutch? Mixed)?
 - [ ] **UoS post-Treaty Day political development**: What are the major political factions in the new republic? What does the first generation of politics look like? What are the early flashpoints?
 - [ ] **Formerly enslaved population**: The founding document abolishes chattel slavery but the franchise is propertied. How does the freed population move toward full citizenship? This is contested and uneven — needs a section in the UoS article or a dedicated piece.
 - [ ] **Indentured servitude abolition**: Described as happening state by state in the decades after 1763. When is it complete? Is it a clean process or messy?
 - [ ] **Indigenous treaty partners**: More specific than "Haudenosaunee and border nations." Which nations have formal treaty standing with the UoS? What does the Covenant Chain look like as an institution within the new republic?
-- [ ] **Nouveau Gaule's internal independence movement**: Who were the leading figures? What was the Church's position (conservative vs progressive factions)? How did Canada and Louisiana coordinate?
+- [ ] **Nouvelle Gaule's internal independence movement**: Who were the leading figures? What was the Church's position (conservative vs progressive factions)? How did Canada and Louisiana coordinate?
 
 ---
 
 ## France and the Covenant
 
-- [ ] **French Republic faction article**: `factions/french-republic.md` — post-1789, character of the revolution, how it differs from our timeline's, key figures, relationship with Nouveau Gaule.
+- [ ] **French Republic faction article**: `factions/french-republic.md` — post-1789, character of the revolution, how it differs from our timeline's, key figures, relationship with Nouvelle Gaule.
 - [ ] **The Covenant faction article**: `factions/covenant.md` — when does it formally constitute? How does it operate? Internal dynamics (Austria-Prussia rivalry, Iberian weight). How does Russia fit?
 - [ ] **Iberian Empire article**: `factions/iberian-empire.md` — formed around the exiled Bourbons. What does it look like? Iberia united, or Spain + Portugal separately?
 - [ ] **The Covenant's collapse, 1905**: Russia's defeat by Japan as the trigger, domino effect. This needs development — what is the sequence? Which Covenant members fall first?
@@ -55,6 +55,6 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## CLAUDE.md Updates
 
-- [ ] After spelling decision on Nouveau/Nouvelle Gaule, update CLAUDE.md accordingly.
+- [x] After spelling decision on Nouvelle Gaule, update CLAUDE.md accordingly. Done.
 - [ ] Consider adding a note on the Covenant's formation (post-1789) to the World Structure section.
 - [ ] Ireland joining Council of the Isles — add timing once settled.

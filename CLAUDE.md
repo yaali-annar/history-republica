@@ -20,7 +20,7 @@ A collection of descriptive documents set in an alternate history where England 
 
 Two broad blocs define the alternate world order:
 
-- **The Maritime League** (later League of Nations): founded by the **Sister Republics** — England and the Dutch Republic — and expanding over time to include the Union of States, Nouveau Gaule, the Republic of Meuse, France, and others. Only republics were admitted to the original Maritime League; the League of Nations replaced it with broader membership as the world changed.
+- **The Maritime League** (later League of Nations): founded by the **Sister Republics** — England and the Dutch Republic — and expanding over time to include the Union of States, Nouvelle Gaule, the Republic of Meuse, France, and others. Only republics were admitted to the original Maritime League; the League of Nations replaced it with broader membership as the world changed.
 - **The Covenant**: the monarchist counterpart — Iberia, Austria, Prussia, and Russia. Collapses in 1905 following Russia's defeat by Japan and the resulting domino effect.
 
 **Nusantara Federation** (modern Malaysia, Indonesia, and Philippines) is an independent federation of sultanates with one republican member (Lanfang Republic). It was never colonized by the Sister Republics, who held only leased trading posts in the Straits. The **Straits Federal District** — the capital of Nusantara — was formed from two such leases: Tumasik (English Republic) and Batam (Dutch Republic).
@@ -34,7 +34,7 @@ Two broad blocs define the alternate world order:
 ### The Americas
 - **Treaty Day, 1763**: the Union of States is constituted and joins the Maritime League as a founding non-European member; independence from England and the Dutch Republic is negotiated peacefully after the Seven Years War rather than won by revolution
 - Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
-- **Nouveau Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
+- **Nouvelle Gaule** (French-speaking Canada) goes republican in July 1776, independently of any metropolitan French revolution
 
 ## The Documents
 

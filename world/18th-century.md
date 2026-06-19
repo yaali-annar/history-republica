@@ -42,9 +42,9 @@ France entered the eighteenth century as the dominant continental power. The War
 
 The pattern of the first half of the eighteenth century was France fighting and winning continental wars at steady expense. The War of Polish Succession (1733–1738) secured French influence in Lorraine at the cost of another campaign. The War of Austrian Succession (1740–1748), fought against the Habsburgs across central Europe, ended in France's favour but left the treasury thinner still. Each war was won; none was cheap; and the domestic tax system — structured to exempt the nobility and Church while the burden fell on the peasantry and urban trades — could not be meaningfully reformed without the consent of those who benefited from it.
 
-Nouveau Gaule was the supplement. The colonies of French America — Canada, the St. Lawrence settlements, the Ohio Valley chain of forts, Louisiana — were taxed to fund wars in which they had no voice. The assemblies of French Canada received the bills for campaigns fought in Silesia and the Rhineland. The councils of Louisiana paid levies for conflicts decided in Versailles by ministers who had never crossed the Atlantic. No representation was offered; none was intended.
+Nouvelle Gaule was the supplement. The colonies of French America — Canada, the St. Lawrence settlements, the Ohio Valley chain of forts, Louisiana — were taxed to fund wars in which they had no voice. The assemblies of French Canada received the bills for campaigns fought in Silesia and the Rhineland. The councils of Louisiana paid levies for conflicts decided in Versailles by ministers who had never crossed the Atlantic. No representation was offered; none was intended.
 
-By the time the Seven Years War began in 1756, Nouveau Gaule had been paying this tithe for more than fifty years. The grievance was not new. It was the texture of colonial life.
+By the time the Seven Years War began in 1756, Nouvelle Gaule had been paying this tithe for more than fifty years. The grievance was not new. It was the texture of colonial life.
 
 ## The Seven Years War in America, 1756–1763
 
@@ -66,25 +66,25 @@ The colonial delegates accepted the condition. The founding document was ratifie
 
 Treaty Day is celebrated in the Union of States with deliberate modesty. There was no battle to commemorate, no revolution to mark. The republic began as a negotiation conducted at a conference table and ratified at picnics. This is considered, in the Union's political culture, not an absence but a point of pride: a republic that could be founded peaceably was already, from the first day, doing something right.
 
-## Nouveau Gaule and the Independence Wars, 1763–1783
+## Nouvelle Gaule and the Independence Wars, 1763–1783
 
 The peace of 1763 settled the American boundary and constituted the Union of States. It did not settle the question of French America.
 
-France retained Nouveau Gaule — the full arc from the St. Lawrence through the Ohio country and down to the Gulf of Mexico — but the war had shown its limits. The colonial taxation that had funded four European wars continued without modification. And across the new Appalachian boundary, the Union of States was watching.
+France retained Nouvelle Gaule — the full arc from the St. Lawrence through the Ohio country and down to the Gulf of Mexico — but the war had shown its limits. The colonial taxation that had funded four European wars continued without modification. And across the new Appalachian boundary, the Union of States was watching.
 
-The Union's support for Nouveau Gaule's independence movement was conducted through commercial channels and trading networks. Arms moved quietly. Republican pamphlets, printed in Philadelphia and New Amsterdam, found their way north and west. Money arrived through the same merchants who had always bridged the border. The Sister Republics had established the model: solidarity does not need to be declared publicly to be practiced effectively. Lambert and De Witt had built the sister relationship through quiet pragmatism. The Union applied the lesson to its neighbour.
+The Union's support for Nouvelle Gaule's independence movement was conducted through commercial channels and trading networks. Arms moved quietly. Republican pamphlets, printed in Philadelphia and New Amsterdam, found their way north and west. Money arrived through the same merchants who had always bridged the border. The Sister Republics had established the model: solidarity does not need to be declared publicly to be practiced effectively. Lambert and De Witt had built the sister relationship through quiet pragmatism. The Union applied the lesson to its neighbour.
 
-The assemblies of Nouveau Gaule had been registering grievances through formal channels for decades — tax receipts disputed, petitions submitted, governors petitioned without result. When the declaration of independence came in July 1776, it was the conclusion of a long argument that Paris had declined to hear, delivered by people who no longer expected Paris to listen.
+The assemblies of Nouvelle Gaule had been registering grievances through formal channels for decades — tax receipts disputed, petitions submitted, governors petitioned without result. When the declaration of independence came in July 1776, it was the conclusion of a long argument that Paris had declined to hear, delivered by people who no longer expected Paris to listen.
 
 France sent its navy. Twice.
 
-The first expedition targeted Canada — the St. Lawrence, Quebec, the administrative and military heart of the northern colony. The Atlantic crossing was the established route, but the Union of States had closed its coast to French military vessels: no landing for water or provisions, no repairs, no resupply at any port between France and the St. Lawrence estuary. Ships arrived in poor condition after weeks at sea without relief. The force that landed found no capital to capture — the colonial assembly had dispersed into the interior — and no army to defeat in open battle. Nouveau Gaule's forces knew the terrain, had been supplied through the Appalachian passes, and had no reason to stand still for a decisive engagement. A Canadian winter consumed what attrition had begun. The expedition withdrew.
+The first expedition targeted Canada — the St. Lawrence, Quebec, the administrative and military heart of the northern colony. The Atlantic crossing was the established route, but the Union of States had closed its coast to French military vessels: no landing for water or provisions, no repairs, no resupply at any port between France and the St. Lawrence estuary. Ships arrived in poor condition after weeks at sea without relief. The force that landed found no capital to capture — the colonial assembly had dispersed into the interior — and no army to defeat in open battle. Nouvelle Gaule's forces knew the terrain, had been supplied through the Appalachian passes, and had no reason to stand still for a decisive engagement. A Canadian winter consumed what attrition had begun. The expedition withdrew.
 
 The second expedition targeted Louisiana — south through the Caribbean and into the Gulf of Mexico. The Union's prohibition on landings pushed the route further, the Caribbean passage was longer, and the vessels that rounded into the Gulf arrived in worse condition than those that had attempted Canada. The Mississippi interior offered the same tactical problem as the St. Lawrence: no clear enemy to defeat, no fixed point whose capture would end the war, and a population that fought and faded and fought again. The expedition held New Orleans briefly and could not hold anything beyond it.
 
 France had borrowed to fund both operations and received nothing for the investment. The treasury was empty.
 
-Nouveau Gaule formally joined the Maritime League in 1783, as the second expedition withdrew. The republic they constituted was the entirety of French America — the St. Lawrence settlements, the Ohio country, Louisiana — speaking French, Catholic, and republican. The Republic of Meuse, already forty years old, had demonstrated that the combination was coherent. Nouveau Gaule would become the largest republic in the League by territory, and among the thinnest by population — the legacy of the extractive colonial model it had inherited and the vast interior it had not yet settled.
+Nouvelle Gaule formally joined the Maritime League in 1783, as the second expedition withdrew. The republic they constituted was the entirety of French America — the St. Lawrence settlements, the Ohio country, Louisiana — speaking French, Catholic, and republican. The Republic of Meuse, already forty years old, had demonstrated that the combination was coherent. Nouvelle Gaule would become the largest republic in the League by territory, and among the thinnest by population — the legacy of the extractive colonial model it had inherited and the vast interior it had not yet settled.
 
 ## France, 1789
 
@@ -94,7 +94,7 @@ France had won its continental wars and lost its American empire to a movement i
 
 Louis XVI's ministers delivered the same verdict in the same terms: the state was bankrupt.
 
-The revolution that followed was, by the standards of another history, somewhat restrained in its violence. Three working Atlantic republics — the Union of States, Nouveau Gaule, the English and Dutch republics across the water — provided what revolutionary France in our timeline had lacked: visible proof that the alternative to monarchy functioned. The argument for republican government did not need to be made in the abstract. It could be pointed to. Louis Capet was exiled to Spain rather than executed; the republican factions had enough confidence in their cause not to need a martyr, and enough examples before them not to mistake blood for legitimacy.
+The revolution that followed was, by the standards of another history, somewhat restrained in its violence. Three working Atlantic republics — the Union of States, Nouvelle Gaule, the English and Dutch republics across the water — provided what revolutionary France in our timeline had lacked: visible proof that the alternative to monarchy functioned. The argument for republican government did not need to be made in the abstract. It could be pointed to. Louis Capet was exiled to Spain rather than executed; the republican factions had enough confidence in their cause not to need a martyr, and enough examples before them not to mistake blood for legitimacy.
 
 France joined the Maritime League.
 
