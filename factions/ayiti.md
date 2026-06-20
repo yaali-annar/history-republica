@@ -54,6 +54,10 @@ In Santo Domingo itself, the occupation forced a question the independence movem
 
 Juan Sánchez Ramírez — a wealthy criollo rancher who had spent years as a loyalist, petitioning Spain for relief and receiving none — led the declaration of the Republic of Santo Domingo in 1792. He had not converted to republican ideology; he had concluded that Spain had effectively abandoned the colony by failing to hold it, and that what remained was to govern what was left. The ideological character of the new republic owed more to the movement's other factions than to Sánchez Ramírez himself. He provided legitimacy; they provided conviction. Spain was left with nothing.
 
+A Spanish naval force arrived off Santo Domingo's coast the following year — sufficient in size to demonstrate that Madrid had responded, insufficient to reconquer a territory whose population wanted none of it. The expedition's commander assessed what he found: a population offering no cooperation, Saint-Domingue forces visibly repositioning to the west, and supply lines that grew more tenuous the longer the ships remained at anchor. He dispatched his assessment to Madrid and withdrew. Spain drew its conclusions about what it could and could not recover, and redirected its Caribbean attention accordingly. Garrisons in Cuba and Puerto Rico were reinforced; colonial assemblies faced tighter restrictions; the lesson Spain took from Hispaniola was about what it could not afford to lose next.
+
+France created its own difficulty from the other direction. The recognition of Saint-Domingue's independence had been a practical concession by a government with more immediate problems, and factions within the French assembly had continued to argue that the colony remained recoverable. A government that listened to these arguments eventually acted on them. The expedition it sent fared no better than Spain's, and cost considerably more in money and prestige. The administration that launched it did not survive the political consequences. Its successor settled the matter by choosing not to revisit it.
+
 ---
 
 ## Toussaint's Later Years
