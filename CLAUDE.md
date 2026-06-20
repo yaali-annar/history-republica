@@ -14,6 +14,12 @@ A collection of descriptive documents set in an alternate history where England 
 ### Dutch Republic
 - **Johan de Witt** (1625–c.1697) survives the 1672 mob attack; the Orangist consolidation does not occur and the Netherlands remains a republic
 
+### France
+- The **Kingdom of France** attempts to reconquer **Nouvelle Gaule** after its 1776 republican declaration; the prolonged and unsuccessful campaign drains the treasury and destabilises the monarchy
+- Facing bankruptcy and internal uprising, **Louis XVI** secretly offers **Saint-Domingue to Spain** in exchange for Spanish military intervention to suppress the republican movement; the offer becomes public during the revolutionary crisis and destroys his remaining support — even moderate monarchists cannot defend a king who tried to sell French territory to a foreign power
+- The French monarchy falls in **1789**; Louis (referred to in republican documents as **Louis Capet**) flees to Spain — the only power he had been negotiating with — rather than facing execution; the royalist movement remains permanently marginal in French politics as a result of the betrayal
+- The new **French Republic** joins the Maritime League and recognises all prior colonial independence declarations; without a figure capable of derailing it, the republic stabilises
+
 ## World Structure
 
 > **Orientation note**: The **United Nations of Great Britain and Ireland** ("the UN") is the functional equivalent of what our timeline calls the United Kingdom — the political union of the British Isles nations. Unlike the UK, it is a union of three sovereign republics sharing only foreign policy, defence, and currency; each nation retains its own parliament, courts, and domestic governance. The abbreviation "UN" refers to this body within the British Isles context; the global body in this world is the **League of Nations**.
@@ -43,7 +49,7 @@ Two broad blocs define the alternate world order:
 - Slavery is **abolished in the Union of States founding document** — a condition of Maritime League membership negotiated at Treaty Day, made possible by the half-freedom traditions of Dutch New Netherland, Quaker abolitionist influence, and the absence of fully entrenched race-based slave codes
 - **Nouvelle Gaule** covers the full arc of French America — the St. Lawrence settlements, the Ohio country, and Louisiana down to the Gulf. It goes republican in July 1776, independently of any metropolitan French revolution. After the Canadia secession (see below), the remainder is the southern portion: Louisiana and the Ohio country, with New Orleans as its cultural centre.
 - **Canadia**: the predominantly Catholic, francophone St. Lawrence and Quebec settlements that secede from Nouvelle Gaule in the early 19th century. The immediate trigger is Nouvelle Gaule's adoption of the Republican Calendar, whose "days outside the week" disrupt the unbroken seven-day cycle the Catholic Church requires for Sunday observance. The calendar is the last straw in a longer cultural and religious tension. Canadia joins the League of Nations as a new member after secession. It is francophone — not anglophone.
-- **Saint-Domingue** is this world's Haiti — the French Caribbean island. It adopted the Republican Calendar alongside Nouvelle Gaule.
+- **Saint-Domingue** (western Hispaniola) declared independence in 1789 alongside the fall of the French monarchy, abolishing slavery at founding; it adopted the Republican Calendar alongside Nouvelle Gaule. Its brief occupation of Spanish **Santo Domingo** touched off a diplomatic crisis that contributed to Iberian unification. Both republics federated as the **Federal Republic of Ayiti** in 1823 and joined the League of Nations in 1907. See `factions/ayiti.md`.
 
 ## The Documents
 
