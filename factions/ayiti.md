@@ -32,7 +32,9 @@ What had occurred was not a single event. The enslaved majority rose in August 1
 
 François-Dominique Toussaint, a freed man of uncommon ability, emerged as the organizing mind of that consolidation. By the end of 1789 he held effective military and political control. The founding document of the Republic of Saint-Domingue, promulgated in January 1790, declared the island sovereign, abolished slavery in all its forms, and established a republican government with Toussaint as Governor.
 
-The new French republic, receiving this news while managing its own upheaval, concluded it had no practical alternative but to recognize what had already happened. The recognition was swift but not gracious.
+The document's preamble named its cause plainly. Before the French Republic existed, before the colonial administration had collapsed, word had reached Saint-Domingue that Louis XVI had offered the island to Spain — a bargaining chip in his negotiations for Spanish troops to suppress the republican uprising in France. The offer had not been accepted in time to matter. But it had been made. The founding generation of Saint-Domingue knew they had declared independence not merely from a distracted metropole but from a king who had tried to sell them to a slaveholding empire to save his throne. The republic they built was not, in their understanding, a departure from France. It was a refusal of what France's king had already decided they were.
+
+The new French republic, receiving news of Saint-Domingue's founding while managing its own upheaval, concluded it had no practical alternative but to recognise what had already happened. The recognition was swift but not gracious.
 
 ---
 

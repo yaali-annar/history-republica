@@ -16,7 +16,8 @@ A collection of descriptive documents set in an alternate history where England 
 
 ### France
 - The **Kingdom of France** attempts to reconquer **Nouvelle Gaule** after its 1776 republican declaration; the prolonged and unsuccessful campaign drains the treasury and destabilises the monarchy
-- The French monarchy falls in **1789**; **Louis XVI** (referred to in republican documents as **Louis Capet**) goes into exile in Spain rather than facing execution; he remains a figurehead for French royalist factions sheltered by Covenant powers
+- Facing bankruptcy and internal uprising, **Louis XVI** secretly offers **Saint-Domingue to Spain** in exchange for Spanish military intervention to suppress the republican movement; the offer becomes public during the revolutionary crisis and destroys his remaining support — even moderate monarchists cannot defend a king who tried to sell French territory to a foreign power
+- The French monarchy falls in **1789**; Louis (referred to in republican documents as **Louis Capet**) flees to Spain — the only power he had been negotiating with — rather than facing execution; the royalist movement remains permanently marginal in French politics as a result of the betrayal
 - The new **French Republic** joins the Maritime League and recognises all prior colonial independence declarations; without a figure capable of derailing it, the republic stabilises
 
 ## World Structure
