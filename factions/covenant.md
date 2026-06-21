@@ -92,9 +92,29 @@ The League's support for Ottoman modernisation was neither disinterested nor unl
 
 ---
 
+## East Asian Associates
+
+The Covenant's reach extended beyond Europe in the latter half of the nineteenth century, primarily through Russia's eastward expansion across Siberia and into Manchuria. Two associate relationships defined the Covenant's eastern presence: Korea and the northern territories of China, both drawn into the Covenant's orbit through a combination of Russian patronage and local monarchist anxiety about the republican tide.
+
+### Korea
+
+Korea's path to Covenant association began with a religious crisis the Joseon court had not anticipated. Canadien Catholic missionaries, arriving in the mid-nineteenth century, taught that divine authority supersedes temporal power — a standard teaching of the faith, delivered without political calculation. The Joseon court heard it as something more precise: an argument that God's sovereignty stands above any earthly king. For an absolute monarchy, this was not a theological abstraction. It was a threat.
+
+The court's suppression of missionary activity and its subsequent diplomatic friction with League-aligned Canadia produced a crisis that clarified where Korea's alignment lay. Russia was the available patron and the logical protector of a monarchy that feared ideological subversion from the League's orbit. Korea became a Covenant associate — formally aligned, recognised, and drawn into Russia's sphere — not from enthusiasm for the Covenant's European agenda but from a specific local fear of what League-aligned ideology was doing to its subjects.
+
+The irony was not lost on later commentators. Canadien missionaries acting from sincere religious conviction had inadvertently delivered Korea to the Covenant. They intended to save souls. The diplomatic consequence was a peninsula that became one of the flashpoints of the 1905 collapse.
+
+### Northern China
+
+Russia's expansion into Manchuria brought the Qing dynasty's northern territories into the Covenant's associative orbit. The arrangement was less a matter of Qing enthusiasm for monarchist solidarity than of geographic and military reality: Russian forces were present in force, and Covenant recognition offered the Qing court in Beijing a framework for managing that presence that was preferable to the alternatives.
+
+The southern coastal regions of China developed in a different direction. Commercially integrated with League trade networks and increasingly exposed to reformist ideas arriving through League commercial channels, southern China aligned with the League's orbit in orientation if not in formal membership. The result was a China divided not by formal partition but by the gravitational pull of two blocs operating simultaneously at opposite ends of a very large country.
+
+---
+
 ## Decline and Collapse
 
-The Covenant's collapse in 1905 was rapid in execution and long in preparation. Russia's military defeat by Japan — a power that had modernised on its own terms outside either bloc's framework — exposed the Russian state's internal contradictions in ways the autocratic system could not contain. The defeat triggered internal revolt; the revolt triggered institutional crisis; the institutional crisis spread alarm through the Covenant's other members, each of whom found their own version of the same vulnerability when they looked inward.
+The Covenant's collapse in 1905 was rapid in execution and long in preparation. Russia's military defeat by Japan — a League-aligned power whose modernisation had been supported by League commercial relationships and whose alignment had been sharpened by watching Korea and northern China drift into the Covenant's orbit — exposed the Russian state's internal contradictions in ways the autocratic system could not contain. The defeat triggered internal revolt; the revolt triggered institutional crisis; the institutional crisis spread alarm through the Covenant's other members, each of whom found their own version of the same vulnerability when they looked inward.
 
 The sequence proceeded over several years. Iberia's colonial revenues, already reduced by the loss of Gran Colombia and the slow erosion of other American holdings, could not sustain the military costs of an extended empire without Russian financial contribution. Prussia and Austria, watching the League's model demonstrate its stability in contrast to the Covenant's disintegration, moved toward constitutional reform — managed transitions that preserved their institutions while abandoning the Covenant's ideological commitments.
 
@@ -104,4 +124,4 @@ The Covenant left no institutional successor. Its members' subsequent histories 
 
 ---
 
-*Development note: The question of East Asian associates — Korea, Manchuria, and the relationship between Russia's Far Eastern expansion and Japan's alignment — is unresolved and should be addressed when Japan's position in the world order is established.*
+*Development note: Japan's internal politics — the balance between imperial authority and the daimyo class — are unresolved and should be addressed when a Japan faction document is drafted. The relationship between those two power centres and Japan's League alignment is likely central to understanding how Japan functioned as a League partner in the late nineteenth and early twentieth centuries.*
