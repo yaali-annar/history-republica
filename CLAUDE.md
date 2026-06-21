@@ -51,6 +51,12 @@ Two broad blocs define the alternate world order:
 - **Canadia**: the predominantly Catholic, francophone St. Lawrence and Quebec settlements that secede from Nouvelle Gaule in the early 19th century. The immediate trigger is Nouvelle Gaule's adoption of the Republican Calendar, whose "days outside the week" disrupt the unbroken seven-day cycle the Catholic Church requires for Sunday observance. The calendar is the last straw in a longer cultural and religious tension. Canadia joins the League of Nations as a new member after secession. It is francophone — not anglophone.
 - **Saint-Domingue** (western Hispaniola) declared independence in 1789 alongside the fall of the French monarchy, abolishing slavery at founding; it adopted the Republican Calendar alongside Nouvelle Gaule. Its brief occupation of Spanish **Santo Domingo** touched off a diplomatic crisis that contributed to Iberian unification. Both republics federated as the **Federal Republic of Ayiti** in 1823 and joined the League of Nations in 1907. See `factions/ayiti.md`.
 
+### Continental Europe
+- **The Covenant** forms 1800–1815 (not 1789); triggered by the **Republic of Rhine** declaring within HRE territory — the infection appearing inside the body, not merely in a neighbouring country. The Iberian Empire had already formed before the Covenant, as a response to the Saint-Domingue/Santo Domingo crisis.
+- **Republic of Rhine**: German-speaking republic emerging from HRE territory in the late 1790s; contiguous with the Republic of Meuse and the Dutch Republic on its western flank; surrounded by Covenant states on three sides; survives under implicit League guarantee.
+- **HRE consolidation**: Austria and Prussia absorb or subordinate smaller HRE members in this period; the coastal trading cities (Hamburg, Bremen, Lübeck and others) negotiate neutrality rather than joining either Prussia or the League — a revival of the Hanseatic logic.
+- **Jean-Baptiste Bernadotte** commands in the Rhine/northern theater — not Italy, which is Napoleon's domain. His humane treatment of Prussian prisoners earns a cross-bloc reputation that leads to an offer from **the Northern Realm** (Sweden/Scandinavia; details in development).
+
 ## The Documents
 
 The project produces in-universe texts: documents, entries, articles, circulars, or other written material that would plausibly exist in this alternate 2000. Details of document types and format conventions will be established in dedicated content branches.
