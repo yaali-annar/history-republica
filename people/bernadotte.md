@@ -50,6 +50,6 @@ The broader diplomatic friction was managed through different channels. The Engl
 
 Bernadotte died in Stockholm in 1845, having served as High Guardian for roughly four decades. He was buried in Sweden at his own instruction, in a Swedish church, without French military honors — a Frenchman who had decided, at some point during four decades in Stockholm, that he had become something else.
 
-Sweden entered the League of Nations as a full member a generation after his death. The constitutional structure he had established — parliamentary selection, no hereditary right, the High Guardian as custodian rather than sovereign — made the transition straightforward. The republic that Sweden became had been rehearsing for it for fifty years.
+Sweden entered the League of Nations as a full member in the early twentieth century, following the dissolution of the Covenant. During the Maritime League era, Sweden had been an associate — in the League's orbit, diplomatically and commercially aligned, but ineligible for full membership under rules that admitted only republics. The constitutional structure Bernadotte had established made the transition straightforward when the League of Nations replaced the Maritime League with broader membership criteria.
 
 He is remembered in France, when he is remembered at all, as a general who left. In Sweden he is remembered as the man who put the crown on the throne and sat next to it, and the country has been deciding for itself ever since.
