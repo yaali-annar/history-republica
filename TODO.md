@@ -83,6 +83,8 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 - [ ] **Algernon Sidney**: `people/algernon-sidney.md` — second Lord Protector (1674–1683), republican theorist.
 - [ ] **Condorcet**: `people/condorcet.md` — calendar creator, mathematician, philosopher, Director of the French Republic.
 - [ ] **Olympe de Gouges**: `people/olympe-de-gouges.md` — feminist writer, exiled to Nouvelle Gaule, architect of the Widow's Registration Act (1801).
+- [ ] **The Anatomist** (name TBD — user to name): French anatomist/physiologist, active c.1800–1840. Published a study on brain-to-body weight ratios arguing no cognitive difference between sexes — the scientific basis the Directoire cited when making the Brevet Civique genderless. Corresponded with de Gouges in Nouvelle Gaule in the 1800s–1810s. Needs: name, biography stub, title of the key study.
+- [ ] **Victor Hugo**: `people/victor-hugo.md` — Deputy, author of *Ce que les Plans Ne Montrent Pas*, champion of regional autonomy following the Reservoir Incident.
 
 ---
 

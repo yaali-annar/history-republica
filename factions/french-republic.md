@@ -56,11 +56,15 @@ The gap was never formally closed. Female suffrage at the national level became 
 
 ### The Brevet Civique
 
-The Directoire's response to the expanded franchise was not to restrict it but to qualify it. The **Loi du Brevet Civique** established that participation in national elections — both voting and standing for election to the National Assembly — required a certificate of civic competence: a demonstrated knowledge of republican history, constitutional law, and public administration.
+The Brevet did not originate with the Directoire. It originated in the streets of Paris, where workers and artisans who owned no property and operated no registered business had spent a generation watching a republic they were excluded from governing. Their demand was direct: the franchise, on the grounds that they were citizens of the republic and had not been consulted on its decisions.
 
-The Brevet's defenders argued that a republic of reason required citizens capable of reasoning about their republic. The exam was not designed to exclude women — it applied equally to all adults — but it applied unequally in practice to rural populations, the poor, and communities where French was not the primary language. A man whose father had farmed the same land for three generations and whose schooling had been conducted in Breton or Occitan faced a different examination than a Parisian notary's son.
+The Directoire's response was to qualify rather than refuse. The **Loi du Brevet Civique** established that any adult who could demonstrate civic competence — republican history, constitutional law, public administration — could vote and stand for national election, regardless of property or sex.
 
-The two-tier result that emerged over decades: the Brevet governs the national franchise; no such requirement applies at the departmental level, where local elections operate on universal suffrage.
+The sex-neutral drafting was deliberate and had a specific justification. A French anatomist whose correspondence with Olympe de Gouges in Nouvelle Gaule had sharpened his thinking had recently published a study on brain-to-body weight ratios, arguing from the data that no cognitive basis existed for treating women as less capable of civic reasoning than men. The Directoire, being the kind of body that responds to studies, cited it. The Brevet was genderless by design, grounded in science rather than principle — which is, again, the most French way it could have happened.
+
+The result genuinely expanded the franchise: propertyless workers could now qualify, and women who had held the vote through the business provision kept it through the Brevet. But the exam was administered in French, and French schooling was not equally distributed. A Parisian artisan who had attended a republican school faced a different examination in practice than a farmer in the interior whose schooling had been conducted in Breton or Occitan. The Directoire had built an open door of uniform width in a building with unequal corridors.
+
+The two-tier result that emerged after the Reservoir Incident: the Brevet governs the national franchise; departmental elections operate on universal suffrage.
 
 ### The Reservoir Incident and Hugo's Campaign
 
