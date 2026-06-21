@@ -164,4 +164,11 @@ The shenanigans were the less tidy aspects of this project. Napoleon made commit
 
 By the end of the century, northern Italy was a substantially different place than it had been in 1789. Austrian influence had been rolled back from Lombardy. Several Italian states had been reformed. Venice had been opened and was blinking in the unfamiliar light of its own revival, unsure what to do with a Great Council that now admitted families whose names were less than five centuries old. The infrastructure connection Napoleon envisioned — the railway linking Venice to Genoa that would earn him his permanent epithet — was still in the future. But the political architecture it would run through was already taking shape.
 
-Jean-Baptiste Bernadotte fought in Italy in this period, competent and steady beside his more luminous commander, and began developing the reputation for treating enemy prisoners with consideration that would, within a decade, produce an offer from Sweden that neither he nor anyone else anticipated.
+
+## Bernadotte and the Northern Theater
+
+While Napoleon was remaking northern Italy, the League's northeastern exposure demanded a different kind of officer. The Rhine — where the newly declared Republic of Rhine sat surrounded on three sides by Covenant territory — was a theater of patience and logistics rather than the swift brilliance of the Italian campaign.
+
+Jean-Baptiste Bernadotte commanded there. He was competent and steady in a role that earned less glory but accumulated something more durable: a reputation that crossed the line between the blocs. His treatment of Prussian prisoners captured along the Rhine — methodical, correct, humane in a way that surprised soldiers whose own commanders rarely extended the same — became the thing he was known for before anyone knew what to do with him. The reports returned home with the men he released. Word of a French Republican general who treated the enemy as men rather than as problems travelled, as such things do, further than his battle dispatches.
+
+Within a decade it would produce an offer from Sweden that neither he nor anyone else anticipated.
