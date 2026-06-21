@@ -8,7 +8,7 @@ Died: Paris, 17 March 1823
 
 ## Overview
 
-Maximilien Robespierre is remembered in the French Republic as the man who made its accounts honest. He ordered no executions. He held no military command. He spent thirty years making corrupt officials wish they had chosen a different career, and he did it from a small apartment in the Rue Saint-Honoré that he occupied from his arrival in Paris until the morning he did not wake up. He owned almost nothing. He worked every day, including Décadi, including Septidi, including the days colleagues sent word that he really ought to rest. He left behind a republic that was measurably cleaner for his presence in it, and a body of public ledgers that his successors spent twenty years discovering they could not falsify.
+Maximilien Robespierre is remembered in the French Republic as the man who made its accounts honest. He ordered no executions. He held no military command. He spent thirty years making corrupt officials wish they had chosen a different career, and he did it from a small apartment in the Rue Saint-Honoré that he occupied from his arrival in Paris until the morning he did not wake up. He owned almost nothing. He worked every day, including Septidi, including the days colleagues sent word that he really ought to rest. He left behind a republic that was measurably cleaner for his presence in it, and a body of public ledgers that his successors spent twenty years discovering they could not falsify.
 
 Government officials hated him. The people did not.
 
@@ -34,7 +34,7 @@ Robespierre's method was not theatrical. He did not make speeches about corrupti
 
 The officials who hated him most were not those he had prosecuted but those who had to prepare their accounts knowing he might read them. The Cour's reach was wide enough that even officials who had never been investigated changed their behavior on the expectation that they might be.
 
-He received visitors at the apartment on Rue Saint-Honoré every day the Cour was not in session, and on several days it was. He answered correspondence personally. He worked on Décadi, the republican rest day, and on Septidi, and on the days colleagues sent word that the republic would survive a brief holiday. It would not have been accurate to say that Robespierre rested on any particular day. It was accurate to say that when he was not reading accounts, he was writing findings about them.
+He received visitors at the apartment on Rue Saint-Honoré every day the Cour was not in session, and on several days it was. He answered correspondence personally. He worked on Septidi — the weekly day of rest — and on the days colleagues sent word that the republic would survive a brief holiday. It would not have been accurate to say that Robespierre rested on any particular day. It was accurate to say that when he was not reading accounts, he was writing findings about them.
 
 ## Napoleon Bonaparte and the Italian Accounts
 
