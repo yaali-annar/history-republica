@@ -1,14 +1,14 @@
 # Napoleon Bonaparte (1769–1836)
 
-**General of the French Republic**  
+**General of the French Republic; Governor of Corsica**  
 Born: Ajaccio, Corsica, 15 August 1769  
-Died: Paris, 5 May 1836
+Died: Ajaccio, Corsica, 5 May 1836
 
 ---
 
 ## Overview
 
-Napoleon Bonaparte is the most capable general the French Republic produced in the generation following its founding, and the most politically restless. He remade northern Italy without conquering it, revived Venice without being Venetian, and spent the later decades of his life as a significant and frequently inconvenient presence in French republican politics. The epithet history gave him — the Builder — came not from his campaigns but from the railway linking Venice to Genoa, which he championed long after his command was over.
+Napoleon Bonaparte is the most capable general the French Republic produced in the generation following its founding, and the most politically restless. He remade northern Italy without conquering it, revived Venice without being Venetian, served as Governor of Corsica in his final years, and died with notes on Sardinian constitutional reform still on his desk. The epithet history gave him — the Builder — came not from his campaigns but from the railway linking Venice to Genoa, which he championed long after his command was over.
 
 ## Origins
 
@@ -54,8 +54,24 @@ His public objection to Jean-Baptiste Bernadotte's acceptance of the Swedish Hig
 
 He did not, in private correspondence, dispute Robespierre's findings.
 
+## Governor of Corsica
+
+In the early 1830s, Napoleon accepted the appointment as Governor of Corsica. The French Republic's motives were partly administrative — Corsica required a competent administrator with local credibility — and partly the relief of removing him from Parisian politics, where his interventions had the quality of a man unable to stop correcting people who had not asked. Napoleon's motives are less well documented. He had been born in Ajaccio. Corsica had been French for sixty years before he arrived in it, sold by the Ligurian Republic, which had governed it poorly and found the sale convenient. He did not write at length about returning.
+
+He governed Corsica with the same methodical competence he had brought to every undertaking, and with somewhat less interference in affairs that were not strictly his concern than Parisian colleagues had learned to expect. The interference he did practice was directed almost entirely at Sardinia.
+
+## Sardinia
+
+Sardinia was, in Napoleon's view, a problem waiting to be solved by someone with sufficient interest in solving it. The island sat fifty miles south of Corsica, nominally under the House of Savoy whose mainland territories were being reshaped by the same Italian republican forces Napoleon had helped set in motion thirty years earlier. Sardinia itself had been largely bypassed by those forces — geographically isolated, administratively neglected, its population neither consulted nor particularly interested in the arrangements being made in their name on the mainland.
+
+Napoleon began hosting Sardinian reformers in Ajaccio. He wrote pamphlets — under his own name, which he saw no reason to conceal — on the question of Sardinian self-governance. He corresponded with Venetian republicans about what the Great Council's revival had required and what might transfer to different conditions. He annotated histories of Sardinian civic life and sent the annotations to people in Cagliari who had not requested them.
+
+He described the project in letters as a matter of intellectual interest. His correspondents in Paris described it, to each other, as Napoleon discovering that retirement was not something he was constitutionally capable of.
+
 ## Legacy
 
-Napoleon died in Paris in 1836. He left no political heirs and no institutional legacy; his influence was personal and therefore mortal. The northern Italian settlement outlasted him, as did the railway and the revived Venetian republic. Venice placed a plaque at the terminus that named him the Builder and thanked him for his presumption. He would have approved of the phrasing.
+Napoleon died in Ajaccio in 1836, in the city where he had been born sixty-seven years earlier. He left notes on Sardinian constitutional reform that his heirs found on his desk and did not know what to do with. He left no political heirs and no institutional legacy in the formal sense; his influence was personal and therefore mortal. The northern Italian settlement outlasted him, as did the railway and the revived Venetian republic. Venice placed a plaque at the terminus that named him the Builder and thanked him for his presumption. He would have approved of the phrasing.
+
+Sardinia became a republic in 1848, twelve years after his death. Whether the pamphlets contributed is debated. The Sardinian historians who argue they did are probably right.
 
 He is studied in the French Republic primarily as a military figure, and in Italy as a political one. The two bodies of scholarship have not reached consensus on which assessment is more accurate. This is probably as he would have wanted it.
