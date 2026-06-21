@@ -47,7 +47,8 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## France and the Covenant
 
-- [ ] **French Republic faction article**: `factions/french-republic.md` — post-1789, character of the revolution, how it differs from our timeline's, key figures, relationship with Nouvelle Gaule.
+- [ ] **French Republic faction article**: `factions/french-republic.md` — post-1789, character of the revolution, how it differs from our timeline's, key figures, relationship with Nouvelle Gaule. ✓ Written — see below for outstanding details.
+- [ ] **The Reservoir Incident**: The central political crisis triggering Victor Hugo's regional autonomy campaign. A village (location and name TBD — probably Massif Central or Loire valley) is demolished for a reservoir; resettlement is materially generous but the community is destroyed. The Directoire's blind spot: they can quantify welfare but not community bonds. Needs: village name, precise location, decade (probably 1850s–1860s), and the specific Hugo piece that makes it a national issue.
 - [ ] **The Covenant faction article**: `factions/covenant.md` — when does it formally constitute? How does it operate? Internal dynamics (Austria-Prussia rivalry, Iberian weight). How does Russia fit?
 - [ ] **Iberian Empire article**: `factions/iberian-empire.md` — formed around the exiled Bourbons. What does it look like? Iberia united, or Spain + Portugal separately?
 - [ ] **The Covenant's collapse, 1905**: Russia's defeat by Japan as the trigger, domino effect. This needs development — what is the sequence? Which Covenant members fall first?
