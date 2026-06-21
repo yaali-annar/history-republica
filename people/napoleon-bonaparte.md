@@ -40,6 +40,12 @@ Napoleon returned to Paris at the turn of the century with a military reputation
 
 The Venetian-Genoese Railway opened in 1829. Napoleon was sixty. The crowds at Venice's new terminus called him the Builder, and the name attached itself to the man more firmly than any of his official titles ever had.
 
+## Robespierre
+
+Napoleon met Maximilien Robespierre once, during the Italian campaign, when the Cour des Comptes received reports that regimental funds in the theater were being redirected. Robespierre requested a meeting. Napoleon arrived expecting a politician and encountered something he was less equipped for: a man who had read every financial report from the Italian theater and remembered the figures, who was not interested in the campaign's strategic importance or in the reputation of the officer commanding it, and who made clear, without raising his voice, that the accounts would be audited regardless.
+
+Napoleon answered the questions accurately. He confirmed the names of two officers whose accounts were irregular and provided the documentation required. His private assessment of Robespierre, recorded by an aide, was that the man was intensely difficult to deal with and precisely what a republic that had just escaped one form of corruption could not afford to be without. He appears to have found this conclusion irritating and accurate in equal measure, and to have acted on it thereafter — the Italian theater's accounts, from that meeting forward, were kept in order.
+
 ## Later Career
 
 Napoleon's presence in French republican politics after the Italian campaign was significant and not always comfortable for those around him. He held a succession of roles — commissioner, deputy, councillor — and in each generated more heat than his formal position warranted. He had the quality, common in men of great operational ability, of finding the existing arrangement inadequate and the people maintaining it insufficiently aware of this.
