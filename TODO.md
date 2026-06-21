@@ -49,11 +49,28 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 - [ ] **French Republic faction article**: `factions/french-republic.md` — post-1789, character of the revolution, how it differs from our timeline's, key figures, relationship with Nouvelle Gaule. ✓ Written — see below for outstanding details.
 - [ ] **The Reservoir Incident**: The central political crisis triggering Victor Hugo's regional autonomy campaign. A village (location and name TBD — probably Massif Central or Loire valley) is demolished for a reservoir; resettlement is materially generous but the community is destroyed. The Directoire's blind spot: they can quantify welfare but not community bonds. Needs: village name, precise location, decade (probably 1850s–1860s), and the specific Hugo piece that makes it a national issue.
-- [ ] **The Covenant faction article**: `factions/covenant.md` — when does it formally constitute? How does it operate? Internal dynamics (Austria-Prussia rivalry, Iberian weight). How does Russia fit?
+- [ ] **The Covenant faction article**: `factions/covenant.md` — see detailed notes below.
 - [ ] **Iberian Empire article**: `factions/iberian-empire.md` — formed around the exiled Bourbons. What does it look like? Iberia united, or Spain + Portugal separately?
 - [ ] **The Covenant's collapse, 1905**: Russia's defeat by Japan as the trigger, domino effect. This needs development — what is the sequence? Which Covenant members fall first?
 
+### Covenant — Shape of Things (settled in session, needs writing up)
+
+**Formation**: 1800–1815. The Iberian Empire forms first (triggered by the Santo Domingo/Ayiti crisis and Louis Capet's presence in Madrid). The Covenant formalises later, triggered by the **Republic of Rhine** declaring within HRE territory — the infection appearing inside the body, not merely in a neighbouring country. Austria and Prussia, previously rivals, suddenly have a common existential interest.
+
+**Members**: Iberia, Austria, Prussia, Russia. Internal dynamics are not harmonious — Austria and Prussia fought each other three times within living memory; the Covenant holds together through shared fear rather than shared vision.
+
+**The HRE question**: Austria and Prussia use the Covenant period to consolidate smaller HRE members. The HRE as an institution becomes increasingly irrelevant and is formally dissolved at some point (Austria's emperor drops the imperial title, takes "Emperor of Austria"). Timing TBD.
+
+**Hanseatic neutrality**: The coastal trading cities — Hamburg, Bremen, Lübeck and others — negotiate neutrality rather than joining Prussia or the League. They revive the Hanseatic logic: commercially too valuable to antagonise, and their trade networks depend on access to both blocs. Terms and institutional form TBD.
+
+**Denmark**: Forced into neutrality by geography — the Jutland peninsula is attached to Prussia; the Danish straits control Baltic access. Both blocs need the straits open. Denmark joins neither side; its neutrality is tolerated by mutual necessity rather than respect.
+
+**Republic of Rhine**: German-speaking republic emerging from HRE territory in the late 1790s. Contiguous with Republic of Meuse and Dutch Republic on its western flank; surrounded by Covenant states on three sides. Survives under implicit League guarantee — attacking it means war with the full League. France's demographic weight makes this guarantee credible. Becomes a permanently contested buffer state. Needs: faction article, how it constitutes, its internal character.
+
+**Still to settle**: Exact Covenant formation date; HRE dissolution date and mechanism; whether the Hanseatic cities form a formal body or remain loosely associated; the Republic of Rhine's constitutional character; the 1905 collapse sequence.
+
 ---
+
 
 ## Nusantara and the Straits
 
