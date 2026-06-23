@@ -74,11 +74,21 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## Nusantara and the Straits
 
-- [ ] **Lanfang Republic and the West Borneo question**: Described as messy — involves two sultanates and three republics. The Dutch Republic, the Lanfang Republic (Chinese Hakka kongsi, founded 1777), and a third republic (TBD) all have interests in West Borneo, alongside two competing sultanate claims. How does Lanfang survive the Dutch colonial pressure that dissolved it in our timeline? How does it end up inside Nusantara as its one republican member?
+- [x] **Lanfang Republic and the West Borneo question**: Settled. Fosjoen merged with Lanfang c. 1800–1810 under Maritime League commercial pressure (Santiaogou did not split; Sambas lacked Dutch backing to recruit it). Consolidated republic spans Pontianak and Sambas spheres; rivalry between the two sultanates protects Lanfang's autonomy. South China Sea fleet purchased on generous instalment from Dutch and English yards; Palawan Incident (~1820s) establishes patrol range. Dayak alliance and intermarriage developed over two centuries. Nusantara founding member c. 1850. See `factions/lanfang.md`.
 - [ ] **Nusantara Federation constitution**: Exact date c. 1850 not yet pinned. What triggers the federation at that moment? Which sultanate takes the lead? How is the rotating chair arranged?
 - [ ] **Philippines in Nusantara**: Liberated from Iberian rule in the 1905 Covenant collapse. When exactly does it join Nusantara? As a single entity or multiple polities?
 - [ ] **The Johor Sultanate's long game**: After the Sultan's 1690 miscalculation, what is Johor's relationship with the Sister Republic leaseholders over the following 150 years? Does the Bendahara dynasty change the Sultanate's approach?
 - [ ] **Straits District governance detail**: The federal commission that governs the District — how is it appointed? Does it have a presiding officer? What is the relationship between the commission and the clearing houses?
+
+---
+
+## East Asia
+
+- [ ] **Southern China republic — name and structure**: Seceded from the Qing in the 1850s–1860s; League-aligned, predominantly Han. Does it call itself "China"? What is its constitutional form — unitary republic or confederation of provinces? Who are its founding figures?
+- [ ] **The China split — northern Han territories**: The Qing rump holds Manchuria, Mongolia, Tibet, and Xinjiang, but northern China (Yellow River basin, Beijing area) is Han-majority. Does this territory remain with the Qing rump after the southern secession, or is it contested? Does it eventually join the southern republic?
+- [ ] **Qing successor state — name and form**: After the Covenant's 1905 collapse, the Qing rump reconstitutes as an Inner Asian multi-ethnic state (Manchuria, Mongolia, Tibet, Eastern Turkestan). Does the dynasty survive in some form — constitutional emperor as figurehead — or is the imperial structure abolished? Name TBD; "Inner Asian Federation" is a candidate. See `factions/qing-successor.md`.
+- [ ] **Korea post-1905**: Stripped of its Qing protector after the Covenant collapse, with League-aligned Japan dominant in the region, Korea faces a choice of alignment. Does it seek League membership directly, enter Japan's orbit, or attempt to stand alone?
+- [ ] **Lanfang and southern China**: The diplomatic relationship between the Lanfang Republic and the southern Chinese republic after secession. Lanfang likely among the first to recognise southern independence; the overseas Chinese diaspora in Nusantara as a capital source for the new state.
 
 ---
 
