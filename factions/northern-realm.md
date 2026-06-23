@@ -96,3 +96,21 @@ The Covenant's collapse in 1905 — following Russia's defeat by Japan and the s
 Denmark is not part of the Northern Realm and has never sought to join it. Danish neutrality — enforced by geography and accepted by both blocs as the least bad outcome — is a permanent feature of the regional order. The Northern Realm maintains cooperative relations with Denmark, particularly regarding the Danish straits, which the Realm's Baltic trade depends on remaining open.
 
 The two Scandinavian arrangements — Northern Realm alignment and Danish neutrality — are understood, by the states involved and by outside observers, as complementary adaptations to the same geographic reality.
+
+---
+
+## The Nordriket Model
+
+The Northern Realm's constitutional settlement — an elected head of state, a fixed public salary, parliamentary supremacy, non-hereditary succession in principle — was from the beginning understood as a proof of concept. The League admitted the Realm as an associate precisely because the formal criteria for republican membership could not accommodate it; what the Realm demonstrated, over the decades that followed, was that the criteria might have been drawn too narrowly.
+
+The argument the League faced in its dealings with states that were neither republican nor willing to become so was structural. Full republicanism required overturning dynasties, redistributing authority, and weathering the internal crises that constitutional revolution produces. Many states found the cost prohibitive and the Covenant's monarchist solidarity more comfortable. The League needed an alternative offer.
+
+The Northern Realm became that offer. The pitch was embodied rather than abstract: come to Stockholm, observe the Riksdag in session, examine the published accounts, meet the High Guardian. Here is a head of state who holds an office with a residence and a title and a salary — a salary recorded in public accounts, subject to audit, not a draft on the treasury without limit. Here is a succession that has passed, in practice, through a family across several generations not because blood demanded it but because the Riksdag kept choosing capable people from within it. Here is a state that is stable, prosperous, and sovereign, that is not a republic and does not require you to become one.
+
+The High Guardians of the late nineteenth century pursued this role actively. Stockholm received delegations from Ottoman reformers, Persian constitutional advocates, and Japanese officials visiting to observe the Riksdag in session and study the public accounts. The High Guardian travelled — to Istanbul at the invitation of Ottoman ministers, to Tehran, to other capitals where the Third Way argument needed to be made in person rather than by correspondence. The archive of letters exchanged between successive High Guardians and reformers across these states is one of the more studied collections of the period.
+
+The strategic logic was the League's as much as the Realm's. A constitutionally governed Ottoman Empire was a better buffer than an absolutist one — more stable, more capable of modernising its military and administration, less likely to collapse under Covenant pressure into a chaos the Covenant could exploit. The Northern Realm was not merely a model; it was a diplomatic instrument the League deployed with increasing deliberateness as the nineteenth century progressed.
+
+The results varied. Japan developed a constitutional framework in which the Emperor's role was defined and constrained and the former daimyo class evolved toward parliamentary representation — a settlement that owed something to the Riksdag model without replicating it. The Ottoman modernisation produced partial results: constrained executive authority, nascent parliamentary institutions, enough stability to survive as a state. Persia's constitutional movement achieved a settlement, contested it, then gradually stabilised.
+
+The common thread was Stockholm: the city to which reformers travelled, the model to which they pointed when arguing at home, the evidence that a third way between absolute monarchy and republican revolution was not merely a theory but a functioning state with audited accounts and an elected head of government who drew a salary and went home at the end of his term.
