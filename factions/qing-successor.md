@@ -1,11 +1,11 @@
-# Qing Successor State
+# Middle Empire
 
-**Working title**: Inner Asian Federation (name unsettled — see notes below)
+**Official name**: Middle Empire (*Dulimbai Gurun* in Manchu)
 **Predecessor**: Qing Empire
 **Core territories**: Manchuria, Mongolia, Tibet, Eastern Turkestan (Xinjiang)
 **Status in 2000**: TBD — see open questions
 
-> This document is a stub. Core facts are settled; constitutional form, name, and post-1905 trajectory remain open.
+> This document is a stub. The name is settled; constitutional form and post-1905 trajectory remain open.
 
 ---
 
@@ -48,7 +48,7 @@ Japan's defeat of Russia triggered the Covenant's collapse. The Qing, stripped o
 ## Open Questions
 
 ### Name
-The state's name after 1905 is unsettled. "Inner Asian Federation" is a candidate — descriptive, geographically accurate, carries no dynastic claim that might antagonise constituent peoples. Other possibilities include names in Manchu, Mongolian, or a neutral constructed name. The southern republic's claim to "China" as a name is not contested by the north; the successor state needs its own identity.
+Settled: **Middle Empire**, from the Manchu *Dulimbai Gurun* — the name the Qing used for themselves in their own language. After losing the Han heartland, the successor state foregrounds the Manchu linguistic tradition rather than the Chinese one. The south takes "China" internationally; the north retakes the Manchu form of the same concept. The name asserts a claim to universal centrality that the territory no longer geographically supports — a deliberate political statement rather than a description. Neither state concedes the other's legitimacy; the League of Nations papers over the tension with careful diplomatic language.
 
 ### Imperial or Federal?
 Does the Qing dynasty survive the 1905 crisis in some form — a constitutional emperor as ceremonial figurehead, analogous to the Northern Realm's High Guardian — or is the imperial structure abolished entirely in the reconstitution? A constitutional federation with a Qing figurehead would preserve dynastic continuity while distributing actual governance to the constituent peoples. A full abolition would require some other binding principle.
