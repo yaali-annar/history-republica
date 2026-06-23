@@ -36,35 +36,51 @@ It was not export prohibition. It was something more durable: the permanent know
 
 ---
 
-## The League's Response
+## Brazil
 
-Formal diplomacy failed in the way that formal diplomacy tends to fail when one party controls something the other cannot do without. League councils produced resolutions; Iberia received them, acknowledged them, and continued as before. The republic of Gran Colombia, whose dependence on nitrate fertilizers for the Llanos agriculture was acute, pressed the League's executive most urgently. France and the Rhine pointed at their own agricultural dependency. The Union of States, whose compact geography had produced intensive farming from the outset, found its model under strain.
+Before the League's formal response to the nitrate situation could be settled, events in Brazil forced the question.
 
-What the formal channel could not achieve, the informal channel was asked to attempt.
+Brazil was the Iberian Empire's largest and most valuable colonial territory: vast, populous, and sustained by an enslaved labour force that in the mid-nineteenth century numbered in the millions. The Iberian Empire had never abolished slavery; the Colonial Protocol's logic ran the other way, treating the maintenance of existing colonial structures as a condition of the Covenant's collective commitment. Brazil was the most visible manifestation of what that commitment meant in practice.
 
-The governor of the Chilean province — appointed by Iberia, theoretically loyal to it, and possessed of the administrative authority that controlled what left the ports — was a man whose personal circumstances had grown complicated. The details of the arrangement that followed were never committed to paper by the parties who made it, and the League's official position in 2000 remains that it has no knowledge of the events in question. What is known is the outcome: nitrate shipments that should not have cleared Iberian customs did, documented as guano — the bird-dung fertilizer that also moved through the same ports on the same ships, required no special licences, and had the additional property of discouraging thorough inspection. The guano manifests covered shipments whose contents were rather more agriculturally concentrated than the documents suggested.
+John Brown was born in Connecticut in 1800, in a Union of States where permanent hereditary bondage had been illegal since before his father was born. He grew up in a republic whose founding had been premised on the impossibility of governing through consent while maintaining a legal status that foreclosed consent entirely. He took this at face value in a way that his society found, at various points, admirable and alarming in roughly equal measure. The League world's abolitionist cause had no domestic institution to oppose. What it had was Brazil.
 
-The governor of Chile was eventually recalled. He did not return to Iberia.
+The network through which Brown eventually reached Brazil did not run through the Union of States government. It ran through Ayiti — through a century of Black republican infrastructure, through the University of Saint-Domingue's African alumni networks, through the quiet institutional solidarity of a republic founded on abolition and watching the hemisphere's last major slave power with two centuries of accumulated attention. Brown had been in correspondence with Ayitian republican thinkers and, through them, with the free Black population of Brazil's cities — the educated mixed-race class whose position in colonial society gave them both the grievance and the means to organise around it. The Union of States government was not a party to these arrangements. It would be more accurate to say it did not look for them than to say it did not know.
+
+What Brown brought to Brazil was outside resources, tactical thinking shaped by the Appalachian irregular warfare tradition, and a willingness to be personally present in a situation that most of his correspondents preferred to fund from a safe distance. What followed was not one rebellion but a series of connected uprisings across several provinces, poorly coordinated, sustained by the network Brown had helped build but not controlled by any single hand. The uprisings did not succeed in their immediate military objectives. They tied up Iberian resources, damaged infrastructure, and made clear to every enslaved person in every province that the situation was not permanent.
+
+Brown was captured in 1863. The trial that followed was conducted with the seriousness Iberia reserved for threats it genuinely feared — long, heavily documented, closely watched by the League press. He was hanged in Rio de Janeiro in 1864, at the age of sixty-three, having spent two years in custody making arguments that the colonial administration found increasingly difficult to answer.
+
+The League's official condolences to his family were brief. The unofficial memorials were rather more extensive.
 
 ---
 
-## Brazil
+## The Price of Deniability
 
-The League's second instrument of pressure was more direct and considerably more dangerous.
+Iberia's demand arrived at the Union of States' diplomatic mission within weeks of Brown's capture: account for your citizen, acknowledge his actions as an act of aggression, provide redress.
 
-Brazil was the Iberian Empire's largest and most valuable colonial territory: vast, populous, and sustained by an enslaved labour force that in the mid-nineteenth century numbered in the millions. The Iberian Empire had never abolished slavery; the Colonial Protocol's logic ran the other way, treating the maintenance of existing colonial structures as a condition of the Covenant's collective commitment. Brazil was the most visible manifestation of what that commitment meant in practice — and it was the most visible reminder, to the abolitionists of the League world, of what Covenant victory would mean for the hemisphere.
+The Union of States' response was carefully worded and entirely sincere in its legal argument: John Brown was a private citizen who had entered Brazil on his own initiative, without the knowledge or sanction of his government, and had committed whatever actions were alleged on his own account. The Union of States could not be held responsible for the private conduct of its citizens abroad. It expressed regret for the disruption and hoped for a swift resolution of the judicial proceedings.
 
-John Brown was born in Connecticut in 1800, in a Union of States where permanent hereditary bondage had been illegal since before his father was born. He grew up in a republic whose founding had been premised on the impossibility of governing through consent while maintaining a legal status that foreclosed consent entirely. He took this at face value in a way that his society found, at various points, admirable and alarming in roughly equal measure.
+Iberia had heard something like this before. In 1789, the French diplomat at The Hague had disclaimed responsibility for Saint-Domingue's declaration on the grounds that France had no functioning government when Toussaint made it. The logic was the same: an offending party without an accountable principal. Spain had left The Hague that day with no reparation, no apology, and no party to hold. Iberia left the Union of States' mission with the same result.
 
-The League world's abolitionist cause had no domestic institution to oppose. What it had was Brazil.
+The difference was that Iberia, unlike Spain in 1789, had a lever.
 
-Brown had been in correspondence with Brazilian independence networks and Ayitian republican thinkers for more than a decade before he arrived in the country in the early 1860s. His contacts were not primarily enslaved people — the communications barrier made that difficult — but the free Black population of Brazil's cities, the educated mixed-race class whose position in colonial society gave them both the grievance and the means to organise around it. What Brown brought was outside resources, tactical thinking shaped by the Appalachian irregular warfare tradition, and a willingness to be personally present in a situation that most of his correspondents in Europe preferred to fund from a safe distance.
+A declaration of war against the Union of States required a casus belli that the League would recognise as legitimate. The private conduct of a private citizen, however damaging, did not meet that bar — and Iberia knew that the League, which had spent a century building an international order around defined rules of conduct between states, would not countenance a war declared on that basis. The proxy conflict logic that had structured League-Covenant competition for fifty years ran in both directions. Iberia could not strike the Union of States. It could strike the Union of States' agricultural economy.
 
-What followed was not one rebellion but a series of connected uprisings across several provinces, poorly coordinated, sustained by the network Brown had helped build but not controlled by any single hand. The colonial military response was overwhelming by local measures and insufficient at the scale the problem demanded. Iberia was simultaneously managing the Chilean province situation, the Gran Colombia border, and the general post-Covenant anxiety about what the League's proxy operations implied for the rest of its colonial territories. The Brazilian uprisings did not succeed in their immediate military objectives. They tied up resources, damaged infrastructure, killed overseers and administrators, and made clear to every enslaved person in every province that the situation was not permanent.
+The nitrate price that had been calibrated — extractive but sustainable, designed to maximise revenue without triggering the response that would end the relationship — changed. What Iberia imposed in the months following Brown's capture was not an embargo; that would have cost Iberia the revenue it needed. It was something more precise: prices high enough to cause genuine pain across every League agricultural economy, sustained long enough to make the pain's origin and purpose unmistakable, tied to no public condition but understood by everyone to be the consequence of what had happened in Brazil.
 
-Brown was captured in 1863. The trial that followed was conducted with the seriousness Iberia reserved for threats it genuinely feared, which meant it was long, heavily documented, and closely watched by the League press. His execution was delayed three times by diplomatic noise from the League members whose governments had no official knowledge of his activities. He was hanged in Rio de Janeiro in 1864, at the age of sixty-three, having spent two years in custody making arguments that the colonial administration found it increasingly difficult to answer.
+The League now had an acute problem where it had previously had a chronic one.
 
-The League's official condolences to his family were brief. The unofficial memorials were rather more extensive.
+---
+
+## The League's Response
+
+Formal diplomacy failed in the way it tends to fail when one party controls something the other cannot do without. League councils produced resolutions; Iberia received them and continued as before. Gran Colombia's dependence on nitrate fertilizers for the Llanos agriculture was acute. France and the Rhine pointed at their own agricultural dependency. The Union of States, whose compact geography had produced intensive farming from the outset, found its model under strain — with the additional dimension that the crisis had been precipitated, at least in part, by one of its own citizens acting without sanction.
+
+What the formal channel could not achieve, the informal channel was asked to attempt.
+
+The governor of the Chilean province — appointed by Iberia, theoretically loyal to it, possessed of the administrative authority that controlled what left the ports — was a man whose personal circumstances had grown complicated. The details of the arrangement that followed were never committed to paper by the parties who made it, and the League's official position in 2000 remains that it has no knowledge of the events in question. What is known is the outcome: nitrate shipments that should not have cleared Iberian customs did, documented as guano — the bird-dung fertilizer that moved through the same ports on the same ships, required no special licences, and had the additional property of discouraging thorough inspection. The guano manifests covered shipments whose contents were rather more agriculturally concentrated than the documents suggested.
+
+The governor of Chile was eventually recalled to Cádiz. He did not make the journey.
 
 ---
 
