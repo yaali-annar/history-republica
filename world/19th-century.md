@@ -40,7 +40,7 @@ It was not export prohibition. It was something more durable: the permanent know
 
 Before the League's formal response to the nitrate situation could be settled, events in Brazil forced the question.
 
-Brazil was the Iberian Empire's largest and most valuable colonial territory: vast, populous, and sustained by an enslaved labour force that in the mid-nineteenth century numbered in the millions. The Iberian Empire had never abolished slavery; the Colonial Protocol's logic ran the other way, treating the maintenance of existing colonial structures as a condition of the Covenant's collective commitment. Brazil was the most visible manifestation of what that commitment meant in practice.
+Brazil — by the 1860s the most populous constituent kingdom of the United Kingdom of South America, governed from Rio de Janeiro by the Bragança branch of the Iberian dynasty — was sustained by an enslaved labour force that numbered in the millions. The Iberian Empire had never abolished slavery; the Colonial Protocol's logic ran the other way, treating the maintenance of existing colonial structures as a condition of the Covenant's collective commitment. The UKSA, as Iberia's South American face, was the most visible manifestation of what that commitment meant in practice.
 
 John Brown was born in Connecticut in 1800, in a Union of States where permanent hereditary bondage had been illegal since before his father was born. He grew up in a republic whose founding had been premised on the impossibility of governing through consent while maintaining a legal status that foreclosed consent entirely. He took this at face value in a way that his society found, at various points, admirable and alarming in roughly equal measure. The League world's abolitionist cause had no domestic institution to oppose. What it had was Brazil.
 
@@ -100,6 +100,18 @@ Iberia's leverage did not collapse overnight. The existing trade continued; the 
 
 ---
 
+## The Eastern Gambit
+
+Japan's Lords' War — the decade of internal conflict in the 1870s that resolved the constitutional question in favour of the Domain faction — produced a window that Russia calculated it could exploit. Japan was League-aligned but held no League membership; the distinction mattered. No treaty obligation required the League to intervene on its behalf, and the League would not go to war for a non-member partner that had not requested incorporation.
+
+Russia moved in the early 1880s. The operation was described, in the documents that survive, as securing Russia's Pacific strategic position: Vladivostok froze for months each winter; a northern Hokkaido anchorage would not. The framing was not entirely false — Russia did need year-round Pacific access. What made the operation something other than a port negotiation was the method. Russia did not seek a lease. It crossed a sea boundary and occupied territory on a Japanese home island.
+
+Japan fought. The resistance was better organised than Russia had allowed for — the Lords' War had just produced the institutions that would fight this one — and the ceasefire that eventually stabilised the position left Russia holding the northern peninsula, Japan holding the rest, and a line between them that no treaty formally ratified. Both sides understood the line as an interim fact rather than a settlement. Russia had its anchorage. Japan had its grievance, on its own soil, in plain sight of anyone who needed a reason.
+
+The following two decades produced the modernisation that followed logically from having a specific, vivid, territorially located grievance. Abstract arguments for military investment are difficult to sustain across budget cycles and political transitions. A Russian garrison on Hokkaido was not abstract.
+
+---
+
 ## The Weakening
 
 The last quarter of the nineteenth century was the Covenant's long decline before the fall.
@@ -110,9 +122,21 @@ Austria and Prussia had spent a century managing their competition within the Co
 
 Iberia's position was the most complex. Its colonial revenues — once enormous, now declining as Brazil's instability mounted, as Chile's nitrate income was undercut by synthetic alternatives, as the administrative cost of holding a colonial empire without Covenant military backing grew clearer — could not sustain the metropolitan state at the level the Covenant's commitments required. The Spanish and Portuguese components of the empire had always been held together by dynastic logic and commercial interest rather than cultural fusion; as commercial interest contracted and dynastic logic became insufficient, the seams of the unification showed.
 
-The Covenant that faced Japan in 1905 was not the Covenant that had formed in 1800. Its resources were diminished, its internal coherence was strained, and its capacity to project force to the Pacific theater — where Russia's conflict with Japan was decided — was not what any of its members had calculated it would need to be.
+The Covenant that faced Japan in 1905 was not the Covenant that had formed in 1800. Its resources were diminished, its internal coherence was strained, and its capacity to project force to the Pacific theater was not what any of its members had calculated it would need to be.
 
-Russia lost. The shockwave was what everyone had predicted and no one had fully prepared for: a great power defeated by a non-European state, the Covenant's military mystique shattered, and every internal pressure that the Covenant's coherence had been holding down surfacing at once.
+---
+
+## The Pacific War
+
+Japan's campaign to recover Hokkaido began in 1904. It was not, in design, a League war. Japan was not a League member, had not requested League military intervention, and fought largely on its own terms. What the League provided was the strategic environment in which Japan could fight without being overwhelmed.
+
+The Panama Canal — the joint waterway constructed at the isthmus where Mexico and Gran Colombia's territories met — gave the League's Atlantic fleet access to the Pacific that the Covenant had not incorporated into its planning. The transit was not announced in advance. The first indication Iberia received that the strategic picture had changed was a League-flagged vessel appearing in the harbour at Manila. It was not a warship. League institutional ships rarely were: their function was diplomatic, their authority derived from the body they represented rather than from armament. The vessel had none of consequence.
+
+Its significance was that it had come through the Panama Canal. Which meant the Atlantic fleet could follow. Which meant that Iberia's Philippine bases — from which reinforcements had been staging toward Russia's position — were no longer the secure rear they had been before the ship appeared. The Iberian commander assessed the situation and stopped sending ships north. The assessment was correct. The calculation that had structured Iberia's Pacific strategy — that League Atlantic forces could not reach this theater without months of Cape Horn transit — was no longer valid, and no one in Manila had been told.
+
+Russia's position was already stretched. Japanese pressure on Hokkaido was sustained and well-supplied; two decades of specific, motivated preparation were producing results. In Alaska, the Northwest Territory — League-aligned, informally constituted, officially a party to nothing — made Russia's logistical position in its Pacific territories sufficiently difficult that forces and attention which might have reinforced Hokkaido were instead occupied managing what the Territory's council maintained was purely indigenous internal activity. Russia found no clean answer to any of these pressures individually. Facing all of them at once, it lost.
+
+The defeat was not only military. Russia losing to Japan dissolved the foundational assumption on which the Covenant had operated for a century: that the monarchical great powers of Europe, however strained among themselves, could not be defeated by powers outside their world. That assumption was gone. What it had been holding together went with it.
 
 The century ended there, in practice, though the calendar still had five years left to run.
 
