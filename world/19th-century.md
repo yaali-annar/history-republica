@@ -148,3 +148,5 @@ The century ended there, in practice, though the calendar still had five years l
 - Las Malvinas: first appearances and the origin of the annoyance
 - Iberia's fragmentation: timeline and constituent parts
 - The Northern Realm's role in 19th-century reform diplomacy (Ottoman, Persian, Japanese)
+- Technology divergence: heavier-than-air aircraft never achieves dominance; airship tradition continues and scales into kilometer-long passenger vessels by the 20th century; the military development boom that drove aviation in our timeline does not occur here
+- Helium crisis: global airship economy creates unsustainable helium demand; drives the League-era lunar extraction program (helium-3 from solar wind-saturated regolith); settle timeline and whether this precedes or follows year 2000
