@@ -14,7 +14,11 @@ The South African Federation is the independent state that emerged from the form
 
 The territory was built as a geopolitical instrument — a land bridge designed to connect Iberian Atlantic and Indian Ocean possessions and contain League republicanism at the Cape — rather than as a coherent country. Its infrastructure serves that colonial logic: coast-to-coast routes for Iberian strategic movement, extraction networks for Covenant-era resources. Internal connectivity, civic institutions, and an economy oriented toward its own population are a post-independence development still incomplete in 2000.
 
-The Federation is poor and struggling. It has coastlines and does not prosper from them.
+The Federation is poor and struggling. It has coastlines and does not prosper from them. Two structural inheritances from the Covenant era account for most of the gap between potential and reality: corruption embedded in the administrative machinery itself, and communal divisions that were deliberately engineered and have never been undone.
+
+The Covenant's colonial administration was not designed to serve the territory — it was designed to extract revenue and maintain strategic control. Corruption was functional to that project: a local administrator enriching himself through the system had every incentive to keep the system running. At independence the Federation inherited not merely corrupt individuals but corrupt *structures* — procurement, customs, land registry, all oriented to route money upward rather than deliver services outward. Reform requires dismantling the machinery the government depends on to function.
+
+The divide-and-conquer strategy compounds this. The Covenant spent a century keeping its three settler communities separated and mutually suspicious, and keeping indigenous groups antagonistic toward each other. At independence no cross-communal reform coalition existed, because Covenant policy had ensured none could form. Corrupt politicians have defended their positions ever since by framing reform movements as attacks by rival communities. The corruption sustains itself through the division; the division makes the corruption harder to dislodge. The Federation's internal boundaries — its provincial lines — were drawn by the Covenant to keep communities manageable and became the state's structure at independence because no one could agree on anything else.
 
 ---
 
