@@ -88,3 +88,6 @@ The project produces in-universe texts: documents, entries, articles, circulars,
 - `people/` — biographical dossiers of key figures
 - `factions/` — profiles of states and organisations
 - `misc/` — reference entries on topics that don't belong to a single faction or period (calendars, institutions, conventions, etc.)
+
+### Document Conventions
+- When creating a new faction document, read `factions/template.md` first — it defines the required and optional header fields, section types, and style conventions. Do not sample existing faction files as a substitute.
