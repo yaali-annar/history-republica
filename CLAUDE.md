@@ -87,6 +87,7 @@ The project produces in-universe texts: documents, entries, articles, circulars,
 - Broad worldbuilding and historical extrapolation happens in feature branches
 - This `main` branch holds the project foundation and accumulated canon
 - When details are settled in a branch, they are merged back here
+- **Before asking clarifying questions about any person, faction, event, or concept, search the repository first** (Grep, Glob, Read) to check whether relevant material has already been written. Read the relevant files before raising questions the existing canon may already answer.
 
 ### Canon Directories
 - `world/` — historical overviews and period documents
