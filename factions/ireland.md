@@ -43,6 +43,20 @@ Ireland's accession to the United Nations of Great Britain in 1700 and the reneg
 
 The Catholic officeholding bar at the union level was not lifted until the 1707 Act. Ireland's own domestic Assembly had never observed an equivalent restriction — Catholic gentry sat in it from its earliest sessions in the 1660s and 1670s, since the bar had only ever been an English Commonwealth rule applied to the Commonwealth's own offices, not a condition Ireland's internal settlement imposed on itself. The result, for a working generation, was the peculiar arrangement of Catholics who could sit in the Irish Assembly in Dublin but not represent Ireland at Berwick — a distinction Irish members found difficult to explain to constituents and impossible to defend on principle, and one of the standing grievances the 1707 settlement was built to resolve.
 
+## The Potato Crisis, 1845–1852
+
+The blight arrived in Ireland the way it arrived everywhere the potato had become an overnight staple, and no land settlement, however humane, could hold back a fungus. The Lumper variety that fed the bulk of the rural population was as genetically uniform in Ireland as anywhere else it had been planted, and a uniform crop fails uniformly. The first blighted harvest, in 1845, was followed by a worse failure the year after, and the crisis did not fully lift until the turn of the decade.
+
+What differed was the response, and the difference traces directly to the settlement Lambert made two centuries before. Ireland's land was worked, in the main, by resident owners with a direct stake in their tenants' survival rather than by a landholding class collecting rents from estates it had never visited — the Catholic gentry's continuity carried with it a continuity of obligation that a purely extractive arrangement would not have produced. The Assembly, holding domestic authority over land and taxation in its own right, suspended rent collection across the worst-affected counties within the first failed harvest and drew on its own borrowing authority — backed, in the end, by the United Nations' shared currency and credit — to import grain rather than watch food continue to leave Irish ports for foreign markets while Irish tenants went hungry beside empty granaries.
+
+The crisis was not painless. Several years of hardship, a substantial wave of emigration to the Union of States and elsewhere in the Maritime League's orbit, and thousands of deaths from hunger and the diseases that follow it are all part of Ireland's memory of these years, marked still by monument and commemoration in counties across the country. But the mortality never approached the scale a purely market-driven response, or a government with no stake in the population it governed, might have produced. The Assembly's intervention, however imperfect, kept the crisis a severe emergency rather than a demographic catastrophe.
+
+### The Darwin-Mendel Correspondence and the Blight's Long Answer
+
+The scientific response outlasted the immediate crisis by a generation. Charles Darwin's correspondence with Gregor Mendel — begun after Mendel's early results on inherited traits in garden peas reached him through intermediaries interested in agricultural improvement — brought heredity's particulate mechanism into mainstream natural philosophy decades sooner than it might otherwise have surfaced, folded directly into Darwin's own account of descent with modification rather than left sitting unread in a monastery's records.
+
+The practical consequence for Ireland arrived slower than the famine itself but proved more durable: a heredity science mature enough, by the 1870s, to treat crop uniformity as a measurable and correctable vulnerability rather than an unfortunate accident of agriculture. The agricultural institute established at Dublin in the following decade — breeding blight-resistant, genetically varied potato cultivars from surviving Andean and wild stock along Mendelian lines — made Ireland an early centre of applied heredity science rather than simply the site of a cautionary tale about monoculture. By the century's end, the Dublin institute's breeding programmes were studied and copied by agricultural ministries across the League, and the crisis that had nearly broken the country a half-century before became, in the way these things sometimes do, the origin of one of its more genuinely admired institutions.
+
 ## Constitutional Structure
 
 ### The Irish Assembly
@@ -91,7 +105,7 @@ Within Berwick's own councils, Ireland's veto carries the same formal weight as 
 
 ## TODO
 
-- The agricultural crisis of the 1840s — whether a blight comparable to the one that struck potato-dependent regions elsewhere in this period affected Ireland, and if so, how differently a state with a resident, propertied Catholic gentry (rather than predominantly absentee landlordism) managed it
 - The founding and development of the Gaelic Academy and Ireland's university system, Catholic and Protestant
 - Ireland's industrialisation timeline relative to England, Scotland, and the Dutch Republic
 - Fuller treatment of Ulster Presbyterian relations with Scotland and the Kirk across the 18th–19th centuries
+- The Darwin-Mendel correspondence itself and the wider scientific and agricultural consequences across the League — likely warrants its own entry beyond its role in the Dublin institute
