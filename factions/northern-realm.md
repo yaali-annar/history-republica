@@ -79,7 +79,7 @@ The Maritime League admitted only republics. The Northern Realm's High Guardian 
 
 This arrangement suited both parties. The League gained Swedish and Norwegian maritime cooperation and a buffer on Russia's western flank without the precedent of admitting a non-republic. The Northern Realm gained the protection it needed without formally subordinating its constitutional arrangements to League approval.
 
-When the League of Nations replaced the Maritime League in the early twentieth century following the Covenant's dissolution, the new body's broader membership criteria accommodated the Northern Realm without difficulty. The Northern Realm joined as a full member in 1907, alongside Ayiti and Mexico.
+When the League of Nations replaced the Maritime League in the early twentieth century following the Covenant's dissolution, the new body's broader membership criteria accommodated the Northern Realm without difficulty. The Northern Realm joined as a full member in 1907, alongside Ayiti and the Northwest Confederation.
 
 ---
 

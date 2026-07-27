@@ -4,7 +4,7 @@
 **Capital**: Mexico City  
 **Founded**: circa 1830s  
 **Territory**: From the Rio Bravo del Norte and the California coast in the north, through Mesoamerica, to the Darién in the south  
-**League membership**: League of Nations, 1907
+**League membership**: Maritime League, 1830s; continued as League of Nations from 1907
 
 ---
 
@@ -68,9 +68,11 @@ Neither tendency produced secession. The federation held, not through any single
 
 ## League Membership
 
-Mexico entered the League of Nations in 1907, alongside Ayiti, in the round of admissions that followed the Covenant's 1905 collapse. The timing was long overdue by the estimation of both Mexico and the League's majority: Mexico had been a republic for seven decades, in the League's informal orbit throughout, and its exclusion had been sustained by Iberian pressure rather than any deficiency in its republican credentials.
+Mexico's admission to the Maritime League followed its independence within the same decade, in the 1830s. The League's membership criterion had always been republican government, not the approval of the empire a member had left — Iberia held no seat and no veto, and its displeasure at Mexico's recognition, considerable as it was, gave it no formal lever over an alliance it did not belong to. Mexico applied as a straightforward new republic and was received as one.
 
-The admission formalities were brief. The League preferred to treat Mexico as a straightforward new application. Mexico preferred the same.
+The contrast with Ayiti's much longer wait — over a century, resolved only in 1906 — was not lost on either government, and Mexican diplomats were not always tactful about drawing it. Ayiti's exclusion traced to a specific act, the killing of a Spanish governor in the Santo Domingo affair, that had made the League genuinely cautious about the diplomatic weight of formal recognition for decades after the fact. Mexico's independence carried no comparable incident. It was simply a colony that became a republic and asked to join, and the League, having no reason to hesitate, did not.
+
+When the League of Nations superseded the Maritime League in the early twentieth century, Mexico's membership carried over without interruption — one of the body's longer-standing American members by the time Ayiti and the Northwest Confederation joined fresh in 1907.
 
 ---
 

@@ -42,7 +42,7 @@ The Covenant's collapse in 1905, following Russia's defeat by Japan, changed the
 
 The transfer was arranged rather than dramatic. League mediation provided the framework; Russia's agreement was secured as part of broader post-Covenant normalization; Alaska's communities, given formal voice in the process, chose affiliation with the Territory over the alternatives. The agreements took several years to conclude and several more to implement. What they produced was a Territory that now ran to the Arctic, incorporating peoples and communities whose relationship to the rest of the Territory had previously been defined by a boundary rather than any shared institution.
 
-The formal constitution of the Confederation followed from this expansion. A Territory of informal arrangement could manage a certain scale; an entity of this geographic reach required recognised institutions. The central council was formalised, its composition and authorities specified in writing for the first time, and the Confederation was presented to the League as a full member applicant. It was admitted in 1907, alongside Mexico and Ayiti, in the round of accessions that the Covenant's collapse had made available.
+The formal constitution of the Confederation followed from this expansion. A Territory of informal arrangement could manage a certain scale; an entity of this geographic reach required recognised institutions. The central council was formalised, its composition and authorities specified in writing for the first time, and the Confederation was presented to the League as a full member applicant. It was admitted in 1907, alongside Ayiti and the Northern Realm, in the round of accessions that the Covenant's collapse had made available.
 
 ---
 
