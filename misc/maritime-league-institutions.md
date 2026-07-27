@@ -24,8 +24,26 @@ The distinction was tested rather than designed. The League's founding compact, 
 
 ## Continuity Into the League of Nations
 
-When the League of Nations superseded the Maritime League in the early twentieth century, both structures carried over essentially unchanged, if considerably enlarged: a resident Council at The Hague, now seating delegations from states the Maritime League's republics-only criterion would never have admitted, and a periodic Congress for the business too large for the Council to settle alone. The continuity was deliberate. A structure that had absorbed France's population, weathered the Covenant's collapse, and processed a doubling of its membership without a single institutional crisis was not something the post-1905 settlement had any reason to discard.
+When the League of Nations superseded the Maritime League in the early twentieth century, the Council and Congress carried over essentially unchanged, if considerably enlarged — now seating delegations from states the Maritime League's republics-only criterion would never have admitted. What changed was scale rather than mechanism, and scale was precisely the problem the League of Nations' founders judged the Maritime League's Hague-centred model was no longer built to absorb.
+
+## Three Cities
+
+The Maritime League had been, in institutional terms, a single-city arrangement: political business, commercial regulation, and what little formal dispute resolution existed all ran through The Hague, because a League of a dozen or so Atlantic-facing republics could function that way. The League of Nations, admitting states from every ocean and doubling its membership within a generation of the Covenant's collapse, could not. The settlement that emerged split the League's functions across three cities, each chosen for reasons that had already been building for decades before anyone formalised the arrangement.
+
+### The Political Centre: The Hague
+
+The Council and General Congress remained at The Hague without discussion — the seat had a quarter-millennium of accumulated institutional memory behind it, and no one seriously proposed moving the League's diplomatic heart away from the city that had hosted every major crisis in its history, from the Santo Domingo affair to the Rome episode.
+
+### The Economic Centre: New Amsterdam
+
+Commercial regulation, currency coordination, and the League's expanding trade tribunals moved to New Amsterdam, in the Union of States — a recognition that the Atlantic economy's centre of gravity had shifted west of the ocean it was named for. Under the Maritime League, this function had sat in Amsterdam itself, the Dutch Republic's commercial capital since before the League existed. The coincidence of names has never stopped amusing League diplomats: a New World city founded by Dutch settlers homesick enough to name it after the city it would, two centuries later, functionally replace. Delegates joke that the League never really left Amsterdam. It just crossed the ocean and kept the address.
+
+### The Judicial Centre: Straits Federal District
+
+The League's dispute-resolution machinery — what would eventually become the standing tribunal for treaty interpretation and inter-member arbitration — was seated at the Straits Federal District, and the choice was more deliberate than the other two. Neither The Hague nor New Amsterdam sat on ground genuinely outside every great power's own sovereignty; both were, however scrupulously managed, the capital or commercial centre of a founding member. The Straits Federal District belonged to neither. It was, by 1907, the capital of the Nusantara Federation — a state that was not itself a League member, built from territory the League's own founding republics had voluntarily surrendered a half-century before. A tribunal seated there could not plausibly be accused of sitting in any single power's pocket, and the District's existing cosmopolitan character — Tumasik's English commercial law, Batam's Dutch administrative tradition, a population drawn from every corner of the Nusantara archipelago and beyond — gave it an institutional vocabulary that suited a body meant to adjudicate between very different legal traditions.
+
+The choice also reflected something the League's founders were increasingly conscious of by the early twentieth century: a League that had begun as an Atlantic club now had members and interests that spanned every ocean, and a judiciary permanently seated in Europe or the Americas would have looked, to its newer Asian and Pacific members, like the same old arrangement wearing a new name. Straits Federal District solved that problem by not being anyone's old arrangement at all.
 
 ---
 
-*See also:* `factions/ayiti.md` for the Santo Domingo affair as an early example of Council business; `people/napoleon-bonaparte.md` for the Rome episode; `misc/pious-axis.md` for the informal diplomatic pattern that operates alongside, rather than through, these formal structures.
+*See also:* `factions/ayiti.md` for the Santo Domingo affair as an early example of Council business; `people/napoleon-bonaparte.md` for the Rome episode; `factions/straits-federal-district.md` for the District's own founding and character; `misc/pious-axis.md` for the informal diplomatic pattern that operates alongside, rather than through, these formal structures.
