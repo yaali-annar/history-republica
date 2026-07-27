@@ -28,6 +28,14 @@ France's relationship to the pattern is the most instructive, because France sit
 
 England and the Dutch Republic regard the pattern with the detached interest of founders watching something develop that they did not design and do not need to. Neither is party to it. Both have, on more than one occasion, been glad of what it produces — a League that holds together on the strength of more than one kind of solidarity is a more durable League, whatever church its extra strands run through.
 
+## Rome Between Two Fires
+
+The Holy See's own position, through the Covenant's century of existence, was neutrality maintained by necessity rather than by any comfortable equidistance. On one side stood the Covenant's monarchies, each insisting through its own mechanism — the Synod, the territorial supremacy, Josephinist licensing, the Patronato Real — that a properly ordered church served the crown's stability as readily as it served souls, and each expecting Rome's quiet acquiescence in exchange for the protection a friendly monarchy could offer a temporal papacy with borders of its own. On the other stood the Pious Axis republics, whose own founding arguments depended on demonstrating that the Church needed no monarch's protection or supervision to function at all, and whose diplomatic interventions — the redirection of Napoleon's ambitions toward Rome among them — had on more than one occasion done more to secure the Papal States' actual territorial safety than any Covenant guarantee ever did.
+
+Rome's practical answer was to avoid ever fully crediting either side's version of events. Papal correspondence of the period is notably careful never to describe the Covenant's ecclesiastical arrangements as illegitimate — Vienna, Madrid, and the Synod's Ober-Procurator all remained, formally, in good standing throughout — while quietly extending rather more genuine warmth to Liège, Dublin, and later Mexico City than diplomatic protocol strictly required. A cardinal posted to Vienna in this period could expect a noticeably different set of private instructions than one posted to Dublin, and both men generally understood why without either being told so directly.
+
+The tilt, such as it was, ran on a reason more practical than ideological: a Church answerable to itself, even nominally, survives better under a government that does not want to run it than under one that does. Rome did not need to prefer republics as a form of government to notice which arrangement left its own hierarchy more intact.
+
 ---
 
 *See also:* `factions/ireland.md` for the potato crisis and Mexico's early contribution; `factions/republic-of-meuse.md` and `factions/french-republic.md` for the Meuse-France religious friction; `world/18th-century.md` for the Napoleon/Papal States episode; `factions/mexico.md` and `factions/ayiti.md` for the two Americas-based members' founding character.

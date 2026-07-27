@@ -56,6 +56,22 @@ Russia's strategic preoccupation throughout the Covenant's existence was access 
 
 ---
 
+## Church and Crown
+
+The Covenant's monarchies shared more than mutual defence and a common suspicion of the republican world. Each had, by its own route, arrived at the same practical answer to the same underlying anxiety: an independent clergy, answerable to Rome or the Synod rather than to the crown, was a channel through which the republican argument could travel — and, next door to Catholic republics that were visibly thriving, that channel needed watching.
+
+**Russia** required no new invention. Peter the Great's Holy Synod, established in 1721, had already made the Orthodox Church a department of the state rather than a body with its own independent hierarchy; the Patriarchate remained abolished throughout the Covenant's existence, and the Synod's Ober-Procurator answered to the Tsar as plainly as any minister.
+
+**Prussia's** version ran through the older logic of the territorial Lutheran church: the crown as *summus episcopus*, supreme governor of the church within its own lands, a fusion of throne and altar built into Lutheran state-church structure since the Reformation and never seriously challenged.
+
+**Austria** deepened rather than invented its arrangement. Josephinism — the sweeping ecclesiastical reforms of the 1780s, which had already subjected seminary curricula to state inspection, made episcopal appointment conditional on imperial approval, dissolved monasteries judged unproductive, and required correspondence between Austrian clergy and Rome to pass through Vienna's own review — hardened rather than relaxed once the Covenant's ideological project gave it fresh purpose. What had begun as bureaucratic tidying under Joseph II became, by the Covenant's middle decades, an explicit instrument: a Catholic clergy licensed and monitored by the crown could be trusted not to notice, publicly, what a Catholic clergy across the border in Liège or Dublin was demonstrating by simply existing.
+
+**Iberia** extended the oldest of the four mechanisms, the **Patronato Real** — the crown's papally-conceded authority over ecclesiastical appointments across its colonial territories, inherited from the Spanish and Portuguese empires before their union. What had originated as a practical concession to a crown funding missionary work across two oceans became, under the Covenant, a comprehensive system: bishops who owed their sees to Madrid's nomination, seminaries whose curricula served the empire's stability as readily as its congregations' souls, and a clergy trained to understand that its temporal loyalty and its spiritual vocation pointed in the same direction because the crown had made certain they were taught to.
+
+The four mechanisms differed in theology and machinery — Orthodox synodal control, Lutheran territorial supremacy, Catholic administrative licensing twice over — but shared a single function. An independent clergy is a clergy capable of noticing, and saying, that a Catholic can be loyal to something other than a king. The Covenant's monarchies, watching that argument win converts in Liège and Dublin, each concluded independently that the safer clergy was the supervised one.
+
+---
+
 ## The Colonial Arrangement
 
 The Covenant's most distinctive internal institution emerged not from its founding documents but from a crisis that threatened its most powerful member.
