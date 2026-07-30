@@ -102,7 +102,7 @@ The federal head of government is the Governor of the Federal Republic, elected 
 
 ## League Membership
 
-The Federal Republic of Ayiti applied for League of Nations membership in 1906, following the collapse of the Covenant after Russia's defeat by Japan. The Iberian Empire, whose founding grievance had involved Santo Domingo and whose influence had kept Ayiti outside the League for over a century, was in no position to object. Ayiti was admitted alongside Mexico, whose long path from Iberian colony to independent republic had reached a similar conclusion through different circumstances.
+The Federal Republic of Ayiti applied for League of Nations membership in 1906, following the collapse of the Covenant after Russia's defeat by Japan. The Iberian Empire, whose founding grievance had involved Santo Domingo and whose influence had kept Ayiti outside the League for over a century, was in no position to object. Ayiti's was, among the League's American members, the singular case: every other republic in the hemisphere had been admitted on ordinary republican credentials in due course, while Ayiti alone carried a specific diplomatic liability — the killing of a Spanish governor in the founding crisis — that made the League genuinely reluctant to formalise what it had, in practice, been quietly supporting since the 1790s.
 
 The admission formalities were conducted with some ceremony. The League, which had been providing covert support to Saint-Domingue since the 1790s, preferred to treat the membership as a straightforward new application rather than the conclusion of a long prior relationship. Ayiti was content to let it be treated that way.
 
@@ -120,4 +120,4 @@ The trade function developed alongside the educational one and was reinforced by
 
 ## TODO
 
-- Mexico: independence from the Iberian Empire (path and timing); League accession alongside Ayiti in 1907
+- Mexico: independence from the Iberian Empire (path and timing) — see `factions/mexico.md` for its earlier, unimpeded Maritime League accession in the 1830s

@@ -79,7 +79,7 @@ The Maritime League admitted only republics. The Northern Realm's High Guardian 
 
 This arrangement suited both parties. The League gained Swedish and Norwegian maritime cooperation and a buffer on Russia's western flank without the precedent of admitting a non-republic. The Northern Realm gained the protection it needed without formally subordinating its constitutional arrangements to League approval.
 
-When the League of Nations replaced the Maritime League in the early twentieth century following the Covenant's dissolution, the new body's broader membership criteria accommodated the Northern Realm without difficulty. The Northern Realm joined as a full member in 1907, alongside Ayiti and Mexico.
+When the League of Nations replaced the Maritime League in the early twentieth century following the Covenant's dissolution, the new body's broader membership criteria accommodated the Northern Realm without difficulty. The Northern Realm joined as a full member in 1907, alongside Ayiti and the Northwest Confederation.
 
 ---
 
@@ -98,6 +98,18 @@ Denmark is not part of the Northern Realm and has never sought to join it. Danis
 The two Scandinavian arrangements — Northern Realm alignment and Danish neutrality — are understood, by the states involved and by outside observers, as complementary adaptations to the same geographic reality.
 
 ---
+
+## Universal Suffrage
+
+The Northern Realm reached full universal suffrage earlier than any Maritime League founder, republic or associate — a fact contemporaries attributed as much to scale as to constitutional tradition.
+
+The Riksdag had never been a parliament of two classes negotiating whether to admit a third. Its four historic estates — nobility, clergy, burghers, and, uniquely among Europe's parliaments, the **Peasant Estate** (*Bondeståndet*) — meant ordinary agrarian people had held a formal seat in national deliberation for centuries before the Realm's modern constitutional settlement existed to argue about. When the estates system was eventually superseded by direct representation, the live question was never whether commoners belonged in the Riksdag. They always had. The only question was how best to represent people who had never, in living memory, been excluded.
+
+The election of the first female High Guardian removed the last unexamined assumption from the settlement. She was elected, as the constitution required, by a Riksdag that found nothing in its own rules preventing her — proof, visible at the very top of the state, that the framework's exclusions had never been more than default and unconsidered rather than deliberate. Extending the vote itself to women followed within a few years, argued less as a bold departure than as a formality the Riksdag had, in effect, already conceded the moment it seated her.
+
+Size did the rest. The Northern Realm's combined population was a fraction of France's, its economy far less industrially stratified, its politics far less factionally complex. The anxiety that dominated the great continental suffrage debates — the fear, argued most insistently by France's Technocrats, that a franchise extended too far would hand a state's decisions to people incapable of exercising them responsibly — had little purchase in a country small and familiar enough that "the masses" were not an abstraction to be managed but the Riksdag's own neighbours, tenants, and kin. Governing a peasantry the Realm's institutions had dealt with directly for generations was a different proposition than governing thirty million subjects of a centralising state built by administrators who had never met most of the people they proposed to examine.
+
+The Northern Realm's example became, in League and associate circles alike, an uncomfortable one for larger states to argue around: if a state could simply extend the franchise and continue functioning without technocratic catastrophe, the claim that scale required gatekeeping began to look less like a principle and more like a preference dressed as one.
 
 ## The Nordriket Model
 

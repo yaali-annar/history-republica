@@ -46,6 +46,14 @@ The technocratic character of this arrangement is deliberate. The grandes école
 
 ## Constitutional History
 
+### The Liège Inheritance
+
+France's founding franchise did not emerge from first principles. The Estates-General generation had spent decades reading, and in a notable handful of cases visiting, the Republic of Meuse — whose guild-based franchise had already answered the question French Enlightenment writers kept posing in the abstract: on what basis, other than birth or land, does a person earn a voice in government? Liège's answer was demonstrated service — a completed apprenticeship, a registered trade, a turn in the civic militia.
+
+The Assembly did not import this model whole. Its own membership was drawn overwhelmingly from lawyers, merchants, and the professions rather than guild artisans, and it built a version of "what you do" legible to that membership: ownership or operation of a registered business. It was Liège's logic in a Parisian coat — service demonstrated through commerce rather than trade, because commerce was the form of service the Assembly itself understood and could verify by a registry rather than a guild hall.
+
+The gap between the two models — Meuse's broader standard of demonstrated service and France's narrower standard of registered proprietorship — did not close for a generation, and it closed by a different route than direct imitation. The Brevet Civique's examination in republican history and civic administration was, in effect, France finally building its own version of an apprenticeship: proof of civic competence substituting for proof of a trade, arriving at Liège's underlying principle by a native French path rather than a borrowed one.
+
 ### The Widow's Provision and Inadvertent Suffrage
 
 France's early franchise was propertied: citizens who owned or operated a registered business could vote. The provision that extended this to widows — giving women who headed households the same standing as men — was drafted with widows in mind and not otherwise gendered. The legislators who drafted it did not intend to extend suffrage beyond widows. They did not specify otherwise, either.
