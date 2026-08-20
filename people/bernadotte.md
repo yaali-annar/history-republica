@@ -12,25 +12,25 @@ Jean-Baptiste Bernadotte is the most unusual figure of the republican era: a Fre
 
 ## The Rhine Campaign
 
-Bernadotte rose through the French Republic's army in the Rhine theater — the northern front where the work was unglamorous, the press of Covenant forces persistent, and the Republic of Rhine sat surrounded on three sides with no realistic prospect of relief except from the League. He commanded there through the early years of the nineteenth century, steady and methodical in a role that drew less attention than the Italian campaign but held a more precarious line.
+Bernadotte rose through the French Republic's army in the Rhine theater: the northern front where the work was unglamorous, the press of Covenant forces persistent, and the Republic of Rhine sat surrounded on three sides with no realistic prospect of relief except from the League. He commanded there through the early years of the nineteenth century, steady and methodical in a role that drew less attention than the Italian campaign but held a more precarious line.
 
 His reputation was made not by a battle but by a practice. Prussian soldiers captured along the Rhine returned home reporting treatment that their own commanders rarely extended to the enemy: properly fed, properly housed, released under parole without abuse. The reports were consistent enough, and unusual enough, that they traveled further than any dispatch. By the time the Rhine campaigns wound down, Bernadotte was known across the line between the blocs.
 
 ## The Swedish Offer
 
-The Swedish Riksdag found itself, in the first decade of the nineteenth century, facing a succession problem and a strategic one simultaneously. The ruling house had no viable heir. Russia, pressing from the east, had already absorbed Finland and showed no sign of stopping. The Riksdag needed not just a name but a signal — to the Covenant, to the League, to St. Petersburg most of all — about where Sweden intended to stand.
+The Swedish Riksdag found itself, in the first decade of the nineteenth century, facing a succession problem and a strategic one simultaneously. The ruling house had no viable heir. Russia, pressing from the east, had already absorbed Finland and showed no sign of stopping. The Riksdag needed not just a name but a signal (to the Covenant, to the League, to St. Petersburg most of all) about where Sweden intended to stand.
 
 Someone in Stockholm recalled the name from the Rhine campaigns. A delegation was sent to Paris.
 
-Bernadotte received the offer without enthusiasm and gave his answer without haste. His calculation, set out in letters that survive, was not personal but strategic: Russia's encroachment on Scandinavia was a problem the Maritime League could not ignore, and a Sweden that drifted into Covenant orbit — or simply collapsed into instability — would hand Russia a coastline. If the League wanted Sweden oriented toward it rather than away from it, someone had to go to Stockholm and make that possible. The Swedish offer was, in his reading, a League problem wearing a personal invitation.
+Bernadotte received the offer without enthusiasm and gave his answer without haste. His calculation, set out in letters that survive, was not personal but strategic: Russia's encroachment on Scandinavia was a problem the Maritime League could not ignore, and a Sweden that drifted into Covenant orbit (or simply collapsed into instability) would hand Russia a coastline. If the League wanted Sweden oriented toward it rather than away from it, someone had to go to Stockholm and make that possible. The Swedish offer was, in his reading, a League problem wearing a personal invitation.
 
 He accepted. He did so on terms he stated clearly before accepting, and which the Riksdag accepted before he arrived.
 
 ## High Guardian
 
-Bernadotte's first condition was the title. He would not be King of Sweden. The Riksdag could call him what they liked so long as it was not that. What they settled on was **High Guardian** — a title with no hereditary implication, no pretension to divine sanction, and no precedent that any party needed to pretend otherwise.
+Bernadotte's first condition was the title. He would not be King of Sweden. The Riksdag could call him what they liked so long as it was not that. What they settled on was **High Guardian**: a title with no hereditary implication, no pretension to divine sanction, and no precedent that any party needed to pretend otherwise.
 
-His second condition was succession. The Riksdag would choose his replacement, as it would choose all subsequent High Guardians. No heir would inherit by right of blood. The Riksdag heard this condition, agreed to it, and then proceeded — for the next several generations — to elect Bernadottes anyway. The family had not sought this; the Parliament made its own choices. When the last male Bernadottes died without issue, the Riksdag elected his eldest daughter without notable controversy. She was the first female High Guardian, and the fact that this required no constitutional revision was considered, in retrospect, confirmation that Bernadotte's framework had worked as intended.
+His second condition was succession. The Riksdag would choose his replacement, as it would choose all subsequent High Guardians. No heir would inherit by right of blood. The Riksdag heard this condition, agreed to it, and then proceeded, for the next several generations, to elect Bernadottes anyway. The family had not sought this. The Parliament made its own choices. When the last male Bernadottes died without issue, the Riksdag elected his eldest daughter without notable controversy. She was the first female High Guardian, and the fact that this required no constitutional revision was considered, in retrospect, confirmation that Bernadotte's framework had worked as intended.
 
 The coronation ceremony was held in Stockholm Cathedral. At the moment when tradition required the new monarch to receive the crown, Bernadotte took it from the cushion and set it on the throne. He then sat beside it. The gesture was not explained. It did not need to be.
 
@@ -48,7 +48,7 @@ The broader diplomatic friction was managed through different channels. The Engl
 
 ## Legacy
 
-Bernadotte died in Stockholm in 1845, having served as High Guardian for roughly four decades. He was buried in Sweden at his own instruction, in a Swedish church, without French military honors — a Frenchman who had decided, at some point during four decades in Stockholm, that he had become something else.
+Bernadotte died in Stockholm in 1845, having served as High Guardian for roughly four decades. He was buried in Sweden at his own instruction, in a Swedish church, without French military honors: a Frenchman who had decided, at some point during four decades in Stockholm, that he had become something else.
 
 Norway's accession to the Swedish arrangement in the second decade of the nineteenth century expanded the entity into the Northern Realm, and Bernadotte's title with it. See `factions/northern-realm.md` for the Realm's constitutional structure, its status as a Maritime League associate, and its eventual League of Nations membership in 1907.
 

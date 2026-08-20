@@ -4,13 +4,13 @@
 **Capital**: Stockholm  
 **Head of State**: High Guardian, elected by the Riksdag  
 **Constituted**: circa 1820, following Norway's accession to the Swedish arrangement  
-**League status**: Maritime League associate; League of Nations full member from 1907
+**League status**: Maritime League associate, League of Nations full member from 1907
 
 ---
 
 ## Overview
 
-The Northern Realm is the constitutional arrangement that emerged from Jean-Baptiste Bernadotte's High Guardianship of Sweden and Norway's subsequent accession to it. It is not a republic and not quite a monarchy — the head of state holds the title of High Guardian, is elected by the Riksdag, and may not claim succession by right of blood. It is the only major state in the Maritime League's orbit that was never formally admitted to the Maritime League itself, whose membership rules required republican government.
+The Northern Realm is the constitutional arrangement that emerged from Jean-Baptiste Bernadotte's High Guardianship of Sweden and Norway's subsequent accession to it. It is not a republic and not quite a monarchy: the head of state holds the title of High Guardian, is elected by the Riksdag, and may not claim succession by right of blood. It is the only major state in the Maritime League's orbit that was never formally admitted to the Maritime League itself, whose membership rules required republican government.
 
 What the Northern Realm offered the League was alignment without membership: a buffer against Russian expansion into Scandinavia, Atlantic and North Sea maritime cooperation, and a constitutional model that demonstrated parliamentary governance could take root in soil that had never been republican. What the League offered the Northern Realm was protection it could not provide itself, and commercial access to the most productive trade network in the world.
 
@@ -20,9 +20,9 @@ What the Northern Realm offered the League was alignment without membership: a b
 
 The Northern Realm occupies the Scandinavian peninsula and the territories surrounding it.
 
-- **To the south**, Sweden borders the Baltic, with the Danish straits controlling access to that sea. The straits belong to neutral Denmark — an arrangement the Northern Realm depends on and cannot alter.
-- **To the east**, Sweden's long border with Russia is the Realm's existential concern. Russian expansion into Finland, absorbed in stages through the eighteenth century, brought Russian forces to within striking distance of Stockholm. The strategic logic that brought Bernadotte to Sweden was Russia; the same logic drove the Riksdag to seek a capable military commander rather than an agreeable figurehead.
-- **To the west**, Norway faces the Atlantic and the North Sea — waters the Maritime League navigates, fishes, and trades across. This westward exposure made Norway's alignment with the League's orbit natural once it was free to choose it.
+- **To the south**, Sweden borders the Baltic, with the Danish straits controlling access to that sea. The straits belong to neutral Denmark, an arrangement the Northern Realm depends on and cannot alter.
+- **To the east**, Sweden's long border with Russia is the Realm's existential concern. Russian expansion into Finland, absorbed in stages through the eighteenth century, brought Russian forces to within striking distance of Stockholm. The strategic logic that brought Bernadotte to Sweden was Russia. The same logic drove the Riksdag to seek a capable military commander rather than an agreeable figurehead.
+- **To the west**, Norway faces the Atlantic and the North Sea, waters the Maritime League navigates, fishes, and trades across. This westward exposure made Norway's alignment with the League's orbit natural once it was free to choose it.
 - **To the north**, the interior thins into territories shared with indigenous Sámi populations whose relationship with the Realm's institutions is defined by a series of agreements rather than absorption.
 
 ---
@@ -33,23 +33,23 @@ The Northern Realm occupies the Scandinavian peninsula and the territories surro
 
 The Riksdag's invitation to Jean-Baptiste Bernadotte, extended in the first decade of the nineteenth century, was driven by two problems simultaneously: a succession crisis and a Russian one. The ruling house had no viable heir. Russia, having absorbed Finland, was no longer a distant threat. The Riksdag needed a figure capable of organising Sweden's defence and, critically, of signalling to the Maritime League that Sweden intended to remain in its orbit rather than collapse into Russian dependency.
 
-Bernadotte accepted on terms that redefined the office. He would not be King. He would hold the title of High Guardian. His successor would be chosen by the Riksdag, not inherited. And he would receive a fixed annual salary, publicly recorded, in place of any open access to state funds — a condition he insisted on before arriving and which made his eventual audit by Robespierre entirely straightforward.
+Bernadotte accepted on terms that redefined the office. He would not be King. He would hold the title of High Guardian. His successor would be chosen by the Riksdag, not inherited. And he would receive a fixed annual salary, publicly recorded, in place of any open access to state funds, a condition he insisted on before arriving and which made his eventual audit by Robespierre entirely straightforward.
 
 His title at this stage was **High Guardian of Sweden**.
 
 ### Denmark's Neutrality and Norway's Problem
 
-Denmark's position in this period was determined by geography rather than preference. The Jutland peninsula is attached directly to Prussian territory; the Danish straits are the only entrance to the Baltic. These two facts made Denmark simultaneously too exposed to the Covenant to align openly with the League and too strategically valuable to either bloc to be absorbed by either. Denmark became neutral by the same logic that kept the Hanseatic cities neutral — not from a position of strength, but because both sides found its independence more useful than its incorporation.
+Denmark's position in this period was determined by geography rather than preference. The Jutland peninsula is attached directly to Prussian territory. The Danish straits are the only entrance to the Baltic. These two facts made Denmark simultaneously too exposed to the Covenant to align openly with the League and too strategically valuable to either bloc to be absorbed by either. Denmark became neutral by the same logic that kept the Hanseatic cities neutral: not from a position of strength, but because both sides found its independence more useful than its incorporation.
 
-For Norway, this created an intolerable situation. Norway and Denmark had been united since the fourteenth century, but the union had always been an asymmetric one — Copenhagen was the seat of power, Norway the subordinate partner. Danish neutrality, rational for Denmark, denied Norway any clear alignment. Norway faced the Atlantic and the North Sea, waters the Maritime League traded across, and found itself constitutionally prevented from acting on that orientation.
+For Norway, this created an intolerable situation. Norway and Denmark had been united since the fourteenth century, but the union had always been an asymmetric one: Copenhagen was the seat of power, Norway the subordinate partner. Danish neutrality, rational for Denmark, denied Norway any clear alignment. Norway faced the Atlantic and the North Sea, waters the Maritime League traded across, and found itself constitutionally prevented from acting on that orientation.
 
 The Norway-Denmark union had survived centuries of Spanish, French, and Swedish pressure. It did not survive the combination of Danish forced neutrality and the example of Bernadotte's Sweden.
 
 ### Norway's Accession
 
-Norwegian negotiators approached Stockholm in the second decade of the nineteenth century. The terms they sought were modeled closely on what Bernadotte had established: Norway would retain its own parliament — the Storting — its own courts, and its own domestic governance. Foreign policy and defence would be shared. The High Guardian would serve both nations.
+Norwegian negotiators approached Stockholm in the second decade of the nineteenth century. The terms they sought were modeled closely on what Bernadotte had established: Norway would retain its own parliament (the Storting), its own courts, and its own domestic governance. Foreign policy and defence would be shared. The High Guardian would serve both nations.
 
-The Riksdag ratified Norway's accession. With both nations under the same High Guardianship and shared defence, the entity required a name larger than Sweden. **The Northern Realm** — Nordriket — was what it became.
+The Riksdag ratified Norway's accession. With both nations under the same High Guardianship and shared defence, the entity required a name larger than Sweden. **The Northern Realm** (Nordriket) was what it became.
 
 Bernadotte's title expanded accordingly: **High Guardian of the Northern Realm**.
 
@@ -59,9 +59,9 @@ Bernadotte's title expanded accordingly: **High Guardian of the Northern Realm**
 
 ### The High Guardian
 
-Head of state of the Northern Realm. The office holds no hereditary claim — the Riksdag elects each High Guardian, in principle freely. In practice, the Riksdag elected Bernadotte's descendants across several generations; the family had not sought this, and the constitution did not require it. When the last male Bernadottes died without viable male heirs, the Riksdag elected the eldest daughter without constitutional revision. She was the first female High Guardian. The framework had not excluded her; it had simply not previously been tested on the question.
+Head of state of the Northern Realm. The office holds no hereditary claim. The Riksdag elects each High Guardian, in principle freely. In practice, the Riksdag elected Bernadotte's descendants across several generations. The family had not sought this, and the constitution did not require it. When the last male Bernadottes died without viable male heirs, the Riksdag elected the eldest daughter without constitutional revision. She was the first female High Guardian. The framework had not excluded her, it had simply not previously been tested on the question.
 
-The High Guardian receives a fixed annual salary, a constitutional requirement originating with Bernadotte's insistence. The salary is publicly recorded. The assets associated with the office — the residences, staff, carriages, and apparatus of a head of state — belong to the Realm, not the High Guardian personally.
+The High Guardian receives a fixed annual salary, a constitutional requirement originating with Bernadotte's insistence. The salary is publicly recorded. The assets associated with the office (the residences, staff, carriages, and apparatus of a head of state) belong to the Realm, not the High Guardian personally.
 
 ### The Riksdag
 
@@ -75,7 +75,7 @@ Norway's parliament. Domestic legislation, courts, taxation, and internal govern
 
 ## League Status
 
-The Maritime League admitted only republics. The Northern Realm's High Guardian system — parliamentary in character, non-hereditary in principle, honest in its finances — satisfied none of the formal criteria. The Realm was admitted as an **associate**: diplomatically aligned, commercially integrated, invited to League councils without a vote, and covered by League mutual defence commitments in practice if not in explicit treaty language.
+The Maritime League admitted only republics. The Northern Realm's High Guardian system, parliamentary in character, non-hereditary in principle, honest in its finances, satisfied none of the formal criteria. The Realm was admitted as an **associate**: diplomatically aligned, commercially integrated, invited to League councils without a vote, and covered by League mutual defence commitments in practice if not in explicit treaty language.
 
 This arrangement suited both parties. The League gained Swedish and Norwegian maritime cooperation and a buffer on Russia's western flank without the precedent of admitting a non-republic. The Northern Realm gained the protection it needed without formally subordinating its constitutional arrangements to League approval.
 
@@ -87,42 +87,42 @@ When the League of Nations replaced the Maritime League in the early twentieth c
 
 Russia's encroachment on Scandinavia was the strategic driver of the Northern Realm's formation and remained the dominant foreign policy concern for its first century of existence. Finland's absorption into the Russian Empire, completed in stages, left Russian forces close to Swedish territory. The Northern Realm's defence posture was organised primarily around this threat.
 
-The Covenant's collapse in 1905 — following Russia's defeat by Japan and the subsequent internal disintegration — removed the threat abruptly. The Northern Realm, which had spent a century organising its defence around Russia, found itself in the early twentieth century with a well-organised military and no immediate enemy. The League of Nations membership that followed was partly a reorientation: the same institutional alignment, formalised at last.
+The Covenant's collapse in 1905, following Russia's defeat by Japan and the subsequent internal disintegration, removed the threat abruptly. The Northern Realm, which had spent a century organising its defence around Russia, found itself in the early twentieth century with a well-organised military and no immediate enemy. The League of Nations membership that followed was partly a reorientation: the same institutional alignment, formalised at last.
 
 ---
 
 ## Denmark
 
-Denmark is not part of the Northern Realm and has never sought to join it. Danish neutrality — enforced by geography and accepted by both blocs as the least bad outcome — is a permanent feature of the regional order. The Northern Realm maintains cooperative relations with Denmark, particularly regarding the Danish straits, which the Realm's Baltic trade depends on remaining open.
+Denmark is not part of the Northern Realm and has never sought to join it. Danish neutrality, enforced by geography and accepted by both blocs as the least bad outcome, is a permanent feature of the regional order. The Northern Realm maintains cooperative relations with Denmark, particularly regarding the Danish straits, which the Realm's Baltic trade depends on remaining open.
 
-The two Scandinavian arrangements — Northern Realm alignment and Danish neutrality — are understood, by the states involved and by outside observers, as complementary adaptations to the same geographic reality.
+The two Scandinavian arrangements, Northern Realm alignment and Danish neutrality, are understood, by the states involved and by outside observers, as complementary adaptations to the same geographic reality.
 
 ---
 
 ## Universal Suffrage
 
-The Northern Realm reached full universal suffrage earlier than any Maritime League founder, republic or associate — a fact contemporaries attributed as much to scale as to constitutional tradition.
+The Northern Realm reached full universal suffrage earlier than any Maritime League founder, republic or associate, a fact contemporaries attributed as much to scale as to constitutional tradition.
 
-The Riksdag had never been a parliament of two classes negotiating whether to admit a third. Its four historic estates — nobility, clergy, burghers, and, uniquely among Europe's parliaments, the **Peasant Estate** (*Bondeståndet*) — meant ordinary agrarian people had held a formal seat in national deliberation for centuries before the Realm's modern constitutional settlement existed to argue about. When the estates system was eventually superseded by direct representation, the live question was never whether commoners belonged in the Riksdag. They always had. The only question was how best to represent people who had never, in living memory, been excluded.
+The Riksdag had never been a parliament of two classes negotiating whether to admit a third. Its four historic estates (nobility, clergy, burghers, and, uniquely among Europe's parliaments, the **Peasant Estate**, *Bondeståndet*) meant ordinary agrarian people had held a formal seat in national deliberation for centuries before the Realm's modern constitutional settlement existed to argue about. When the estates system was eventually superseded by direct representation, the live question was never whether commoners belonged in the Riksdag. They always had. The only question was how best to represent people who had never, in living memory, been excluded.
 
-The election of the first female High Guardian removed the last unexamined assumption from the settlement. She was elected, as the constitution required, by a Riksdag that found nothing in its own rules preventing her — proof, visible at the very top of the state, that the framework's exclusions had never been more than default and unconsidered rather than deliberate. Extending the vote itself to women followed within a few years, argued less as a bold departure than as a formality the Riksdag had, in effect, already conceded the moment it seated her.
+The election of the first female High Guardian removed the last unexamined assumption from the settlement. She was elected, as the constitution required, by a Riksdag that found nothing in its own rules preventing her, proof, visible at the very top of the state, that the framework's exclusions had never been more than default and unconsidered rather than deliberate. Extending the vote itself to women followed within a few years, argued less as a bold departure than as a formality the Riksdag had, in effect, already conceded the moment it seated her.
 
-Size did the rest. The Northern Realm's combined population was a fraction of France's, its economy far less industrially stratified, its politics far less factionally complex. The anxiety that dominated the great continental suffrage debates — the fear, argued most insistently by France's Technocrats, that a franchise extended too far would hand a state's decisions to people incapable of exercising them responsibly — had little purchase in a country small and familiar enough that "the masses" were not an abstraction to be managed but the Riksdag's own neighbours, tenants, and kin. Governing a peasantry the Realm's institutions had dealt with directly for generations was a different proposition than governing thirty million subjects of a centralising state built by administrators who had never met most of the people they proposed to examine.
+Size did the rest. The Northern Realm's combined population was a fraction of France's, its economy far less industrially stratified, its politics far less factionally complex. The anxiety that dominated the great continental suffrage debates (the fear, argued most insistently by France's Technocrats, that a franchise extended too far would hand a state's decisions to people incapable of exercising them responsibly) had little purchase in a country small and familiar enough that "the masses" were not an abstraction to be managed but the Riksdag's own neighbours, tenants, and kin. Governing a peasantry the Realm's institutions had dealt with directly for generations was a different proposition than governing thirty million subjects of a centralising state built by administrators who had never met most of the people they proposed to examine.
 
 The Northern Realm's example became, in League and associate circles alike, an uncomfortable one for larger states to argue around: if a state could simply extend the franchise and continue functioning without technocratic catastrophe, the claim that scale required gatekeeping began to look less like a principle and more like a preference dressed as one.
 
 ## The Nordriket Model
 
-The Northern Realm's constitutional settlement — an elected head of state, a fixed public salary, parliamentary supremacy, non-hereditary succession in principle — was from the beginning understood as a proof of concept. The League admitted the Realm as an associate precisely because the formal criteria for republican membership could not accommodate it; what the Realm demonstrated, over the decades that followed, was that the criteria might have been drawn too narrowly.
+The Northern Realm's constitutional settlement (an elected head of state, a fixed public salary, parliamentary supremacy, non-hereditary succession in principle) was from the beginning understood as a proof of concept. The League admitted the Realm as an associate precisely because the formal criteria for republican membership could not accommodate it. What the Realm demonstrated, over the decades that followed, was that the criteria might have been drawn too narrowly.
 
 The argument the League faced in its dealings with states that were neither republican nor willing to become so was structural. Full republicanism required overturning dynasties, redistributing authority, and weathering the internal crises that constitutional revolution produces. Many states found the cost prohibitive and the Covenant's monarchist solidarity more comfortable. The League needed an alternative offer.
 
-The Northern Realm became that offer. The pitch was embodied rather than abstract: come to Stockholm, observe the Riksdag in session, examine the published accounts, meet the High Guardian. Here is a head of state who holds an office with a residence and a title and a salary — a salary recorded in public accounts, subject to audit, not a draft on the treasury without limit. Here is a succession that has passed, in practice, through a family across several generations not because blood demanded it but because the Riksdag kept choosing capable people from within it. Here is a state that is stable, prosperous, and sovereign, that is not a republic and does not require you to become one.
+The Northern Realm became that offer. The pitch was embodied rather than abstract: come to Stockholm, observe the Riksdag in session, examine the published accounts, meet the High Guardian. Here is a head of state who holds an office with a residence and a title and a salary: a salary recorded in public accounts, subject to audit, not a draft on the treasury without limit. Here is a succession that has passed, in practice, through a family across several generations not because blood demanded it but because the Riksdag kept choosing capable people from within it. Here is a state that is stable, prosperous, and sovereign, that is not a republic and does not require you to become one.
 
-The High Guardians of the late nineteenth century pursued this role actively. Stockholm received delegations from Ottoman reformers, Persian constitutional advocates, and Japanese officials visiting to observe the Riksdag in session and study the public accounts. The High Guardian travelled — to Istanbul at the invitation of Ottoman ministers, to Tehran, to other capitals where the Third Way argument needed to be made in person rather than by correspondence. The archive of letters exchanged between successive High Guardians and reformers across these states is one of the more studied collections of the period.
+The High Guardians of the late nineteenth century pursued this role actively. Stockholm received delegations from Ottoman reformers, Persian constitutional advocates, and Japanese officials visiting to observe the Riksdag in session and study the public accounts. The High Guardian travelled: to Istanbul at the invitation of Ottoman ministers, to Tehran, to other capitals where the Third Way argument needed to be made in person rather than by correspondence. The archive of letters exchanged between successive High Guardians and reformers across these states is one of the more studied collections of the period.
 
-The strategic logic was the League's as much as the Realm's. A constitutionally governed Ottoman Empire was a better buffer than an absolutist one — more stable, more capable of modernising its military and administration, less likely to collapse under Covenant pressure into a chaos the Covenant could exploit. The Northern Realm was not merely a model; it was a diplomatic instrument the League deployed with increasing deliberateness as the nineteenth century progressed.
+The strategic logic was the League's as much as the Realm's. A constitutionally governed Ottoman Empire was a better buffer than an absolutist one: more stable, more capable of modernising its military and administration, less likely to collapse under Covenant pressure into a chaos the Covenant could exploit. The Northern Realm was not merely a model, it was a diplomatic instrument the League deployed with increasing deliberateness as the nineteenth century progressed.
 
-The results varied. Japan developed a constitutional framework in which the Emperor's role was defined and constrained and the former daimyo class evolved toward parliamentary representation — a settlement that owed something to the Riksdag model without replicating it. The Ottoman modernisation produced partial results: constrained executive authority, nascent parliamentary institutions, enough stability to survive as a state. Persia's constitutional movement achieved a settlement, contested it, then gradually stabilised.
+The results varied. Japan developed a constitutional framework in which the Emperor's role was defined and constrained and the former daimyo class evolved toward parliamentary representation, a settlement that owed something to the Riksdag model without replicating it. The Ottoman modernisation produced partial results: constrained executive authority, nascent parliamentary institutions, enough stability to survive as a state. Persia's constitutional movement achieved a settlement, contested it, then gradually stabilised.
 
 The common thread was Stockholm: the city to which reformers travelled, the model to which they pointed when arguing at home, the evidence that a third way between absolute monarchy and republican revolution was not merely a theory but a functioning state with audited accounts and an elected head of government who drew a salary and went home at the end of his term.
