@@ -32,7 +32,7 @@ Louis XIV's target in 1672 was not the Dutch Republic but the Republic of Meuse,
 
 De Witt's argument to the States-General was brief: the Dutch had given Meuse a security guarantee, Liège arms equipped the Dutch military, and a League that abandoned its own commitments at the first test was no League at all. The Dutch Republic mobilized. English intervention followed on Lambert's argument about Charles II.
 
-The French advance was repelled. De Witt's guarantee held. The Orange faction had no disaster to exploit — no invasion of Dutch soil, no military collapse, no scapegoat. William of Orange remained politically marginal.
+The French advance was repelled. De Witt's guarantee held. The Orange faction had no disaster to exploit: no invasion of Dutch soil, no military collapse, no scapegoat. William of Orange remained politically marginal.
 
 ## The Compact of the Sister Republics
 
@@ -44,4 +44,4 @@ De Witt regarded it as the logical completion of the relationship he and Lambert
 
 De Witt retired from the Grand Pensionary's office in the late 1680s and died in The Hague in 1697. He outlived Lambert by six years.
 
-His reputation in the Dutch Republic rests on the unusual combination of longevity and restraint — governing for decades without accumulating personal power, maintaining republican institutions against both Orangist pressure and French threat. Internationally, he is remembered alongside Lambert as a founder of the order that became the League of Nations: two practical men who understood that republics which negotiate outlast empires that command.
+His reputation in the Dutch Republic rests on the unusual combination of longevity and restraint: governing for decades without accumulating personal power, maintaining republican institutions against both Orangist pressure and French threat. Internationally, he is remembered alongside Lambert as a founder of the order that became the League of Nations: two practical men who understood that republics which negotiate outlast empires that command.

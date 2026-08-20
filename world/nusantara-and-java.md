@@ -36,8 +36,6 @@ The **Bugis and Makassar sultanates** of southern Sulawesi were the third holdou
 
 The Bugis and Makassar mariners of this alliance were not new to the waters south of Timor and the Arafura Sea. Their trepang fishing fleets had worked the northern coast of the southern continent and traded with its peoples for generations before the alliance with Mataram existed in any formal sense. What the Mataram partnership added was the reach to turn a seasonal fishing and trading contact into permanent settlement, a project that gathered force, in part, as compensation for the stalemate at Timor. Blocked from securing the easier eastward path through the Lesser Sundas, the Mataram court's ambitions bent southward instead, along a route that ran wide of Covenant waters entirely.
 
-The fuller history of that settlement, its founding, its relationship with the southern continent's indigenous peoples, and its consequences for the Mataram-Bugis-Makassar bloc's internal balance, is not yet written.
-
 ---
 
 ## TODO
