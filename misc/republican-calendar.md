@@ -8,7 +8,7 @@
 
 ## I. The Defects of the Present Calendar
 
-The Gregorian calendar, which the Republic has inherited from the monarchy and the Church, is not merely a religious instrument: it is also a defective one. Its months are of unequal length, a fact without astronomical or mathematical justification, which descended to us from Roman political accident. The days of the week do not correspond to fixed positions within the month; a merchant who wishes to know whether the fifteenth of next month falls on a market day must consult a table. The leap day falls in February by historical contingency, not by design, creating an asymmetry that propagates through the year.
+The Gregorian calendar, which the Republic has inherited from the monarchy and the Church, is not merely a religious instrument: it is also a defective one. Its months are of unequal length, a fact without astronomical or mathematical justification, which descended to us from Roman political accident. The days of the week do not correspond to fixed positions within the month. A merchant who wishes to know whether the fifteenth of next month falls on a market day must consult a table. The leap day falls in February by historical contingency, not by design, creating an asymmetry that propagates through the year.
 
 These are practical defects. They impose real costs on commerce, on public administration, and on the calculation of wages. A laborer paid monthly cannot verify, without arithmetic, whether his employer has given him his due. The months are not equal. A notary scheduling a term cannot know, without a calendar in hand, whether the date falls before or after a day of rest.
 
@@ -16,7 +16,7 @@ The republic inherits these defects. It need not keep them.
 
 ## II. Against the Metrification of Time
 
-Before setting out a positive proposal, I must address a school of thought that has gained some currency in the discussions of the Commission: the proposal to apply decimal division not only to the calendar but to time itself — to divide the day into ten hours, the hour into one hundred minutes, the minute into one hundred seconds.
+Before setting out a positive proposal, I must address a school of thought that has gained some currency in the discussions of the Commission: the proposal to apply decimal division not only to the calendar but to time itself: to divide the day into ten hours, the hour into one hundred minutes, the minute into one hundred seconds.
 
 I oppose this with some force.
 
@@ -56,17 +56,17 @@ The names of the months should be intelligible to the citizen without learning, 
 **Pluviôse**: the rains, deep winter.
 **Ventôse**: the winds, late winter, before the renewal.
 
-The civic day, falling on the first of March, I propose to call the *Jour Républicain*: a day outside the count of months and weeks, belonging to the republic entire. It falls between the last day of Ventôse and the first day of Germinal — between the final breath of winter and the first act of spring.
+The civic day, falling on the first of March, I propose to call the *Jour Républicain*: a day outside the count of months and weeks, belonging to the republic entire. It falls between the last day of Ventôse and the first day of Germinal, between the final breath of winter and the first act of spring.
 
 ## V. The Epoch
 
 Every calendar requires a beginning. The question is not whether to choose a date, but which date most honestly represents what this calendar is.
 
-It would be easy — and false — to begin the count from the proclamation of the French Republic. Easy, because it would anchor the calendar in our own moment; false, because it would imply that republican government began in France, which it did not.
+It would be easy, and false, to begin the count from the proclamation of the French Republic. Easy, because it would anchor the calendar in our own moment. False, because it would imply that republican government began in France, which it did not.
 
 The first modern republic was constituted in England. In the year one thousand six hundred and forty-nine, the Commonwealth of England was established by an act that ended the reign of the monarchy. The second of March of that year (the first morning of what would become Germinal) I propose as Year One, Day One of this calendar.
 
-This choice serves several purposes. It honours a republic that has governed itself, without monarchy, for one hundred and forty-two years, and whose example demonstrated that self-government was possible before France was in a position to attempt it. It makes the calendar a *republican* calendar rather than a *French* calendar — a distinction of considerable importance if we wish our sister republics to adopt it. And it gives the calendar a depth of history that no calendar anchored to the present year could possess.
+This choice serves several purposes. It honours a republic that has governed itself, without monarchy, for one hundred and forty-two years, and whose example demonstrated that self-government was possible before France was in a position to attempt it. It makes the calendar a *republican* calendar rather than a *French* calendar: a distinction of considerable importance if we wish our sister republics to adopt it. And it gives the calendar a depth of history that no calendar anchored to the present year could possess.
 
 The French Republic does not begin republican time. It continues it.
 
