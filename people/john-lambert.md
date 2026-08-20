@@ -32,7 +32,7 @@ Lambert's most consequential act in the early 1650s was not diplomatic but const
 
 The Long Parliament had made itself legally undissolvable in 1641, a defensive measure against Charles I's habit of ruling without Parliament that had worked rather too well. The Rump, its remnant after Pride's Purge, sat from 1648 onward with no mechanism to compel new elections and every incentive to avoid them. Cromwell's eventual solution was to march soldiers into the chamber and expel the members by force: no legal basis, justified after the fact by Providence and necessity. Lambert's solution was to argue that the clock had already run.
 
-The Republic began on 30 January 1649, the day Charles I was executed. That was Lambert's constitutional Year Zero. The Instrument of Government established fixed parliamentary terms — three years, after which a Parliament expired automatically and new elections were required. No actor needed authority to dissolve it; it dissolved itself by schedule. Applied from the Republic's founding moment, the Rump's term ran out in early 1652. Lambert did not dissolve it. He told it that its term had ended.
+The Republic began on 30 January 1649, the day Charles I was executed. That was Lambert's constitutional Year Zero. The Instrument of Government established fixed parliamentary terms of three years, after which a Parliament expired automatically and new elections were required. No actor needed authority to dissolve it. It dissolved itself by schedule. Applied from the Republic's founding moment, the Rump's term ran out in early 1652. Lambert did not dissolve it. He told it that its term had ended.
 
 The Navigation Act provided the political cover. Parliament had nearly driven England to war with the Dutch Republic, and Lambert had spent months quietly repairing the damage. The case for a fresh constitutional settlement was easier to make with that embarrassment on the table. Most Rump members accepted the exit. The alternative was to contest the argument with no army behind them.
 
@@ -48,7 +48,7 @@ The debt was real and he did not dispute it. Through the 1640s, Parliament had f
 
 What he refused was the scale. Paying the debt required perhaps five million acres of confiscated land. The legislation being drafted in the Rump would have confiscated eleven million (nearly two thirds of all Irish land) on the principle that every Catholic landowner was presumptively guilty of rebellion unless they could prove otherwise, with even the innocent to be transplanted west of the Shannon. The surplus beyond the debt was not accounting. It was ideology: the culmination of a decades-long English ambition to remake Ireland's landowning class entirely.
 
-Lambert's settlement confined confiscation to those who had actively borne arms against the Commonwealth — their officers, the commanders, the principal instigators of the 1641 rebellion. Catholic landowners who had remained neutral or submitted kept their estates. The transplantation was abandoned.
+Lambert's settlement confined confiscation to those who had actively borne arms against the Commonwealth: their officers, the commanders, the principal instigators of the 1641 rebellion. Catholic landowners who had remained neutral or submitted kept their estates. The transplantation was abandoned.
 
 The Adventurers were paid. The soldiers were settled. Ireland remained subordinate, governed from London, resentful of conquest. Lambert had no illusions about gratitude. But it retained an indigenous propertied class with reason to prefer stability over insurgency. A landlord with an estate does not burn it. The permanent garrison that a transplanted and dispossessed population would have required was not needed, and the republic could not have afforded it.
 
@@ -64,7 +64,7 @@ Lambert's argument to Parliament was the same one he had been making for twenty 
 
 English ships and forces joined the Dutch defense of Meuse. The campaign failed. France withdrew. Charles II's cause collapsed with it: the man had marched with the army that attacked England's allies, and no English Parliament would hear of restoration after that.
 
-In the years following, Lambert and De Witt formalized the Compact of the Sister Republics — mutual defense provisions that replaced the informal guarantee that had just been tested. Lambert regarded it as completing what the 1651 negotiations had begun.
+In the years following, Lambert and De Witt formalized the Compact of the Sister Republics (mutual defense provisions that replaced the informal guarantee that had just been tested). Lambert regarded it as completing what the 1651 negotiations had begun.
 
 ## Retirement, 1679
 

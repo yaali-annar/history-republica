@@ -23,20 +23,20 @@ Required fields appear in every document. Optional fields appear only where appl
 **Common name**: [Informal name used by outsiders]
 **Constituent states**: [If a federation]
 **Official languages**: [If multilingual and relevant]
-**Government**: [If a brief label helps — "Federal republic", "Constitutional monarchy", etc.]
+**Government**: [If a brief label helps, "Federal republic", "Constitutional monarchy", etc.]
 ```
 
 ---
 
 ## Section reference
 
-Not all sections appear in every document. Use what the faction needs. Order the narrative sections to suit the faction's story — there is no fixed sequence beyond Overview first and Position in the League last.
+Not all sections appear in every document. Use what the faction needs. Order the narrative sections to suit the faction's story. There is no fixed sequence beyond Overview first and Position in the League last.
 
 ---
 
 ### ## Overview
 
-Always present. Two to four paragraphs. Covers: what the faction is, where it sits in the world order, one or two defining characteristics. Should be readable as a standalone summary. Does not recapitulate every section that follows — leaves detail to the body.
+Always present. Two to four paragraphs. Covers: what the faction is, where it sits in the world order, one or two defining characteristics. Should be readable as a standalone summary. Does not recapitulate every section that follows, leaves detail to the body.
 
 ---
 
@@ -60,15 +60,15 @@ Name sections after events or periods, not after generic categories like "Histor
 Present in most documents. Covers the mechanics of governance: executive office, legislature, franchise, how authority is divided. Use `###` subsections for each element (franchise, executive title, parliament, etc.).
 
 Useful subsections:
-- `### [Executive title]` — selection method, term, powers, limits
-- `### [Legislature]` — composition, authority, relationship to executive
-- `### The Franchise` — who votes, how that has changed over time
+- `### [Executive title]`: selection method, term, powers, limits
+- `### [Legislature]`: composition, authority, relationship to executive
+- `### The Franchise`: who votes, how that has changed over time
 
 ---
 
 ### ## Internal Factions
 
-Optional. Present where the faction's internal politics are legible and relevant. Describes major blocs, tendencies, or parties — not a comprehensive political survey, but the fault lines that matter for understanding how the faction behaves. Use `###` per faction.
+Optional. Present where the faction's internal politics are legible and relevant. Describes major blocs, tendencies, or parties, not a comprehensive political survey, but the fault lines that matter for understanding how the faction behaves. Use `###` per faction.
 
 ---
 
@@ -86,7 +86,7 @@ Optional. Present where the faction's external posture is a defining characteris
 
 ### ## Position in the League
 
-Always present, usually last. Covers: founding member or later accession, what the faction contributes to and receives from the League, its diplomatic weight and relationships with other members. Should also note any complications — associate status, delayed admission, conditions attached to membership.
+Always present, usually last. Covers: founding member or later accession, what the faction contributes to and receives from the League, its diplomatic weight and relationships with other members. Should also note any complications: associate status, delayed admission, conditions attached to membership.
 
 ---
 
@@ -98,7 +98,7 @@ Optional. Present where canon is incomplete. List open questions or pending deve
 
 ## Style conventions
 
-**Voice**: Third-person encyclopedic. Written as though by a knowledgeable observer in the Straits Federal District in the year 2000. Strictly in-world — no references to other timelines, counterfactuals, or divergence from anything else. Things happened as they happened.
+**Voice**: Third-person encyclopedic. Written as though by a knowledgeable observer in the Straits Federal District in the year 2000. Strictly in-world, no references to other timelines, counterfactuals, or divergence from anything else. Things happened as they happened.
 
 **Prose**: Narrative paragraphs, not bullet lists. Reserve bullets for the TODO section and for geographic enumerations (e.g. listing borders). Favour long, structured paragraphs with clear topic sentences over fragmented lists.
 

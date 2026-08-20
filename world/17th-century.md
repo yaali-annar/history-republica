@@ -2,43 +2,43 @@
 
 ## The Battle of Worcester, 1651
 
-The English Commonwealth's final major engagement against the Royalist forces of Charles II. Oliver Cromwell was severely wounded in the battle and died from his wounds and sepsis in the weeks that followed — before the Navigation Act was passed by Parliament on October 9, 1651.
+The English Commonwealth's final major engagement against the Royalist forces of Charles II. Oliver Cromwell was severely wounded in the battle and died from his wounds and sepsis in the weeks that followed, before the Navigation Act was passed by Parliament on October 9, 1651.
 
 John Lambert, senior commander and present at Worcester, stepped naturally into leadership. The Commonwealth's greatest military victory became also the moment of its transition.
 
 ## Lambert's Republic
 
-Lambert was better suited to building a durable republic than Cromwell. Where Cromwell governed around institutions, Lambert had already drafted the Instrument of Government — England's first written constitution — and was committed to governing through it.
+Lambert was better suited to building a durable republic than Cromwell. Where Cromwell governed around institutions, Lambert had already drafted the Instrument of Government (England's first written constitution) and was committed to governing through it.
 
 His advantages:
 - Military credibility with the army officer corps
 - Pragmatic and less religiously intense than Cromwell, making him more palatable to the Presbyterian gentry who wanted stability
-- No personal ambition for the crown — a firm republican
+- No personal ambition for the crown: a firm republican
 - Coalition-style governance rather than personal rule, making the settlement less dependent on one man
 
 ## The Constitutional Settlement, 1652
 
 Lambert's constitutional solution was to treat the Republic's founding as Year Zero.
 
-The Long Parliament had made itself legally undissolvable in 1641 — a defensive measure against Charles I that left Parliament with no mechanism to compel its own renewal and every incentive to avoid one. The Rump, sitting since 1648, had accumulated MPs who had not faced the voters in over a decade. Where Cromwell eventually expelled it by force, Lambert read the situation differently: the Instrument of Government established fixed three-year parliamentary terms, and the Republic had been founded on 30 January 1649. The arithmetic was simple. The Rump's term had run out.
+The Long Parliament had made itself legally undissolvable in 1641 (a defensive measure against Charles I that left Parliament with no mechanism to compel its own renewal and every incentive to avoid one). The Rump, sitting since 1648, had accumulated MPs who had not faced the voters in over a decade. Where Cromwell eventually expelled it by force, Lambert read the situation differently: the Instrument of Government established fixed three-year parliamentary terms, and the Republic had been founded on 30 January 1649. The arithmetic was simple. The Rump's term had run out.
 
-He did not dissolve the Rump. He told it that its term had ended — and used the Navigation Act crisis as the frame. Parliament had nearly driven England to war with its most natural ally; Lambert had spent months repairing the damage; the Republic needed a proper settlement, and the existing Parliament had completed its service. Most members accepted the exit. Lambert offered them dignity rather than expulsion, and the argument was not easy to contest from a position of no military support.
+He did not dissolve the Rump. He told it that its term had ended, and used the Navigation Act crisis as the frame. Parliament had nearly driven England to war with its most natural ally. Lambert had spent months repairing the damage. The Republic needed a proper settlement, and the existing Parliament had completed its service. Most members accepted the exit. Lambert offered them dignity rather than expulsion, and the argument was not easy to contest from a position of no military support.
 
-The new Parliament elected under the Instrument's reformed franchise — redistributed away from the rotten boroughs of the south toward the larger counties and towns — met with a mandate the Rump never had. Sir Henry Vane the Younger joined the Council of State as the leading civilian voice, providing republican credibility that Lambert, as a military man, could not supply himself. Their partnership was tense and productive in roughly equal measure.
+The new Parliament elected under the Instrument's reformed franchise (redistributed away from the rotten boroughs of the south toward the larger counties and towns) met with a mandate the Rump never had. Sir Henry Vane the Younger joined the Council of State as the leading civilian voice, providing republican credibility that Lambert, as a military man, could not supply himself. Their partnership was tense and productive in roughly equal measure.
 
-The fixed term was the Instrument's quiet revolution. No dissolution crisis, no coup required — Parliament simply expired and the republic renewed itself. It was the mechanism that made everything else durable.
+The fixed term was the Instrument's quiet revolution. No dissolution crisis, no coup required: Parliament simply expired and the republic renewed itself. It was the mechanism that made everything else durable.
 
 ## Ireland
 
-The Cromwellian conquest of Ireland — the campaigns of 1649 and 1650 — was complete before Worcester. What Lambert inherited was not a war but a settlement to be made.
+The Cromwellian conquest of Ireland (the campaigns of 1649 and 1650) was complete before Worcester. What Lambert inherited was not a war but a settlement to be made.
 
-Parliament's war creditors were real. Through the 1640s, money for the Irish campaigns had been raised by promising Irish land to the Adventurers — some 1,500 investors who had advanced funds against warrants on confiscated estates — and to soldiers who had not been paid in coin. The debt could not be cancelled; these were Parliament's own financiers.
+Parliament's war creditors were real. Through the 1640s, money for the Irish campaigns had been raised by promising Irish land to the Adventurers (some 1,500 investors who had advanced funds against warrants on confiscated estates) and to soldiers who had not been paid in coin. The debt could not be cancelled. These were Parliament's own financiers.
 
-But the debt required perhaps five million acres. The Rump had been drafting legislation to confiscate eleven million — nearly two thirds of all Irish land — on the principle that every Catholic landowner was presumptively a rebel, with even the neutral and submissive to be transplanted west of the Shannon. The gap between five million and eleven million was not arithmetic. It was the culmination of a decades-long English project to remake Ireland's landowning class by removing the Catholic one wholesale.
+But the debt required perhaps five million acres. The Rump had been drafting legislation to confiscate eleven million (nearly two thirds of all Irish land) on the principle that every Catholic landowner was presumptively a rebel, with even the neutral and submissive to be transplanted west of the Shannon. The gap between five million and eleven million was not arithmetic. It was the culmination of a decades-long English project to remake Ireland's landowning class by removing the Catholic one wholesale.
 
 Lambert drew the line at active rebellion. Confiscation applied to those who had borne arms against the Commonwealth: their officers, their commanders, the instigators of the 1641 rebellion. Catholics who had stayed neutral or submitted kept their land. The transplantation was not enacted.
 
-The Adventurers were paid. The soldiers received their grants. The accounts were closed. Ireland remained under English governance and would remain so — resentful, subordinate, seeking more than it was given. But it retained an indigenous Catholic gentry with property and therefore a stake in order. The permanent garrison that a fully dispossessed population would have demanded was never required, which was fortunate: the republic of the early 1650s could not have sustained it.
+The Adventurers were paid. The soldiers received their grants. The accounts were closed. Ireland remained under English governance and would remain so: resentful, subordinate, seeking more than it was given. But it retained an indigenous Catholic gentry with property and therefore a stake in order. The permanent garrison that a fully dispossessed population would have demanded was never required, which was fortunate: the republic of the early 1650s could not have sustained it.
 
 ## Scotland and the Compact of the Isles
 
@@ -46,11 +46,11 @@ Worcester left Scotland without its king and without an army. Charles II, crowne
 
 Lambert's message to the Scottish political class was direct: *Scotland needs a government. Establish one, and England will negotiate with it as a partner. Establish nothing, and we will govern Scotland as a possession.*
 
-The offer was genuine. Lambert had no interest in absorbing Scotland — a hostile occupied territory costs money and soldiers, and he had better uses for both. What he wanted was a settled Scottish government that could sign a compact and maintain its own order.
+The offer was genuine. Lambert had no interest in absorbing Scotland: a hostile occupied territory costs money and soldiers, and he had better uses for both. What he wanted was a settled Scottish government that could sign a compact and maintain its own order.
 
-The Kirk provided the institutional machinery. Scotland's Presbyterian establishment was the one body with sufficient reach across the country to convene a real political process. Crucially, it was divided in ways that worked in Lambert's favour. The **Engagers** — the faction that had allied with Charles II — were discredited by Worcester. The **Remonstrant** faction, which had refused to back a king they considered insincere about the Covenant, was vindicated. Lambert worked with the Remonstrants.
+The Kirk provided the institutional machinery. Scotland's Presbyterian establishment was the one body with sufficient reach across the country to convene a real political process. Crucially, it was divided in ways that worked in Lambert's favour. The **Engagers** (the faction that had allied with Charles II) were discredited by Worcester. The **Remonstrant** faction, which had refused to back a king they considered insincere about the Covenant, was vindicated. Lambert worked with the Remonstrants.
 
-The Lowland gentry accommodated themselves to the new reality quickly enough. Their military option had failed, Lambert's offer preserved their estates and their Parliament, and most were tired. Hard Royalists who could not accept the settlement were a minority, and a shrinking one. Charles II in Paris grew older and less credible with each passing year. The mechanism for his return — an army, a willing English faction, a crisis to exploit — did not materialise. When he died in exile, the cause died with him.
+The Lowland gentry accommodated themselves to the new reality quickly enough. Their military option had failed, Lambert's offer preserved their estates and their Parliament, and most were tired. Hard Royalists who could not accept the settlement were a minority, and a shrinking one. Charles II in Paris grew older and less credible with each passing year. The mechanism for his return (an army, a willing English faction, a crisis to exploit) did not materialise. When he died in exile, the cause died with him.
 
 The Highland clans required a different approach. Lambert did not attempt to pacify the Highlands militarily; he left that to the new Scottish government, which had been managing clan structures for centuries. The compact recognised the clans as they were. Chiefs pledged to the Scottish Parliament rather than the Stuart crown — a substitution that cost them little in practice and gained them legitimacy in the new order. The Highlands remained turbulent, but that was Scotland's turbulence to manage.
 
