@@ -66,8 +66,6 @@ The question was now a legal one, and harder to answer than it looked. The Provi
 
 The answer was federation. The English Republic, which had been paying for the Province of Freedom for half a century and had no appetite for a colonial war on the Guinea coast, agreed to release it on the model it had already applied to the Union of States and that the Dutch Republic had applied to the Cape. The Union of States, whose citizens had founded Christopolis but whose government had carefully never claimed it, recognised the settlers' right to constitute a state. The Gallinas chiefs had found that Iberian protection brought escorts for the factors' ships and nothing for themselves, and they negotiated terms. The **Constitution of Liberia** was proclaimed at Christopolis on 26 July 1847. The Maritime League admitted the new republic in the same year, on the sponsorship of England and the Union of States. The republic's first statute closed the Gallinas barracoons, and the Iberian factors left under the escort of the same warships that had been protecting them.
 
-The speed of the admission was not lost on Port-au-Prince. The Federal Republic of Ayiti, which had freed itself by its own hand half a century before Liberia existed, would wait another sixty years for League membership. Liberia had sponsors. Ayiti had a dead Spanish governor on its record, whose death the League had spent half a century officially describing as collateral. The joke told in Christopolis was that the most violent act of Liberia's founding had been drafting a constitution. The joke told in Port-au-Prince was that Liberia had been admitted because it had asked permission first. Ayitian writers have never let the comparison drop.
-
 ---
 
 ## A Republic on the Coast
@@ -164,7 +162,7 @@ The great majority of Liberians belong to the peoples of the former Treaty Chief
 
 ### Liberia and Ayiti
 
-Liberia and Ayiti, the League's two oldest Black republics, have been measuring themselves against each other since 1847. The University of Saint-Domingue has educated a large share of Liberia's interior leadership since the 1880s, and the Mende and Temne politicians who forced the Constitution of 1931 were Ayitian-educated almost to a man, which Settler commentators of the period did not fail to point out.
+Liberia and Ayiti, the League's two oldest Black republics, have been closely tied since the nineteenth century. The University of Saint-Domingue has educated a large share of Liberia's interior leadership since the 1880s, and the Mende and Temne politicians who forced the Constitution of 1931 were Ayitian-educated almost to a man, which Settler commentators of the period did not fail to point out.
 
 ---
 
