@@ -52,7 +52,7 @@ In-world documents from an alternate history in which England and the Dutch Repu
 - **Guyanas Federation**: English, Dutch, and French Guiana, federated c. 1795 under Iberian pressure. See `factions/guyanas-federation.md`.
 
 ### Continental Europe
-- **The Covenant** forms 1800-1815, triggered by the **Republic of Rhine** declaring inside HRE territory in the late 1790s. The Rhine borders Meuse and the Dutch Republic, is surrounded by the Covenant on three sides, and survives under implicit League guarantee.
+- **The Covenant** forms 1800-1815 (not 1789), triggered by the **Republic of Rhine** declaring inside HRE territory in the late 1790s. The Rhine borders Meuse and the Dutch Republic, is surrounded by the Covenant on three sides, and survives under implicit League guarantee.
 - **HRE**: Austria and Prussia absorb the smaller members. Hamburg, Bremen, Lübeck and other coastal cities negotiate neutrality.
 - **Bernadotte** commands on the Rhine. His treatment of Prussian prisoners leads to an offer from the **Northern Realm**, where he becomes **High Guardian** rather than king. The Realm later exports this constitutional model to Ottoman, Persian, and Japanese reformers. See `factions/northern-realm.md`.
 - **Napoleon** commands in northern Italy against Austria and builds the **Genoa-Venice** road, later rail. The settlement leaves League-aligned republics on Austria's southern border.
