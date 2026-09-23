@@ -22,7 +22,7 @@ The French monarchy entered 1789 bankrupt and politically paralysed. The Estates
 
 France went bankrupt in full view of five working republics: England, the Dutch Republic, the Republic of Meuse, the Union of States, and Nouvelle Gaule. Every argument that republican government produced chaos had already been answered before the Estates-General met. The answer was visible in every city with a Dutch consul or an English merchant or a Nouvelle Gaule newspaper.
 
-The Maritime League moved quickly. Diplomatic recognition of the National Assembly came from England and the Dutch Republic within months, before the situation had resolved, when recognition still meant something. The moderate republican factions had external backing and internal confidence that their counterparts in another history lacked. The king was going. The republic was coming. There was no existential military crisis to hand to those who would exploit it.
+The Maritime League moved quickly. Diplomatic recognition of the National Assembly came from England and the Dutch Republic within months, before the situation had resolved, when recognition still meant something. The moderate republican factions had external backing and internal confidence. The king was going. The republic was coming. There was no existential military crisis to hand to those who would exploit it.
 
 Louis Capet was exiled to Spain. The republican factions had enough confidence in their cause not to need a martyr.
 

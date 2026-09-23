@@ -118,15 +118,15 @@ The League's support for Ottoman modernisation was neither disinterested nor unl
 
 ## East Asian Associates
 
-The Covenant's reach extended beyond Europe in the latter half of the nineteenth century, primarily through Russia's eastward expansion across Siberia and into Manchuria. Two associate relationships defined the Covenant's eastern presence: Korea and the northern territories of China, both drawn into the Covenant's orbit through a combination of Russian patronage and local monarchist anxiety about the republican tide.
+The Covenant's reach extended beyond Europe in the latter half of the nineteenth century, primarily through Russia's eastward expansion across Siberia and into Manchuria. The Qing court's recognition of the Covenant, under Russian pressure in Manchuria, defined the Covenant's eastern presence, and Korea came into the Covenant's orbit through the Qing rather than directly.
 
 ### Korea
 
 Korea's path to Covenant association began with a religious crisis the Joseon court had not anticipated. Canadien Catholic missionaries, arriving in the mid-nineteenth century, taught that divine authority supersedes temporal power, a standard teaching of the faith, delivered without political calculation. The Joseon court heard it as something more precise: an argument that God's sovereignty stands above any earthly king. For an absolute monarchy, this was not a theological abstraction. It was a threat.
 
-The court's suppression of missionary activity and its subsequent diplomatic friction with League-aligned Canadia produced a crisis that clarified where Korea's alignment lay. Russia was the available patron and the logical protector of a monarchy that feared ideological subversion from the League's orbit. Korea became a Covenant associate (formally aligned, recognised, and drawn into Russia's sphere) not from enthusiasm for the Covenant's European agenda but from a specific local fear of what League-aligned ideology was doing to its subjects.
+The court's suppression of missionary activity and its subsequent diplomatic friction with League-aligned Canadia drove it back to the protection it had always relied on. Korea was a tributary of the Qing, and the Qing were within the Covenant's orbit. The Joseon court did not seek the Covenant or Russian patronage. It sheltered under the Qing, as Korean courts had for centuries, and its Covenant alignment followed from the Qing's. Russia, whose interest in Korea was real, dealt with the peninsula through Beijing.
 
-The irony was not lost on later commentators. Canadien missionaries acting from sincere religious conviction had inadvertently delivered Korea to the Covenant. They intended to save souls. The diplomatic consequence was a peninsula that became one of the flashpoints of the 1905 collapse.
+The peninsula became one of the flashpoints of the 1905 collapse, and lost its Qing protector when the Covenant fell.
 
 ### Northern China
 

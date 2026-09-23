@@ -39,7 +39,7 @@ The aftermath compounded the wound. Saint-Domingue declared independence in 1789
 
 The Iberian Empire inherited the accumulated colonial territories of two centuries of Spanish and Portuguese expansion:
 
-**The Americas**: Most of South America, including Brazil, Peru, the Río de la Plata territories, Chile, and the Andean interior. Central America from the Yucatán to Panama. The Caribbean holdings that remained after Saint-Domingue's independence.
+**The Americas**: Most of South America, including Brazil, Peru, the Río de la Plata territories, Chile, and the Andean interior. Central America from the Yucatán to Panama, until it passed to Mexico in the 1830s and 1840s. The Caribbean holdings that remained after Saint-Domingue's independence.
 
 **Asia**: The Philippines, Spain's Pacific possession, a substantial colonial administration maintained until independence was declared in the 1905 collapse window. Portuguese Timor, a smaller holding in the eastern Indonesian archipelago.
 
@@ -81,6 +81,6 @@ The loss was permanent and known to be so. Iberian political life thereafter was
 
 ## Decline and Dissolution
 
-The Covenant's collapse in 1905 removed the financial and human infrastructure on which the empire depended. Prussian gold and Austrian settlers had been structural. Without them, the administrative gap that had always existed became critical. The Philippines declared independence in this window. The African territories began the negotiations that would define the successor states of the following decades.
+The Covenant's collapse in 1905 removed the financial and human infrastructure on which the empire depended. Russian gold and Prussian and Austrian settlers had been structural. Without them, the administrative gap that had always existed became critical. The Philippines declared independence in this window. The African territories began the negotiations that would define the successor states of the following decades.
 
 What remained of the Iberian Empire after 1905 was a diminished metropolitan state and a colonial situation in managed retreat. The dynastic union itself did not survive the loss of common purpose. Spain and Portugal separated constitutionally in the early twentieth century, each following its own path toward what came after.

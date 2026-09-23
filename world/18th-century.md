@@ -34,15 +34,15 @@ French America bounded it on three sides. Quebec and the St. Lawrence to the nor
 
 The consequence was a colonial society that could not spread out and therefore grew dense. Land prices rose. Agriculture became intensive: planters who could not move west had to work their land carefully rather than exhaust it and abandon it. Cities grew because population had nowhere else to go: New Amsterdam, Philadelphia, Boston, Newport, Charleston became genuine urban centres rather than colonial outposts. Manufacturing arrived by necessity: textiles, metalworking, shipbuilding, printing, all flourished in a society where the agrarian escape valve was closed.
 
-The plantation economy of the southern states felt this most. Tobacco exhausts soil rapidly. In another history, tobacco planters simply moved west. Here they could not. By the early eighteenth century the southern states were restructuring, unevenly and painfully, toward crop rotation and diversification. The plantation interest weakened at precisely the moment when the legal structure of chattel slavery was still being contested.
+The plantation economy of the southern states felt this most. Tobacco exhausts soil rapidly. A planter elsewhere would simply have moved west to fresh land. Here there was no west to move to. By the early eighteenth century the southern states were restructuring, unevenly and painfully, toward crop rotation and diversification. The plantation interest weakened at precisely the moment when the legal structure of chattel slavery was still being contested.
 
 ## Labor: Indenture and Its Limits
 
-Indentured servitude was the dominant unfree labor institution of colonial North America, and in this world it remained so longer than in our timeline.
+Indentured servitude was the dominant unfree labor institution of colonial North America, and it remained so well into the eighteenth century.
 
 The system was brutal. Contracts could be bought and sold. Terms extended for real or invented infractions. The work was hard and the protections thin. But the term ended. The servant became free and entered colonial society (imperfectly, unevenly, without much in the way of assets) but genuinely free. This temporal limit, absent from chattel slavery, shaped the political economy differently. The Dutch half-freedom tradition in New Netherland had normalized a similar logic since the early seventeenth century: bondage as a condition one moved through, not a permanent identity inherited by one's children.
 
-Chattel slavery existed in the southern colonies and had been progressively entrenched in law through the late seventeenth century. But without westward expansion to sustain the plantation model's appetite for new land, the slave interest could not consolidate in the way it did in our timeline. When the founding document of the Union of States abolished permanent hereditary bondage in 1763, it was abolishing an institution that had not achieved structural dominance over the whole colonial economy.
+Chattel slavery existed in the southern colonies and had been progressively entrenched in law through the late seventeenth century. But without westward expansion to sustain the plantation model's appetite for new land, the slave interest could not consolidate. When the founding document of the Union of States abolished permanent hereditary bondage in 1763, it was abolishing an institution that had not achieved structural dominance over the whole colonial economy.
 
 The founding document abolished the legal status of chattel slavery. It did not immediately abolish time-limited labor contracts: that reform came later, state by state, through the following decades. The freed population moved into the same imperfect space that freed indentured servants had always occupied: legally free, materially disadvantaged, present.
 
@@ -50,9 +50,9 @@ The founding document abolished the legal status of chattel slavery. It did not 
 
 The Appalachians were the western limit of dense colonial settlement, not by policy but by the reality of what lay beyond them. The colonial assemblies did not choose not to expand. They could not expand, and over time the boundary became a recognized fact.
 
-The consequence was a different quality of relationship with the border nations than prevailed in our timeline. The Haudenosaunee Confederacy, positioned astride the northern Appalachian passes, maintained the Chain: the treaty alliance that had begun with Dutch traders at Albany in the early seventeenth century. The Union of States inherited this relationship. Nations along the ridge were trading partners and, in wartime, military allies whose knowledge of the mountain terrain was irreplaceable.
+The consequence was a relationship with the border nations built on treaty rather than displacement. The Haudenosaunee Confederacy, positioned astride the northern Appalachian passes, maintained the Chain: the treaty alliance that had begun with Dutch traders at Albany in the early seventeenth century. The Union of States inherited this relationship. Nations along the ridge were trading partners and, in wartime, military allies whose knowledge of the mountain terrain was irreplaceable.
 
-The structural pressure that made Indigenous-colonial conflict irresolvable in our timeline (the unending colonial appetite for western land) was largely absent. This did not produce a harmonious relationship. The colonial period had its wars and its injustices. But the border nations retained their standing as recognized diplomatic entities rather than obstacles to be removed.
+The structural pressure that makes Indigenous-colonial conflict irresolvable (an unending colonial appetite for western land) was largely absent. This did not produce a harmonious relationship. The colonial period had its wars and its injustices. But the border nations retained their standing as recognized diplomatic entities rather than obstacles to be removed.
 
 ## France's Long Wars and the Colonial Tax
 
@@ -126,7 +126,7 @@ France went bankrupt and turned republican in full view of five working republic
 
 The Maritime League moved quickly. Diplomatic recognition of the National Assembly came from England and the Dutch Republic within months, before the situation had resolved, when recognition still meant something. The Union of States sent observers whose presence was pointed. Meuse, Catholic and republican and prospering for over a century, was the argument that could not be answered on grounds of faith. If Meuse, why not France?
 
-The moderate republican factions had external backing and internal confidence that their counterparts in another history lacked. They did not need to outbid radicals for the mantle of revolutionary purity because the revolution was winning without radicalism. The king was going. The republic was coming. There was no existential military crisis to hand to those who would exploit it.
+The moderate republican factions had external backing and internal confidence. They did not need to outbid radicals for the mantle of revolutionary purity because the revolution was winning without radicalism. The king was going. The republic was coming. There was no existential military crisis to hand to those who would exploit it.
 
 Louis Capet was exiled to Spain. The republican factions had enough confidence in their cause not to need a martyr, and enough examples before them not to mistake blood for legitimacy.
 
@@ -134,17 +134,15 @@ Maximilien Robespierre was a significant voice in this period, but not the domin
 
 France joined the Maritime League.
 
-The Republic's relationship with the Church was not accommodating. The anti-clerical currents of the Enlightenment, freed from royal mediation, ran quickly into policy: ecclesiastical property, Church courts, and the religious ordering of public life all came under pressure. The revolution was less bloody than in another history but not less secular. France's republican culture, from its first decade, oriented itself toward reason and civic virtue rather than faith, a direction that would create friction with the League's Catholic republican members, and consequences for the wider republican world that would take decades to fully emerge.
+The Republic's relationship with the Church was not accommodating. The anti-clerical currents of the Enlightenment, freed from royal mediation, ran quickly into policy: ecclesiastical property, Church courts, and the religious ordering of public life all came under pressure. The revolution was not bloody, but it was thoroughly secular. France's republican culture, from its first decade, oriented itself toward reason and civic virtue rather than faith, a direction that would create friction with the League's Catholic republican members, and consequences for the wider republican world that would take decades to fully emerge.
 
-## The Covenant
+## The Monarchies Take Notice
 
-The Iberian crowns received Louis Capet. The exiled Bourbon in Madrid gave the monarchist powers a rallying point, not a cause they fully believed in, but a flag they could fly.
+Louis Capet reached Madrid and found the Spanish court undecided whether to protect him. It neither sheltered nor expelled him, and the exiled Bourbon became a figure the monarchies could point to without committing to his cause.
 
-Austria and Prussia, watching France go republican, understood what it meant for the logic of monarchy. Russia, further east and no less alarmed, reached the same conclusion. What had been an informal alignment (cooperation without commitment, shared instinct without shared doctrine) became explicit. The Covenant was the formalisation of that instinct: a mutual compact between Iberia, Austria, Prussia, and Russia to ensure that what had happened in England in 1649 and France in 1789 did not happen to them. Republics, left to flourish, were contagious. The Covenant existed to contain the infection.
+Austria and Prussia, watching France go republican, understood what it meant for the logic of monarchy. Russia, further east, reached the same conclusion. What followed in the 1790s was an informal alignment: cooperation without commitment, shared instinct without shared doctrine, and joint pressure on France's eastern frontier. It was not yet an alliance. Austria and Prussia had fought each other three times within living memory, Spain and Portugal were absorbed in forging the Iberian union, and Russia's interest was geopolitical as much as doctrinal.
 
-Its internal dynamics were not harmonious. Austria and Prussia had fought each other three times within living memory. Iberia was preoccupied with keeping its colonial empire intact. Russia's interest was geopolitical as much as doctrinal: a buffer of monarchist states between itself and the spreading republic world. The Covenant held together not through shared vision but through shared fear, and through the useful fiction that the exiled Bourbons in Madrid represented a legitimate reversible order rather than a dynasty the world had moved past.
-
-The League of Nations (as the Maritime League was beginning to call itself) was what they feared. Five republics in 1789 had become six. The rate of change was legible to anyone who could count.
+What turned the alignment into the Covenant was not France but the Republic of Rhine, which declared itself inside the Holy Roman Empire in the late 1790s. A republic next door could be contained. A republic inside the imperial body could not be ignored. The formal compact followed in the first years of the new century (see `world/19th-century.md` and `factions/covenant.md`).
 
 ## The Atlantic Trade and the Guinea Coast, 1787–1800
 
@@ -164,11 +162,11 @@ Across the Atlantic a second movement was forming. The freed population of the U
 
 Austria's position in northern Italy had never been accepted by the populations under it, and the French Republic's existence immediately changed the calculations of everyone living in its shadow. The Italian states (some nominally independent, some Habsburg dependencies, some old republics in various states of decay) looked at France and saw possibility.
 
-The Maritime League's response to Covenant military pressure on France's eastern borders was to open a second pressure point in northern Italy. If Austria had to watch the Alps as well as the Rhine, it could not concentrate in either direction. The French Republic's army moved into the Italian theatre in the early 1790s, and the officer who made it work was Napoleon Bonaparte.
+The Maritime League's response to Austrian and Prussian military pressure on France's eastern borders was to open a second pressure point in northern Italy. If Austria had to watch the Alps as well as the Rhine, it could not concentrate in either direction. The French Republic's army moved into the Italian theatre in the early 1790s, and the officer who made it work was Napoleon Bonaparte.
 
 Napoleon was Corsican-born, which is to say his birthplace had been sold by the Ligurian Republic to France the year before he arrived in it. He was a product of the French military academies and thoroughly French in his republicanism, but he moved through northern Italy as someone who understood the terrain in a way that was not purely military. He had opinions about Italian republics. He stated them with the certainty of someone who had not yet been wrong enough to develop doubt.
 
-His Italian campaign was not conquest. The objective was to pull Austrian attention and resources southward, to support republican movements in the Italian states, and to establish the French Republic as a power the Covenant would have to negotiate with rather than simply outlast. But where other officers saw military objectives, Napoleon also saw political ones. Venice was where the project became personal.
+His Italian campaign was not conquest. The objective was to pull Austrian attention and resources southward, to support republican movements in the Italian states, and to establish the French Republic as a power the monarchies would have to negotiate with rather than simply outlast. But where other officers saw military objectives, Napoleon also saw political ones. Venice was where the project became personal.
 
 The Republic of Venice was the oldest republic in the world and the most degraded. A thousand years of continuous existence had calcified into governance by a closed oligarchy that had not admitted new families since 1297. It was technically a republic and functionally a private estate belonging to families who had been governing it since the Middle Ages. Napoleon described it in correspondence as a republic that had forgotten what it was for.
 
