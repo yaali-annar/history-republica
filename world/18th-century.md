@@ -146,6 +146,20 @@ Its internal dynamics were not harmonious. Austria and Prussia had fought each o
 
 The League of Nations (as the Maritime League was beginning to call itself) was what they feared. Five republics in 1789 had become six. The rate of change was legible to anyone who could count.
 
+## The Atlantic Trade and the Guinea Coast, 1787–1800
+
+The Union of States had abolished hereditary bondage at its founding. Its two metropoles had not. English Caribbean and Guiana plantations, and the Dutch plantations of Suriname, still ran on enslaved labour in the 1780s, and English and Dutch ships still carried people across the Atlantic to supply them. The argument against the trade drew its force from the Union's example: a republic founded by English and Dutch colonists had managed without it, so the mother republics had no excuse.
+
+The English abolitionists around **Granville Sharp** acted first. In 1787 they founded the **Province of Freedom** at the Sierra Leone estuary on the Upper Guinea coast, settled by free Black Londoners and freed people from the English Caribbean. It was underfunded and badly sited and would probably have failed had the League not given it a purpose.
+
+The **Convention of The Hague** (1792) gave it one. France, newly republican and newly committed to recognising Saint-Domingue, pressed the League's members to end the carriage of enslaved people by their own ships and to treat the trade under any flag as piracy in waters under League jurisdiction. England and the Dutch Republic accepted. Ending the trade was easier than ending their own colonial slavery, which took several more decades. The Convention's real target was the one great carrier left in the Atlantic: the Iberian Empire, newly formed and newly hostile, building plantation economies in Brazil and Cuba that would absorb most of the trade for the next seventy years.
+
+Enforcement needed a base on the African coast. The English **West Africa Squadron** was stationed at Freetown from 1794. The people it freed from captured Iberian ships could not be returned to homes deep in the interior, and they were landed at Freetown instead. By 1800 these **Recaptives** already outnumbered the Province's founding settlers.
+
+Across the Atlantic a second movement was forming. The freed population of the Union's southern states had been free for a generation and was still shut out of the propertied franchise. A coalition of Black congregations, free Black merchants, the Society of Friends, and planters who wanted the freed population gone chartered the **African Settlement Society** in Philadelphia in 1799. Its first ships sailed for the Guinea coast five years later. See `factions/liberia.md`.
+
+---
+
 ## Napoleon and the Italian Question, 1793–1800
 
 Austria's position in northern Italy had never been accepted by the populations under it, and the French Republic's existence immediately changed the calculations of everyone living in its shadow. The Italian states (some nominally independent, some Habsburg dependencies, some old republics in various states of decay) looked at France and saw possibility.

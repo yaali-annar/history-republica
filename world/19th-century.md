@@ -18,6 +18,18 @@ The French Republic's adoption of the Republican Calendar (reorganising the week
 
 ---
 
+## The Guinea Coast, 1804–1847
+
+The African Settlement Society's first emigrants reached Cape Mesurado in 1804, carried by the ships of **Paul Cuffe**, a Black Quaker shipowner from Massachusetts. By 1808 they had founded a town and, over the mild objection of their Quaker sponsors, named it **Christopolis**. Two hundred miles up the coast, the Province of Freedom at Freetown was being transformed by the West Africa Squadron. Across the first half of the century some ninety thousand Recaptives were landed there, from dozens of nations across West and Central Africa. They became a new people, the **Krio**, with their own Creole English, their own churches, and from 1827 their own college at Fourah Bay.
+
+Between the two settlements lay the Gallinas coast, and on the Gallinas the Iberian slave trade had built its largest station on the Upper Guinea coast. After the Colonial Protocol of the 1820s, Iberia treated supplying its plantation economies as a Covenant obligation. The Gallinas barracoons, run by Iberian factors under the protection of an Iberian consul and backed from the Iberian post at Bissau, were how that obligation was met.
+
+In 1840 the Squadron burned them. Iberia answered with treaties placing the Gallinas under its protection and asked by what right the League had acted. The answer required a state, and neither settlement was one: Freetown was an English possession that did not include the Gallinas, and Christopolis belonged to a Philadelphia society. England released the Province of Freedom, the Union of States recognised the settlers' right to constitute themselves, and the Gallinas chiefs, who had lost their trade, negotiated terms. The **Republic of Liberia** was proclaimed at Christopolis in 1847 and admitted to the Maritime League the same year, the League's second African member after the Cape Republic and its first in West Africa.
+
+Its constitution copied the Union's, including the Union's property franchise. The settlers had been excluded by that franchise at home. Now it excluded the poorer Krio majority of Freetown and everyone in the interior, whose chiefdoms Liberia bound to itself by treaty on the model of the Union's Covenant Chain rather than governing. See `factions/liberia.md`.
+
+---
+
 ## Nitrates
 
 The natural sodium nitrate deposits of the Atacama Desert had been known since before European arrival. Indigenous peoples of the high desert had extracted saltpeter from the caliche (the rough mineral crust) for generations. The Spanish colonial administration noted the deposits without urgency. The uses were limited and the quantities required were small.
@@ -100,6 +112,24 @@ Iberia's leverage did not collapse overnight. The existing trade continued. The 
 
 ---
 
+## The African Scramble, 1874–1905
+
+The Covenant's colonial finances broke before its colonies did. Through the 1860s and 1870s, the Brazilian uprisings, the covert erosion of the nitrate trade, and the cost of holding an empire it could not staff left the Iberian treasury unable to pay its Covenant partners the revenue shares that the Colonial Protocol had promised them. What Iberia still had in abundance was land.
+
+The **Protocol Revision** of 1874 paid the debt in sovereignty. Prussia, whose settlers in the Pink Strip had never assimilated into Iberian colonial society and whose government had long resented administering territory under another crown's flag, received the right to hold colonies in its own name in African territory not already under Iberian administration. It took **Kamerun** on the Bight of Biafra in 1876, and in the following decade the East African interior north of Mozambique, surrounding the mainland coast of the League-aligned Sultanate of Zanzibar. Neither colony could be supplied without Iberian help. Prussia had no blue-water navy and passed the Danish straits by toll. Its colonies depended on Iberian ports at Fernando Pó and Mozambique and on Iberian ships. Austria, whose settlers were Catholic and at home under Iberian sovereignty, and whose interests lay in the Adriatic and the Balkans, sought no colonies of its own.
+
+Russia's African interest ran through the Red Sea. With the Bosphorus in Russian hands, a Russian presence at the Red Sea's southern mouth would put Russian ships at both ends of the route from the Black Sea to the Indian Ocean. Russia found its partner in **Ethiopia**, an Orthodox empire whose emperors were glad of a patron against Ottoman Egypt, and obtained a coaling station on the Gulf of Tadjoura in 1889. Ethiopia was never a Russian colony. It aligned with the Covenant by its own choice, as Korea had.
+
+Iberia itself expanded where it could still afford to. The Tetuan War of 1859 and 1860 had already given it the northern Moroccan coast facing Gibraltar, putting both shores of the strait under a single Covenant crown. Iberian governors at Bissau pushed inland toward the Futa Jallon, and Iberia claimed the Congo basin as the northern extension of the Pink Strip, although outside the river ports it governed almost none of it.
+
+The **Lisbon Conference** of 1884 set out the Covenant's rules for the division of Africa among its members. Its central doctrine was that territory not effectively administered by a recognised state was open to claim. The League rejected the doctrine. Its African policy was the Nusantara policy: treaties and leased ports rather than conquest, with recognised partners in the Asante, the Yoruba states, the Sokoto Caliphate, Zanzibar, and the kingdoms beyond the Cape, and support for Ottoman Egypt that kept the Suez passage out of Covenant hands. The Cape Republic carried the League's diplomacy in the south, bringing the Basotho and Swazi kingdoms into League membership in the 1880s. Liberia carried it in the west.
+
+Liberia paid for it. By its own constitutional theory, its interior Treaty Chiefdoms were sovereign allies, and a sovereign ally could sign an Iberian treaty. Under the Lisbon doctrine, a chiefdom Liberia did not govern was a chiefdom the Covenant could claim. Liberia chose to govern. The **Hinterland Ordinance** of 1896 brought the chiefdoms under the republic's jurisdiction and levied a hut tax to pay for it, and the **Hinterland War** of 1898 and 1899 followed, fought by Mende and Temne risings armed partly with Iberian rifles from Bissau. It ended in the **Bo Accord**, a negotiated settlement that kept the republic's jurisdiction and abolished the tax, and it left Liberia with a promise to the interior that it would take a generation to keep.
+
+By 1900 the Covenant held, on paper, close to half the continent: the Pink Strip and its Congo claims across the south and centre, Prussian Kamerun and the Gulf of Guinea islands on the equator, Prussian East Africa and allied Ethiopia in the east, and Bissau and northern Morocco in the northwest. It governed much less than it claimed, and all of it depended on Iberian shipping and Covenant money that would not survive 1905.
+
+---
+
 ## The Eastern Gambit
 
 Japan's Lords' War (the decade of internal conflict in the 1870s that resolved the constitutional question in favour of the Domain faction) produced a window that Russia calculated it could exploit. Japan was League-aligned but held no League membership. The distinction mattered. No treaty obligation required the League to intervene on its behalf, and the League would not go to war for a non-member partner that had not requested incorporation.
@@ -145,6 +175,8 @@ The century ended there, in practice, though the calendar still had five years l
 ## TODO
 
 - Brazil's eventual path to independence (post-John Brown, post-1905)
+- Africa after the Lisbon Conference: the Futa Jallon, the Samori-era states, Sokoto, and Asante as League partners, and how far Iberia's push inland from Bissau actually reached
+- Ethiopia's relationship with Russia: terms of the alignment, and whether Ethiopia ever formally joined the Covenant as an associate
 - Las Malvinas: first appearances and the origin of the annoyance
 - Iberia's fragmentation: timeline and constituent parts
 - The Northern Realm's role in 19th-century reform diplomacy (Ottoman, Persian, Japanese)

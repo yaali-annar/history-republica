@@ -121,3 +121,18 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 - [x] After spelling decision on Nouvelle Gaule, update CLAUDE.md accordingly. Done.
 - [ ] Consider adding a note on the Covenant's formation (post-1789) to the World Structure section.
 - [x] Ireland joining the UN: timing settled (1700) and added to CLAUDE.md.
+
+---
+
+## Africa
+
+- [x] **Liberia founding and federation**: Settled. Province of Freedom (1787), Christopolis (1804-1808), Gallinas Question, federation and League admission 1847. See `factions/liberia.md`.
+- [x] **Covenant Africa**: Settled in outline. Iberian holdings, Protocol Revision (1874) giving Prussia Kamerun and East Africa, Russian alignment with Ethiopia, Lisbon Conference (1884).
+- [ ] **Liberia's first President** (1847): name and biography stub.
+- [ ] **Hinterland War leadership**: the principal Mende or Temne paramount chief behind the Bo Accord.
+- [ ] **English colonial abolition**: England accepted the Convention of The Hague (1792) but abolished slavery in its Caribbean and Guiana colonies later. Settle the date, alongside the Guyanas abolition timeline.
+- [ ] **West African League partners**: Asante, the Yoruba states, Sokoto, the Futa Jallon. How each relates to the League and to Liberia through the nineteenth century, and what they are in 2000.
+- [ ] **Prussian Africa after 1905**: the Kamerun and East African transitional commissions, when the successor states became independent, and in what form.
+- [ ] **Ethiopia**: terms of its alignment with Russia, and its route into the League after 1905.
+- [ ] **Northern Morocco and Bissau** after the Iberian withdrawal.
+- [ ] **Congo basin**: how much remains ungoverned in 2000.
