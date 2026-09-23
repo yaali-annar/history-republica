@@ -104,6 +104,8 @@ The federal head of government is the Governor of the Federal Republic, elected 
 
 The Federal Republic of Ayiti applied for League of Nations membership in 1906, following the collapse of the Covenant after Russia's defeat by Japan. The Iberian Empire, whose founding grievance had involved Santo Domingo and whose influence had kept Ayiti outside the League for over a century, was in no position to object. Ayiti's was, among the League's American members, the singular case. Every other republic in the hemisphere had been admitted on ordinary republican credentials in due course, while Ayiti alone carried a specific diplomatic liability, the killing of a Spanish governor in the founding crisis, that made the League genuinely reluctant to formalise what it had, in practice, been quietly supporting since the 1790s.
 
+Until then Ayiti held the standing the League gave to states it would support but not seat: that of a **client**, the same standing as the Ottoman Empire and Persia. A client was traded with, advised, and in practice protected. It had no delegation at the Council and no vote in the General Congress. That a republic founded on abolition sat in the same category as two monarchies was an anomaly that nobody in Port-au-Prince needed explained. Ayitian statesmen understood exactly why their republic was a client, and conducted its foreign policy for a century on that understanding.
+
 The admission formalities were conducted with some ceremony. The League, which had been providing covert support to Saint-Domingue since the 1790s, preferred to treat the membership as a straightforward new application rather than the conclusion of a long prior relationship. Ayiti was content to let it be treated that way.
 
 ---
