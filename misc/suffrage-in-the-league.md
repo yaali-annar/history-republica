@@ -20,6 +20,10 @@ No two League founders answered the franchise question the same way, and the dif
 
 The Meuse model did not stay in Meuse. Dutch guild representatives in the newly admitted Flemish and Brabantine cities pushed franchise reforms that subsequently spread to the older Dutch provinces. French Enlightenment visitors to Liège carried the underlying principle (earned participation rather than inherited or purchased participation) back to Paris, where it surfaced first as the business-ownership franchise and later, more fully, as the Brevet Civique. Of the League's founding members, only England's franchise developed with no discernible debt to Liège's example, and English constitutional writers of the eighteenth century said so themselves, usually while arguing against adopting it.
 
+## A Later Answer
+
+The founders' four answers were not the only ones. **Liberia** (admitted 1847) asked *what you have given*. Its founders had left the Union of States because its property qualification excluded them, and they built the **service franchise** instead: three years' residence, a term of militia service or public labour, and the ability to read the Constitution. It owed its logic to Meuse and its occasion to the Union's exclusions, and it enfranchised settlers and freed Recaptives alike within three years of arrival. See `factions/liberia.md`.
+
 ## The Long Widening
 
 By the middle of the nineteenth century, every League founder had extended its franchise well past its founding terms, and by the early decades of the twentieth, all had reached universal suffrage. The path each state took to get there, however, ran through a common obstacle, and it was not the one an outside observer familiar only with the founding terms might expect.
