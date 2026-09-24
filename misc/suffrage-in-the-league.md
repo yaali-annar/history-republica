@@ -22,7 +22,7 @@ The Meuse model did not stay in Meuse. Dutch guild representatives in the newly 
 
 ## A Later Answer
 
-The founders' four answers were not the only ones. **Liberia** (admitted 1847) asked *what you have given*. Its founders had left the Union of States because its property qualification excluded them, and they built the **service franchise** instead: three years' residence, a term of militia service or public labour, and the ability to read the Constitution. It owed its logic to Meuse and its occasion to the Union's exclusions, and it enfranchised settlers and freed Recaptives alike within three years of arrival. See `factions/liberia.md`.
+The founders' four answers were not the only ones. **Liberia** (admitted 1847) asked *what you have given*. Its founders had left the Union of States because its property qualification excluded them, and they built the **service franchise** instead: three years' residence, a term of militia service or public labour, and the ability to read the Constitution. It owed its logic to Meuse and its occasion to the Union's exclusions, and it enfranchised settlers and freed Recaptives alike within three years of arrival. Because the usual service for men was a year in the militia, it also gave an unconscripted republic a reserve that included most of its adult men. See `factions/liberia.md`.
 
 ## The Long Widening
 
