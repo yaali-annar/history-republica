@@ -18,7 +18,7 @@ Liberia is a federal republic on the Upper Guinea coast of West Africa, stretchi
 
 It began as a joint enterprise of the English Republic and the Union of States, the **Sierra Leone Company**, and its first citizens came from three directions. Free Black emigrants from the Union settled at Freetown and Cape Mesurado. People freed by the League's anti-slaving squadron from captured Iberian ships were landed at Freetown. The peoples of the coast and forest had lived there for centuries before either group arrived.
 
-Liberia in 2000 is stable and moderately prosperous. Its elected Congress is dominated by representatives from the interior provinces, and a Council of Chiefs sits alongside it. It has never been conquered, and it has never had a coup.
+Liberia in 2000 is stable and moderately prosperous. Its elected Congress is dominated by representatives from the interior provinces, a Council of Chiefs sits alongside it, and the interior chiefdoms govern themselves under their own customary law. It has never been conquered, and it has never had a coup.
 
 ---
 
@@ -72,7 +72,7 @@ The Constitution of 1847 was drafted at Christopolis by Settler delegates and wa
 
 The Settlers had left the Union because its property qualification shut them out, and they would not write one of their own. The Krio, who had arrived with even less, would not have accepted one. The convention looked instead to the League's other answers to the franchise question, above all to the Republic of Meuse, whose guild franchise asked what a citizen did rather than what he owned. The **service franchise** of 1847 gave the vote to any adult resident of the republic who had lived in it for three years, had completed a term of service to the commonwealth (a year in the militia, or sixty days of labour on the roads, harbours, and defences), and could read the Constitution. Property counted for nothing. A Recaptive landed at Freetown with nothing but the clothes the Squadron had issued could qualify within three years.
 
-The franchise stopped at the republic's borders. The Treaty Chiefdoms of the interior were allies, not part of the republic, and their peoples were not its residents. The service franchise enfranchised nearly every adult on the coast and none of the far larger population inland.
+The franchise stopped at the republic's borders. The Treaty Chiefdoms of the interior were allies, not part of the republic, and their peoples were not its residents. The service franchise enfranchised nearly every adult on the coast and none of the far larger population inland, and neither side wanted it otherwise.
 
 The Krio of Freetown outnumbered the Settlers, and under the service franchise they outvoted them in the House. The capital stayed at Christopolis, where the convention had sat, and the two coastal communities settled into a rivalry conducted through Congress rather than over the franchise. The rivalry between the two capitals has outlasted every constitutional reform since. Freetown has the harbour, the League naval station, and Fourah Bay. Christopolis has Congress and **Liberia College** (1862).
 
@@ -84,7 +84,7 @@ The Union of States had never governed the Haudenosaunee. It had renewed the Cov
 
 For half a century the arrangement held. The chiefdoms kept their autonomy, the republic kept its trade routes, and the Muslim Mandinka and Fula merchants who carried the interior's commerce moved between them under the protection of both.
 
-The peoples of the Treaty Chiefdoms were free and protected, but they had no part in the republic's civic life.
+The exclusion suited the chiefdoms. To a Mende or Temne paramount chief, a Settler was an English-speaking Christian from across the ocean, and a Recaptive was a Yoruba or Igbo stranger from a thousand miles east who had taken the Settlers' religion and learned their language. That they shared the chiefs' colour did not make them less foreign. The chiefdoms wanted the republic's trade and its guns against their enemies. They did not want its laws, its churches, or its citizenship, and the treaties were written so that they did not have to take them.
 
 ### The Vai Franchise Case
 
@@ -114,7 +114,7 @@ Some did. Through the late 1880s and 1890s a belt of chiefdoms on the northern m
 
 The **Hinterland War** began in 1898, when the Iberian-aligned chiefdoms attacked the Krio trading posts on the Rokel and Scarcies rivers and then moved south against the Mende and Temne chiefdoms that had kept faith with their Liberian treaties. The aim, as Iberian correspondence later made plain, was to create an interior that Liberia visibly did not control, and so a claim under the Lisbon doctrine. The war was fought as much between interior chiefdoms as between the interior and the coast. The Mende heartland and most of the Temne chiefdoms fought alongside the Liberian Frontier Force, and it was their levies, not the Frontier Force, that broke the northern alliance in 1899. It remains the only war fought on Liberian soil.
 
-It ended in the **Bo Accord** of 1899. The chiefs who had carried the fighting concluded that the treaty model could not survive the Lisbon doctrine: a chiefdom Liberia did not govern was a chiefdom Iberia would keep trying to claim. They agreed to bring the interior under the republic's jurisdiction, keeping their own courts and customary law, in return for joint defence and a promise of representation in the republic's government "when the provinces are prepared for it." The **Hinterland Ordinance** of 1900 put the Accord into law. The defeated northern chiefdoms were brought under it on the same terms, at their neighbours' insistence.
+It ended in the **Bo Accord** of 1899. The chiefs who had carried the fighting concluded that the treaty model could not survive the Lisbon doctrine: a chiefdom Liberia did not govern was a chiefdom Iberia would keep trying to claim. They agreed to bring the interior under the republic's jurisdiction, but only as far as defence and foreign relations required. The chiefdoms kept their own courts, their own customary law, and their own government, in return for joint defence and a promise of representation in the republic's government "when the provinces are prepared for it." The **Hinterland Ordinance** of 1900 put the Accord into law. The defeated northern chiefdoms were brought under it on the same terms, at their neighbours' insistence.
 
 The promise of representation was not kept until 1931.
 
@@ -124,7 +124,7 @@ The promise of representation was not kept until 1931.
 
 The Covenant's collapse in 1905 ended the external threat that had driven Liberia inland. Iberian Bissau lost its garrison and then its governor. Prussian Kamerun, cut off from Iberian shipping, was placed under a League transitional commission in which Liberian civil servants, Krio administrators from Freetown above all, played a leading part.
 
-It also ended the argument that the interior had to wait. The Bo Accord's promise could no longer be deferred on grounds of security, and the Mende and Temne chiefs, whose sons had now been educated at Fourah Bay and in Ayiti, said so. The **Constitution of 1931** admitted six **Hinterland Provinces** as constituent states on equal terms with the coastal three, extended the service franchise to the interior, and created the **Council of Chiefs**. Universal suffrage followed in 1946.
+It also ended the argument that the interior had to wait. The Bo Accord's promise could no longer be deferred on grounds of security, and the Mende and Temne chiefs, whose sons had now been educated at Fourah Bay and in Ayiti, said so. What they asked for was not assimilation but a guarantee: representation strong enough to protect the chiefdoms' autonomy from the coast. The **Constitution of 1931** admitted six **Hinterland Provinces** as constituent states on equal terms with the coastal three, made the chiefdoms the self-governing units within them, extended the service franchise to the interior, and created the **Council of Chiefs**. Universal suffrage followed in 1946.
 
 The twentieth-century economy was built on the interior: rubber from a Philadelphia company's concession of 1926, diamonds from the Kono fields from the 1930s, and iron ore from the Nimba range from the 1950s. The diamonds brought the republic's worst corruption crisis, a smuggling network of the 1960s and 1970s that ran money into the Soledad Box. It ended with prosecutions and the **Diamond Accord** of 1978, under which the League audits the Kono revenues annually at Liberia's own request.
 
@@ -139,6 +139,12 @@ The President of Liberia is elected by Congress sitting in joint session for a s
 ### Congress
 
 Congress has two houses. The **House of Representatives** is apportioned by population, and since 1946 has had a permanent majority from the Hinterland Provinces. The **Senate** gives each of the nine constituent states three senators regardless of population, which gives the three coastal states a weight in the Senate well beyond their share of the electorate.
+
+### The Chiefdoms
+
+The chiefdoms of the six Hinterland Provinces are self-governing. Each is headed by a paramount chief chosen by its own customary procedures, keeps its own courts, and governs land, marriage, inheritance, and local disputes under its own customary law. The Poro and Sande societies retain their recognised place in chiefdom life. The provinces handle what lies between the chiefdom and the republic: roads, schools, and the collection of federal revenue. The republic handles defence, foreign relations, currency, and the federal courts.
+
+The Constitution sets the limits of customary law. Its **Declaration of Rights** binds every chiefdom court. Pawning for debt, trial by ordeal, and forced marriage are prohibited. Any person may appeal from a chiefdom court to the federal courts on a question of constitutional right, and a person who leaves a chiefdom for the coast is governed by federal law. The boundary between the Declaration and customary law is the most frequently litigated question in Liberian constitutional law.
 
 ### The Council of Chiefs
 
@@ -160,7 +166,7 @@ The descendants of the Recaptives and of the Province of Freedom's first London 
 
 ### The Peoples of the Interior
 
-The great majority of Liberians belong to the peoples of the former Treaty Chiefdoms. The Mende and the Temne are the largest groups, followed by the Kpelle, the Limba, the Loma, the Kissi, the Gola, and many smaller nations. The Vai of the Gallinas coast and the Mandinka and Fula communities of the interior towns are predominantly Muslim, and Islam is the faith of roughly a third of the republic's population. The **Kru** and **Grebo** of the southern coast are counted among the interior peoples for constitutional purposes.
+The great majority of Liberians belong to the peoples of the former Treaty Chiefdoms, and most of them live under chiefdom government and customary law. Many identify first with their chiefdom and people and only second with the republic. The Mende and the Temne are the largest groups, followed by the Kpelle, the Limba, the Loma, the Kissi, the Gola, and many smaller nations. The Vai of the Gallinas coast and the Mandinka and Fula communities of the interior towns are predominantly Muslim, and Islam is the faith of roughly a third of the republic's population. The **Kru** and **Grebo** of the southern coast are counted among the interior peoples for constitutional purposes.
 
 ### Liberia and Ayiti
 
