@@ -61,7 +61,7 @@ The United Nations of Great Britain and Ireland (known informally as "the UN") i
 
 England holds permanent chairmanship of the Council. In the original England-Scotland arrangement, this chairmanship carried real asymmetric weight: England set the terms and Scotland largely followed, the price of the smaller party's security guarantee.
 
-Ireland's accession in the early 18th century changed the constitutional character of the body. A three-party arrangement with permanent English dominance would have left Scotland and Ireland perpetually outvotable. The **Act of Union, 1707** (named with some irony given what that phrase means in another history) renegotiated the settlement: the body was renamed the United Nations of Great Britain and Ireland, the secretariat moved from London to **Berwick**, unanimity was required for major decisions (giving each nation a veto), and simple majority was established for routine business. England retained the chairmanship.
+Ireland's accession in the early 18th century changed the constitutional character of the body. A three-party arrangement with permanent English dominance would have left Scotland and Ireland perpetually outvotable. The **Act of Union, 1707** renegotiated the settlement: the body was renamed the United Nations of Great Britain and Ireland, the secretariat moved from London to **Berwick**, unanimity was required for major decisions (giving each nation a veto), and simple majority was established for routine business. England retained the chairmanship.
 
 Informally, all three nations call it "the UN." English members occasionally say "Britain" when speaking loosely. Irish members do not.
 

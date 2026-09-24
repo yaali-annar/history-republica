@@ -12,7 +12,7 @@ Jean-Baptiste Bernadotte is the most unusual figure of the republican era: a Fre
 
 ## The Rhine Campaign
 
-Bernadotte rose through the French Republic's army in the Rhine theater: the northern front where the work was unglamorous, the press of Covenant forces persistent, and the Republic of Rhine sat surrounded on three sides with no realistic prospect of relief except from the League. He commanded there through the early years of the nineteenth century, steady and methodical in a role that drew less attention than the Italian campaign but held a more precarious line.
+Bernadotte rose through the French Republic's army in the Rhine theater: the northern front where the work was unglamorous, the press of Prussian and Austrian forces persistent, and the Republic of Rhine sat surrounded on three sides with no realistic prospect of relief except from the League. He commanded there through the early years of the nineteenth century, steady and methodical in a role that drew less attention than the Italian campaign but held a more precarious line.
 
 His reputation was made not by a battle but by a practice. Prussian soldiers captured along the Rhine returned home reporting treatment that their own commanders rarely extended to the enemy: properly fed, properly housed, released under parole without abuse. The reports were consistent enough, and unusual enough, that they traveled further than any dispatch. By the time the Rhine campaigns wound down, Bernadotte was known across the line between the blocs.
 
