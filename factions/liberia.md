@@ -2,7 +2,7 @@
 
 **Official name**: The Republic of Liberia  
 **Capital**: Christopolis  
-**Founded**: 1847 (federation of the Province of Freedom and the Mesurado settlements)  
+**Founded**: 1847 (from the settlements of the Sierra Leone Company, chartered jointly by the English Republic and the Union of States)  
 **Head of Government**: President of Liberia, elected by Congress for a fixed term  
 **League membership**: Maritime League (1847), League of Nations (successor membership)
 
@@ -16,7 +16,7 @@
 
 Liberia is a federal republic on the Upper Guinea coast of West Africa, stretching from the Freetown peninsula in the north to the Grebo coast at Cape Palmas in the south, and inland across the forest belt to the edge of the Futa Jallon highlands. With the Cape Republic at the continent's southern tip, it is one of the two republics through which the League has held its place in Africa. Its settlements predate the Covenant, and for most of the nineteenth century it was the League's only substantial presence on a coast where the Iberian Empire held territory on both flanks.
 
-Its first citizens came from three directions. Free Black emigrants from the Union of States settled at Cape Mesurado. People freed by the League's anti-slaving squadron from captured Iberian ships were landed at Freetown. The peoples of the coast and forest had lived there for centuries before either group arrived.
+It began as a joint enterprise of the English Republic and the Union of States, the **Sierra Leone Company**, and its first citizens came from three directions. Free Black emigrants from the Union settled at Freetown and Cape Mesurado. People freed by the League's anti-slaving squadron from captured Iberian ships were landed at Freetown. The peoples of the coast and forest had lived there for centuries before either group arrived.
 
 Liberia in 2000 is stable and moderately prosperous. Its elected Congress is dominated by representatives from the interior provinces, and a Council of Chiefs sits alongside it. It has never been conquered, and it has never had a coup.
 
@@ -28,25 +28,23 @@ The founding document of the Union of States abolished permanent hereditary bond
 
 The idea of emigration to Africa gathered two constituencies that agreed on almost nothing else. The first was Black-led: congregations of Black Methodists and Baptists in the southern port cities, and a small class of free Black merchants and mariners in the north, who argued that a people shut out of one republic could found another. The second was a portion of the southern planter interest, which had lost its slaves in 1763 and would have preferred to lose the freed population as well. The Society of Friends financed the project regardless.
 
-The **African Settlement Society**, chartered in Philadelphia in 1799, held the coalition together.
-
-The man who made the project practical was **Paul Cuffe**, a Black shipowner of Wampanoag and African descent from Massachusetts, raised among the Friends. His voyages of 1804 to 1808 carried the first emigrant families to the Upper Guinea coast, negotiated land at Cape Mesurado from the Dei and Bassa chiefs of the region, and established the settlement that its first residents named **Christopolis**.
-
-The name was the settlers' choice, not the Society's. Cuffe's Quaker sponsors in Philadelphia had proposed something plainer, and the Friends were uncomfortable with a town named for Christ in the way they were uncomfortable with steeple-houses and titles of honour. The settlers were Methodists and Baptists who had just crossed an ocean to reach a promised land, and the Friends declined to press the point. The republic's later name, **Liberia**, was the compromise both traditions could accept.
+In England the argument ran the other way. The English Republic's Caribbean and Guiana colonies still held enslaved people, and its merchant fleet was still a carrier in the Atlantic trade. Abolitionists such as **Granville Sharp** argued from the Union's example: if a republic founded by English colonists could abolish hereditary bondage at its birth, the mother republic had no excuse. In 1787 Sharp's circle founded the **Province of Freedom** at the Sierra Leone estuary, settled by free Black Londoners and freed people from the English Caribbean. It had money and friends in Parliament and very few settlers.
 
 ---
 
-## The Province of Freedom
+## The Sierra Leone Company
 
-The English settlement at Freetown was older, and it began for different reasons.
+The two movements needed each other. London had capital and the navy. Philadelphia had the emigrants. The Friends' meetings on both sides of the Atlantic had corresponded for a century, and the English and Union abolitionists already knew one another. In 1791 the Province of Freedom was reconstituted as the **Sierra Leone Company**, chartered jointly by the English Parliament and the Union Congress, with a board in London and a board in Philadelphia. It was the kind of arrangement the Union had grown up with. The Union's own colonies had been fused by joint customs and a combined payment to two metropoles, and neither sponsor saw anything unusual in governing an African settlement from two capitals.
 
-The English Republic's Caribbean and Guiana colonies still held enslaved people in the late eighteenth century, and its merchant fleet was still a carrier in the Atlantic trade. English abolitionists such as **Granville Sharp** argued from the Union's example: if a republic founded by English colonists could abolish hereditary bondage at its birth, the mother republic had no excuse. The **Province of Freedom** was founded at the Sierra Leone estuary in 1787 by Sharp's circle, settled by free Black Londoners and freed people from the English Caribbean, and governed at first by a chartered company.
+The first Union emigrants reached Freetown in 1792. The **Convention of The Hague** of the same year committed the members of the Maritime League to end the slave trade by their own ships and to treat it as piracy in League waters. In practice it was aimed at the one great carrier left: the Iberian Empire, then building the Brazilian and Cuban plantation economies that would absorb most of the Atlantic trade for the next seventy years. See `world/18th-century.md`.
 
-The **Convention of The Hague** (1792) committed the members of the Maritime League to end the slave trade by their own ships and to treat it as piracy in League waters. In practice it was aimed at the one great carrier left: the Iberian Empire, then building the Brazilian and Cuban plantation economies that would absorb most of the Atlantic trade for the next seventy years. See `world/18th-century.md`.
-
-Enforcing the Convention required a base on the African coast, and Freetown had the best natural harbour between the Gambia and the Gold Coast. The **West Africa Squadron**, English at first and later a joint League command with Dutch, Union, and French vessels, was stationed there from 1794. Its ships intercepted Iberian slavers along the coast. The people it freed could not be returned to homes hundreds of miles inland from which they had been taken, and most were landed at Freetown.
+Enforcing the Convention required a base on the African coast, and Freetown had the best natural harbour between the Gambia and the Gold Coast. The **West Africa Squadron**, a joint English and Union command from its foundation and later joined by Dutch and French vessels, was stationed there from 1794. Its ships intercepted Iberian slavers along the coast. The people it freed could not be returned to homes hundreds of miles inland from which they had been taken, and most were landed at Freetown.
 
 These **Recaptives** transformed the Province of Freedom. Across the following six decades roughly ninety thousand people were landed there: Yoruba, Igbo, Hausa, Kongo, and people from dozens of other nations, sharing nothing but the ship that had carried them. Settled in villages on the peninsula and taught in mission schools, within two generations they had become a people of their own: the **Krio**, speaking a Creole English rich in Yoruba, trading along the whole West African coast, and educating their children at **Fourah Bay College** (1827).
+
+By the late 1790s Recaptive villages filled the peninsula, and the Philadelphia board wanted land for the emigrants still to come. The **African Settlement Society**, chartered in Philadelphia in 1799, became the company's recruiting arm in the Union. Its emigrants were carried by **Paul Cuffe**, a Black shipowner of Wampanoag and African descent from Massachusetts, raised among the Friends. His voyages of 1804 to 1808 negotiated land at Cape Mesurado from the Dei and Bassa chiefs and founded the company's second settlement, which its first residents named **Christopolis**.
+
+The name was the settlers' choice, not the company's. The Quaker members of the Philadelphia board had proposed something plainer, and the Friends were uncomfortable with a town named for Christ in the way they were uncomfortable with steeple-houses and titles of honour. The settlers were Methodists and Baptists who had just crossed an ocean to reach a promised land, and the Friends declined to press the point. The republic's later name, **Liberia**, was the compromise both traditions could accept.
 
 The Squadron's other legacy was the **Kru**. The Kru of the southern coast had been seafarers before any European ship arrived. They became the Squadron's indispensable crews and pilots, then the crews of League merchant ships across the Atlantic, on their own terms.
 
@@ -56,19 +54,19 @@ The Squadron's other legacy was the **Kru**. The Kru of the southern coast had b
 
 Between Freetown and Christopolis lay the Gallinas coast: a stretch of lagoons and river mouths, invisible from the sea, which by the 1820s was the largest slave-trading station on the Upper Guinea coast. Its barracoons were run by Iberian factors, the most notorious of them **Pedro Blanco**, with the support of Gallinas chiefs who profited from the trade and the backing of the Iberian governor at Bissau. After the Colonial Protocol of the 1820s, Iberia treated supplying its plantation economies as a Covenant obligation, and the Gallinas was how it met that obligation.
 
-The Squadron's captains wanted to go in and burn it. They were not permitted to. The Convention made the trade piracy at sea. It gave no right to land on a coast whose chiefs were sovereign and had signed nothing with anyone. The English Republic's African policy rested on the same principle as its Asian one: the League traded and treated but did not take land. From 1839 the Squadron did what the law allowed: it stationed ships off the Gallinas bar and took every slaver that crossed it.
+The Squadron's captains wanted to go in and burn it. They were not permitted to. The Convention made the trade piracy at sea. It gave no right to land on a coast whose chiefs were sovereign and had signed nothing with anyone. The company's sponsors applied the League's principle in Africa as in Asia: the League traded and treated but did not take land. From 1839 the Squadron did what the law allowed: it stationed ships off the Gallinas bar and took every slaver that crossed it.
 
 Iberia escalated. It produced treaties, signed by Gallinas chiefs, placing the coast under Iberian protection. Then, in 1842, it sent warships from Bissau to escort the slavers out. It was the first time a Covenant navy had escorted the trade against a League squadron. Liberian historians date the long Iberian hostility on the Guinea coast from that year.
 
-The question was now a legal one. The Province of Freedom was an English possession, but the Gallinas lay outside it. Christopolis was not a state at all, only a settlement belonging to a Philadelphia society. If the coast between the two settlements was not a state's, Iberia's treaties would do, and a Covenant protectorate on the Gallinas would divide the League's two West African footholds permanently. Only a state could sign competing treaties with the Gallinas chiefs, and only a state could close the barracoons by law.
+The question was now a legal one. The company held Freetown and Christopolis by purchase and treaty, and neither England nor the Union had ever claimed sovereignty over them. A chartered company could not answer a sovereign's treaties. If the coast between the two settlements was not a state's, Iberia's treaties would do, and a Covenant protectorate on the Gallinas would divide the League's two West African footholds permanently. Only a state could sign competing treaties with the Gallinas chiefs, and only a state could close the barracoons by law.
 
-The answer was federation. The English Republic, which had been paying for the Province of Freedom for half a century and had no appetite for a colonial war on the Guinea coast, agreed to release it on the model it had already applied to the Union of States and that the Dutch Republic had applied to the Cape. The Union of States, whose citizens had founded Christopolis but whose government had carefully never claimed it, recognised the settlers' right to constitute a state. The Gallinas chiefs had found that Iberian protection brought escorts for the factors' ships and nothing for themselves, and they negotiated terms. The **Constitution of Liberia** was proclaimed at Christopolis on 26 July 1847. The Maritime League admitted the new republic in the same year, on the sponsorship of England and the Union of States. The republic's first statute closed the Gallinas barracoons, and the Iberian factors left under the escort of the same warships that had been protecting them.
+The answer was a republic. The company's two boards agreed to wind up the charter and constitute its settlements as a sovereign state, on the model the English Republic had applied to the Union itself in 1763 and the Dutch Republic had applied to the Cape in 1784. London and Philadelphia negotiated the terms together, as they had governed the company together. The Gallinas chiefs had found that Iberian protection brought escorts for the factors' ships and nothing for themselves, and they negotiated terms. The **Constitution of Liberia** was proclaimed at Christopolis on 26 July 1847. The Maritime League admitted the new republic in the same year, on the joint sponsorship of England and the Union of States. The republic's first statute closed the Gallinas barracoons, and the Iberian factors left under the escort of the same warships that had been protecting them.
 
 ---
 
 ## A Republic on the Coast
 
-The Constitution of 1847 was, in almost every clause, the Union of States' constitution adapted to a smaller country. It created a Congress of two houses, a President elected by that Congress for a fixed term, and a federal division between three constituent states: the Province of Freedom, Mesurado, and the Gallinas. It placed the capital at Christopolis. And it adopted the Union's franchise, which is to say a property qualification.
+The Constitution of 1847 was drafted at Christopolis by Settler delegates and was, in almost every clause, the Union of States' constitution adapted to a smaller country. It created a Congress of two houses, a President elected by that Congress for a fixed term, and a federal division between three constituent states: the Province of Freedom, Mesurado, and the Gallinas. It placed the capital at Christopolis. And it adopted the Union's franchise, which is to say a property qualification.
 
 The Settlers who drafted it had left a republic whose property qualification had excluded them. They wrote the same qualification into their own constitution, because it was the only republican government they had known. Its effect was to exclude the Krio majority of the Province of Freedom, most of whom were poorer than the Settler families of Christopolis, and almost everyone who lived outside the coastal towns.
 
@@ -154,7 +152,7 @@ The descendants of the emigrants from the Union of States call themselves Settle
 
 ### The Krio
 
-The descendants of the Recaptives and of the Province of Freedom's first settlers are the Krio, about eight percent of the population, concentrated in Freetown and the peninsula villages. Krio, their language, is the republic's common tongue: spoken as a first language by the Krio and as a second by most Liberians of every other community, it is the language of the markets, of popular music, and increasingly of the national press. The Krio have been, for most of the republic's history, its traders, clerks, lawyers, and civil servants.
+The descendants of the Recaptives and of the Province of Freedom's first London settlers are the Krio, about eight percent of the population, concentrated in Freetown and the peninsula villages. Krio, their language, is the republic's common tongue: spoken as a first language by the Krio and as a second by most Liberians of every other community, it is the language of the markets, of popular music, and increasingly of the national press. The Krio have been, for most of the republic's history, its traders, clerks, lawyers, and civil servants.
 
 ### The Peoples of the Interior
 
@@ -172,7 +170,7 @@ Liberia was the League's second African member, after the Cape Republic, and rem
 
 In 2000 Liberia is a mid-sized League member. Freetown remains the League's principal naval station in West Africa, and the Kru mariners' tradition has made Liberia one of the League's larger seafaring nations. Its relationship with the Cape Republic, the League's other African foothold, is close.
 
-The English Republic, which released the Province of Freedom in 1847, is Liberia's largest trading partner. The Union of States, whose citizens founded Christopolis, is its oldest partner, though the Philadelphia rubber concession has been a recurring source of friction.
+The English Republic is Liberia's largest trading partner. The Union of States, whose emigrants founded Christopolis, is its oldest partner, though the Philadelphia rubber concession has been a recurring source of friction.
 
 ---
 

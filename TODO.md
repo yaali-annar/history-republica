@@ -126,7 +126,7 @@ Items to pick up in future sessions, grouped by area. Add notes as things are se
 
 ## Africa
 
-- [x] **Liberia founding and federation**: Settled. Province of Freedom (1787), Christopolis (1804-1808), Gallinas Question, federation and League admission 1847. See `factions/liberia.md`.
+- [x] **Liberia founding and federation**: Settled. Province of Freedom (1787), joint Sierra Leone Company (1791), Christopolis (1804-1808), Gallinas Question, statehood and League admission 1847. See `factions/liberia.md`.
 - [x] **Covenant Africa**: Settled in outline. Iberian holdings, Protocol Revision (1874) giving Prussia Kamerun and East Africa, Russian alignment with Ethiopia, Lisbon Conference (1884).
 - [ ] **Liberia's first President** (1847): name and biography stub.
 - [ ] **Hinterland War leadership**: the principal Mende or Temne paramount chief behind the Bo Accord.
